@@ -1,0 +1,2418 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a8c6159e3676000ac41bd5fb367d42fc",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "4326f57e7701e28f00d5e19081ad465f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7932e2fc2ff769d158a51211245db8b6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e149e39e84003c25e8a10170edd4e2be",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "aa0b33fea611b86d44a0e9e863a72bbb",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "23d51490564f5d15509c2f810877dbab",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84d6154d-4241-556c-a679-cc8339cac100": {
+      "resolve": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/node_modules/gatsby-plugin-sharp",
+      "id": "84d6154d-4241-556c-a679-cc8339cac100",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.10",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.1.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d3eebd1d3dce256f731cc0ac227b6bc9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "2847462d-e980-51b8-b45c-46ddefda4060": {
+      "resolve": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/node_modules/gatsby-remark-images",
+      "id": "2847462d-e980-51b8-b45c-46ddefda4060",
+      "name": "gatsby-remark-images",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": [],
+        "maxWidth": 1000,
+        "linkImagesToOriginal": false,
+        "backgroundColor": "transparent",
+        "wrapperStyle": "",
+        "showCaptions": false,
+        "pathPrefix": "",
+        "withWebp": false
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "markdown",
+          "remark",
+          "responsive images"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit-parents",
+            "version": "^2.0.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.5"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b47539947a6563307818a15305a4af44",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "27afd743f39093b97409d09a985e7986",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija",
+      "packageJson": {
+        "name": "gatsby-starter-hello-world",
+        "description": "Gatsby hello world starter",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "classnames",
+            "version": "^2.2.6"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.34"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.10"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.6"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.1.11"
+          },
+          {
+            "name": "react",
+            "version": "^16.5.1"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.5.1"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "rimraf",
+            "version": "^2.6.2"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8ce68b43ab947f526f062d4d6a175a21",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "",
+        "description": ""
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-02-14T10:41:58.265Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "4acb9fb3537e61732817bcc7ce19cd83",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "56d02f12-cdb0-5adf-a5b7-1a16b7e3f14e": {
+      "resolve": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/node_modules/gatsby-source-filesystem",
+      "id": "56d02f12-cdb0-5adf-a5b7-1a16b7e3f14e",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.6",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "C:\\Users\\PC\\Desktop\\CagaljSaSataZadnjaVerzija/content/posts",
+        "name": "posts"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.6",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a0902ae85e7ad66124af8cc8c065b956",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "4c2e06ab-0b54-56b9-8818-0df805128e58": {
+      "resolve": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/node_modules/gatsby-transformer-remark",
+      "id": "4c2e06ab-0b54-56b9-8818-0df805128e58",
+      "name": "gatsby-transformer-remark",
+      "version": "2.1.11",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/node_modules/gatsby-remark-images",
+            "id": "2847462d-e980-51b8-b45c-46ddefda4060",
+            "name": "gatsby-remark-images",
+            "version": "2.0.5",
+            "pluginOptions": {
+              "$ref": "$[\"nodes\"][\"2847462d-e980-51b8-b45c-46ddefda4060\"][\"pluginOptions\"]"
+            },
+            "nodeAPIs": {
+              "$ref": "$[\"nodes\"][\"2847462d-e980-51b8-b45c-46ddefda4060\"][\"nodeAPIs\"]"
+            },
+            "browserAPIs": {
+              "$ref": "$[\"nodes\"][\"2847462d-e980-51b8-b45c-46ddefda4060\"][\"browserAPIs\"]"
+            },
+            "ssrAPIs": {
+              "$ref": "$[\"nodes\"][\"2847462d-e980-51b8-b45c-46ddefda4060\"][\"ssrAPIs\"]"
+            },
+            "pluginFilepath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/node_modules/gatsby-remark-images"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.1.11",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b1e5402b7882b7da42b5275e50b0df17",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "faf005e8-ee5c-545a-9cc2-d486e7167162": {
+      "resolve": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/node_modules/gatsby-plugin-page-creator",
+      "id": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.2",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.2",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "2f77eb30099151bcec0cfb4d096efcdc",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "5b5afd29-4134-5adf-a985-0010b9ae8ff7": {
+      "id": "5b5afd29-4134-5adf-a985-0010b9ae8ff7",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e80b9313384e40e9f5fbbcd60ddc0918",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts",
+      "relativePath": "",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-20T11:20:40.179Z",
+      "accessTime": "2019-02-13T10:51:16.760Z",
+      "changeTime": "2019-02-13T10:51:18.608Z",
+      "birthTime": "2019-02-13T10:51:16.746Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content",
+      "base": "posts",
+      "ext": "",
+      "name": "posts",
+      "relativeDirectory": "..",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 4222124650874148,
+      "atime": "2019-02-13T10:51:16.760Z",
+      "mtime": "2018-12-20T11:20:40.179Z",
+      "ctime": "2019-02-13T10:51:18.608Z",
+      "birthtime": "2019-02-13T10:51:16.746Z"
+    },
+    "f5a5be0f-4531-5dfd-a378-294b32333447": {
+      "id": "f5a5be0f-4531-5dfd-a378-294b32333447",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9753d31ff68854f25b38664243950a9c",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\02-11-2018--post-4\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/02-11-2018--post-4",
+      "relativePath": "02-11-2018--post-4",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-20T11:20:40.117Z",
+      "accessTime": "2019-02-13T10:51:17.501Z",
+      "changeTime": "2019-02-13T10:51:18.602Z",
+      "birthTime": "2019-02-13T10:51:16.748Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts",
+      "base": "02-11-2018--post-4",
+      "ext": "",
+      "name": "02-11-2018--post-4",
+      "relativeDirectory": "",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 4503599627584829,
+      "atime": "2019-02-13T10:51:17.501Z",
+      "mtime": "2018-12-20T11:20:40.117Z",
+      "ctime": "2019-02-13T10:51:18.602Z",
+      "birthtime": "2019-02-13T10:51:16.748Z"
+    },
+    "3598e2af-5f76-57eb-b228-20881d4168d5": {
+      "id": "3598e2af-5f76-57eb-b228-20881d4168d5",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0e96807559e04fbfb25fb60b78c10be6",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\01-11-2018--post-3\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/01-11-2018--post-3",
+      "relativePath": "01-11-2018--post-3",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-20T11:20:40.085Z",
+      "accessTime": "2019-02-13T10:51:17.497Z",
+      "changeTime": "2019-02-13T10:51:18.601Z",
+      "birthTime": "2019-02-13T10:51:16.746Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts",
+      "base": "01-11-2018--post-3",
+      "ext": "",
+      "name": "01-11-2018--post-3",
+      "relativeDirectory": "",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 23362423067198764,
+      "atime": "2019-02-13T10:51:17.497Z",
+      "mtime": "2018-12-20T11:20:40.085Z",
+      "ctime": "2019-02-13T10:51:18.601Z",
+      "birthtime": "2019-02-13T10:51:16.746Z"
+    },
+    "3e31b999-8dee-5720-8ca9-6e752b592601": {
+      "id": "3e31b999-8dee-5720-8ca9-6e752b592601",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "de70b39b49f482c231559ba63a3b9af8",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\03-11-2018--post-5\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/03-11-2018--post-5",
+      "relativePath": "03-11-2018--post-5",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-20T11:20:40.132Z",
+      "accessTime": "2019-02-13T10:51:17.505Z",
+      "changeTime": "2019-02-13T10:51:18.602Z",
+      "birthTime": "2019-02-13T10:51:16.749Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts",
+      "base": "03-11-2018--post-5",
+      "ext": "",
+      "name": "03-11-2018--post-5",
+      "relativeDirectory": "",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 6473924464559430,
+      "atime": "2019-02-13T10:51:17.505Z",
+      "mtime": "2018-12-20T11:20:40.132Z",
+      "ctime": "2019-02-13T10:51:18.602Z",
+      "birthtime": "2019-02-13T10:51:16.749Z"
+    },
+    "a99e3b0a-939e-5847-a48a-57bf0056029a": {
+      "id": "a99e3b0a-939e-5847-a48a-57bf0056029a",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f1a93ee03f673f0369a43446e74f8d48",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\30-10-2018--hello-world\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/30-10-2018--hello-world",
+      "relativePath": "30-10-2018--hello-world",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-20T11:20:40.164Z",
+      "accessTime": "2019-02-13T10:51:17.509Z",
+      "changeTime": "2019-02-13T10:51:18.602Z",
+      "birthTime": "2019-02-13T10:51:16.750Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts",
+      "base": "30-10-2018--hello-world",
+      "ext": "",
+      "name": "30-10-2018--hello-world",
+      "relativeDirectory": "",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 7599824371402060,
+      "atime": "2019-02-13T10:51:17.509Z",
+      "mtime": "2018-12-20T11:20:40.164Z",
+      "ctime": "2019-02-13T10:51:18.602Z",
+      "birthtime": "2019-02-13T10:51:16.750Z"
+    },
+    "c72c9ea1-b11e-533c-b97b-95640487493a": {
+      "id": "c72c9ea1-b11e-533c-b97b-95640487493a",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a6d312eb2e75de74830c19a4c9e73c72",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\31-10-2018--post-2\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/31-10-2018--post-2",
+      "relativePath": "31-10-2018--post-2",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-20T11:20:40.195Z",
+      "accessTime": "2019-02-13T10:51:17.512Z",
+      "changeTime": "2019-02-13T10:51:18.602Z",
+      "birthTime": "2019-02-13T10:51:16.760Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts",
+      "base": "31-10-2018--post-2",
+      "ext": "",
+      "name": "31-10-2018--post-2",
+      "relativeDirectory": "",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 3659174697452899,
+      "atime": "2019-02-13T10:51:17.512Z",
+      "mtime": "2018-12-20T11:20:40.195Z",
+      "ctime": "2019-02-13T10:51:18.602Z",
+      "birthtime": "2019-02-13T10:51:16.760Z"
+    },
+    "7eff2c56-629d-5839-a5d7-3ab365f8c034": {
+      "id": "7eff2c56-629d-5839-a5d7-3ab365f8c034",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ed04bce729b6fbae07abbc0b2ad29bba",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\02-11-2018--post-4\\images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/02-11-2018--post-4/images",
+      "relativePath": "02-11-2018--post-4/images",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-20T11:20:40.117Z",
+      "accessTime": "2019-02-13T10:51:17.500Z",
+      "changeTime": "2019-02-13T10:51:18.577Z",
+      "birthTime": "2019-02-13T10:51:16.748Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/02-11-2018--post-4",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "02-11-2018--post-4",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 46724846134183230,
+      "atime": "2019-02-13T10:51:17.500Z",
+      "mtime": "2018-12-20T11:20:40.117Z",
+      "ctime": "2019-02-13T10:51:18.577Z",
+      "birthtime": "2019-02-13T10:51:16.748Z"
+    },
+    "91ff2667-28e0-58de-b0cf-3ddde3805b4c": {
+      "id": "91ff2667-28e0-58de-b0cf-3ddde3805b4c",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ac76c894e18a11c80dde6c38b8857ed7",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\01-11-2018--post-3\\images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/01-11-2018--post-3/images",
+      "relativePath": "01-11-2018--post-3/images",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-20T11:20:40.085Z",
+      "accessTime": "2019-02-13T10:51:17.496Z",
+      "changeTime": "2019-02-13T10:51:18.577Z",
+      "birthTime": "2019-02-13T10:51:16.747Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/01-11-2018--post-3",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "01-11-2018--post-3",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 5348024557716786,
+      "atime": "2019-02-13T10:51:17.496Z",
+      "mtime": "2018-12-20T11:20:40.085Z",
+      "ctime": "2019-02-13T10:51:18.577Z",
+      "birthtime": "2019-02-13T10:51:16.747Z"
+    },
+    "8b33372f-0762-534b-9b76-1bdcefb7c552": {
+      "id": "8b33372f-0762-534b-9b76-1bdcefb7c552",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d5cb77b5458eb7a771cad816f8c8004f",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\30-10-2018--hello-world\\images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/30-10-2018--hello-world/images",
+      "relativePath": "30-10-2018--hello-world/images",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-20T11:20:40.179Z",
+      "accessTime": "2019-02-13T10:51:17.507Z",
+      "changeTime": "2019-02-13T10:51:18.577Z",
+      "birthTime": "2019-02-13T10:51:16.759Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/30-10-2018--hello-world",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "30-10-2018--hello-world",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 4503599627584861,
+      "atime": "2019-02-13T10:51:17.507Z",
+      "mtime": "2018-12-20T11:20:40.179Z",
+      "ctime": "2019-02-13T10:51:18.577Z",
+      "birthtime": "2019-02-13T10:51:16.759Z"
+    },
+    "3d2cf863-7bb3-53c1-98ed-f17844d9653a": {
+      "id": "3d2cf863-7bb3-53c1-98ed-f17844d9653a",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7fc60c180f46f88bb01d27d4778a4dd5",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\03-11-2018--post-5\\images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/03-11-2018--post-5/images",
+      "relativePath": "03-11-2018--post-5/images",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-20T11:20:40.148Z",
+      "accessTime": "2019-02-13T10:51:17.503Z",
+      "changeTime": "2019-02-13T10:51:18.577Z",
+      "birthTime": "2019-02-13T10:51:16.749Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/03-11-2018--post-5",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "03-11-2018--post-5",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 5348024557716811,
+      "atime": "2019-02-13T10:51:17.503Z",
+      "mtime": "2018-12-20T11:20:40.148Z",
+      "ctime": "2019-02-13T10:51:18.577Z",
+      "birthtime": "2019-02-13T10:51:16.749Z"
+    },
+    "385c50cc-3bae-57a8-96b6-ed05df82d8eb": {
+      "id": "385c50cc-3bae-57a8-96b6-ed05df82d8eb",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d702a76a6f53ea2ce7858b3781f7a33e",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\31-10-2018--post-2\\images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/31-10-2018--post-2/images",
+      "relativePath": "31-10-2018--post-2/images",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-20T11:20:40.195Z",
+      "accessTime": "2019-02-13T10:51:17.511Z",
+      "changeTime": "2019-02-13T10:51:18.577Z",
+      "birthTime": "2019-02-13T10:51:16.760Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/31-10-2018--post-2",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "31-10-2018--post-2",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 3377699720742264,
+      "atime": "2019-02-13T10:51:17.511Z",
+      "mtime": "2018-12-20T11:20:40.195Z",
+      "ctime": "2019-02-13T10:51:18.577Z",
+      "birthtime": "2019-02-13T10:51:16.760Z"
+    },
+    "466da83d-503c-5edf-9a12-e748fd0aff02": {
+      "id": "466da83d-503c-5edf-9a12-e748fd0aff02",
+      "children": [
+        "797a7c84-a4d6-52a3-b3d9-7f2dd43681e2"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "96bd293039a833cf516bcd6c174d0f3e",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\01-11-2018--post-3\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/01-11-2018--post-3/index.md",
+      "relativePath": "01-11-2018--post-3/index.md",
+      "extension": "md",
+      "size": 2142,
+      "prettySize": "2.14 kB",
+      "modifiedTime": "2018-12-19T07:48:02.000Z",
+      "accessTime": "2019-02-13T10:51:17.497Z",
+      "changeTime": "2019-02-13T10:51:17.498Z",
+      "birthTime": "2019-02-13T10:51:17.497Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/01-11-2018--post-3",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "01-11-2018--post-3",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 31243722415127116,
+      "atime": "2019-02-13T10:51:17.497Z",
+      "mtime": "2018-12-19T07:48:02.000Z",
+      "ctime": "2019-02-13T10:51:17.498Z",
+      "birthtime": "2019-02-13T10:51:17.497Z"
+    },
+    "ee27ca11-3f49-5ddc-955f-ab8db73095da": {
+      "id": "ee27ca11-3f49-5ddc-955f-ab8db73095da",
+      "children": [
+        "cc8b4881-091e-5969-936a-fef16fde7baf"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9610e94fc2b531ac7363b0046bdd7211",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\03-11-2018--post-5\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/03-11-2018--post-5/index.md",
+      "relativePath": "03-11-2018--post-5/index.md",
+      "extension": "md",
+      "size": 4283,
+      "prettySize": "4.28 kB",
+      "modifiedTime": "2018-12-19T07:48:02.000Z",
+      "accessTime": "2019-02-13T10:51:17.505Z",
+      "changeTime": "2019-02-13T10:51:17.505Z",
+      "birthTime": "2019-02-13T10:51:17.505Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/03-11-2018--post-5",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "03-11-2018--post-5",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 24769797950782110,
+      "atime": "2019-02-13T10:51:17.505Z",
+      "mtime": "2018-12-19T07:48:02.000Z",
+      "ctime": "2019-02-13T10:51:17.505Z",
+      "birthtime": "2019-02-13T10:51:17.505Z"
+    },
+    "991385fd-faf8-555e-8e56-b41aedb382e3": {
+      "id": "991385fd-faf8-555e-8e56-b41aedb382e3",
+      "children": [
+        "8f4cbb9a-757d-547b-a3db-95b0ee4f387c"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "2c46202670d73d0dfec14b78c919d917",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\30-10-2018--hello-world\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/30-10-2018--hello-world/index.md",
+      "relativePath": "30-10-2018--hello-world/index.md",
+      "extension": "md",
+      "size": 2173,
+      "prettySize": "2.17 kB",
+      "modifiedTime": "2018-12-19T07:48:02.000Z",
+      "accessTime": "2019-02-13T10:51:17.509Z",
+      "changeTime": "2019-02-13T10:51:17.509Z",
+      "birthTime": "2019-02-13T10:51:17.509Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/30-10-2018--hello-world",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "30-10-2018--hello-world",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 24488322974071550,
+      "atime": "2019-02-13T10:51:17.509Z",
+      "mtime": "2018-12-19T07:48:02.000Z",
+      "ctime": "2019-02-13T10:51:17.509Z",
+      "birthtime": "2019-02-13T10:51:17.509Z"
+    },
+    "dfb80c27-dcc9-582b-aca4-4d4957afad95": {
+      "id": "dfb80c27-dcc9-582b-aca4-4d4957afad95",
+      "children": [
+        "5e36a106-60d2-5dd5-9010-95ba8833c127"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a48238dcf795bb4951d5c6ec4782dc9a",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\02-11-2018--post-4\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/02-11-2018--post-4/index.md",
+      "relativePath": "02-11-2018--post-4/index.md",
+      "extension": "md",
+      "size": 2122,
+      "prettySize": "2.12 kB",
+      "modifiedTime": "2018-12-19T07:48:02.000Z",
+      "accessTime": "2019-02-13T10:51:17.501Z",
+      "changeTime": "2019-02-13T10:51:17.501Z",
+      "birthTime": "2019-02-13T10:51:17.501Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/02-11-2018--post-4",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "02-11-2018--post-4",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 20829148276832852,
+      "atime": "2019-02-13T10:51:17.501Z",
+      "mtime": "2018-12-19T07:48:02.000Z",
+      "ctime": "2019-02-13T10:51:17.501Z",
+      "birthtime": "2019-02-13T10:51:17.501Z"
+    },
+    "61f711f7-48a0-5fcd-b252-b39f053b120e": {
+      "id": "61f711f7-48a0-5fcd-b252-b39f053b120e",
+      "children": [
+        "9047558e-37af-5f82-9bbc-58fa23194d96"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "abaedb2ff8dae46e7e6297dd83ba108d",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\31-10-2018--post-2\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/31-10-2018--post-2/index.md",
+      "relativePath": "31-10-2018--post-2/index.md",
+      "extension": "md",
+      "size": 2158,
+      "prettySize": "2.16 kB",
+      "modifiedTime": "2018-12-19T07:48:02.000Z",
+      "accessTime": "2019-02-13T10:51:17.512Z",
+      "changeTime": "2019-02-13T10:51:17.512Z",
+      "birthTime": "2019-02-13T10:51:17.512Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/31-10-2018--post-2",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "31-10-2018--post-2",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 15481123719330588,
+      "atime": "2019-02-13T10:51:17.512Z",
+      "mtime": "2018-12-19T07:48:02.000Z",
+      "ctime": "2019-02-13T10:51:17.512Z",
+      "birthtime": "2019-02-13T10:51:17.512Z"
+    },
+    "baadb2ef-70e7-5d24-a4dd-058fea5671f4": {
+      "id": "baadb2ef-70e7-5d24-a4dd-058fea5671f4",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "989e08e5aee5483fce6ec7830b4e8c86",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\03-11-2018--post-5\\images\\NTesla.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/03-11-2018--post-5/images/NTesla.jpg",
+      "relativePath": "03-11-2018--post-5/images/NTesla.jpg",
+      "extension": "jpg",
+      "size": 17033,
+      "prettySize": "17 kB",
+      "modifiedTime": "2018-12-19T07:48:02.000Z",
+      "accessTime": "2019-02-13T10:51:17.503Z",
+      "changeTime": "2019-02-13T10:51:17.503Z",
+      "birthTime": "2019-02-13T10:51:17.503Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/03-11-2018--post-5/images",
+      "base": "NTesla.jpg",
+      "ext": ".jpg",
+      "name": "NTesla",
+      "relativeDirectory": "03-11-2018--post-5\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 166633186212952670,
+      "atime": "2019-02-13T10:51:17.503Z",
+      "mtime": "2018-12-19T07:48:02.000Z",
+      "ctime": "2019-02-13T10:51:17.503Z",
+      "birthtime": "2019-02-13T10:51:17.503Z"
+    },
+    "dd95a60d-3ef4-528c-88f8-d1a29467364e": {
+      "id": "dd95a60d-3ef4-528c-88f8-d1a29467364e",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "02e408d0bf45e8598ea7281a251b65ec",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\31-10-2018--post-2\\images\\Mars1.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/31-10-2018--post-2/images/Mars1.jpg",
+      "relativePath": "31-10-2018--post-2/images/Mars1.jpg",
+      "extension": "jpg",
+      "size": 43013,
+      "prettySize": "43 kB",
+      "modifiedTime": "2018-12-19T07:48:02.000Z",
+      "accessTime": "2019-02-13T10:51:17.510Z",
+      "changeTime": "2019-02-13T10:51:17.510Z",
+      "birthTime": "2019-02-13T10:51:17.510Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/31-10-2018--post-2/images",
+      "base": "Mars1.jpg",
+      "ext": ".jpg",
+      "name": "Mars1",
+      "relativeDirectory": "31-10-2018--post-2\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 18577348463147788,
+      "atime": "2019-02-13T10:51:17.510Z",
+      "mtime": "2018-12-19T07:48:02.000Z",
+      "ctime": "2019-02-13T10:51:17.510Z",
+      "birthtime": "2019-02-13T10:51:17.510Z"
+    },
+    "7abec70f-756c-5822-9dc8-027c20f6f3a4": {
+      "id": "7abec70f-756c-5822-9dc8-027c20f6f3a4",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "989e08e5aee5483fce6ec7830b4e8c86",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\31-10-2018--post-2\\images\\N.Tesla.JPG\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/31-10-2018--post-2/images/N.Tesla.JPG",
+      "relativePath": "31-10-2018--post-2/images/N.Tesla.JPG",
+      "extension": "jpg",
+      "size": 17033,
+      "prettySize": "17 kB",
+      "modifiedTime": "2018-12-19T07:48:02.000Z",
+      "accessTime": "2019-02-13T10:51:17.511Z",
+      "changeTime": "2019-02-13T10:51:17.511Z",
+      "birthTime": "2019-02-13T10:51:17.511Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/31-10-2018--post-2/images",
+      "base": "N.Tesla.JPG",
+      "ext": ".JPG",
+      "name": "N.Tesla",
+      "relativeDirectory": "31-10-2018--post-2\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 37717646879472410,
+      "atime": "2019-02-13T10:51:17.511Z",
+      "mtime": "2018-12-19T07:48:02.000Z",
+      "ctime": "2019-02-13T10:51:17.511Z",
+      "birthtime": "2019-02-13T10:51:17.511Z"
+    },
+    "18c3bf54-b113-5700-97ef-7e1bfb641c53": {
+      "id": "18c3bf54-b113-5700-97ef-7e1bfb641c53",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "dacad8e8f11db822fe62ec8872c82e8a",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\02-11-2018--post-4\\images\\SophieProfil.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/02-11-2018--post-4/images/SophieProfil.jpg",
+      "relativePath": "02-11-2018--post-4/images/SophieProfil.jpg",
+      "extension": "jpg",
+      "size": 45082,
+      "prettySize": "45.1 kB",
+      "modifiedTime": "2018-12-19T07:48:02.000Z",
+      "accessTime": "2019-02-13T10:51:17.500Z",
+      "changeTime": "2019-02-13T10:51:17.500Z",
+      "birthTime": "2019-02-13T10:51:17.500Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/02-11-2018--post-4/images",
+      "base": "SophieProfil.jpg",
+      "ext": ".jpg",
+      "name": "SophieProfil",
+      "relativeDirectory": "02-11-2018--post-4\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 42502721483553360,
+      "atime": "2019-02-13T10:51:17.500Z",
+      "mtime": "2018-12-19T07:48:02.000Z",
+      "ctime": "2019-02-13T10:51:17.500Z",
+      "birthtime": "2019-02-13T10:51:17.500Z"
+    },
+    "c4efc03b-a6d3-571d-9099-21665cbff59d": {
+      "id": "c4efc03b-a6d3-571d-9099-21665cbff59d",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ef750fdb6b769f6b5da7a2ca5c380289",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\01-11-2018--post-3\\images\\Casablanca.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/01-11-2018--post-3/images/Casablanca.jpg",
+      "relativePath": "01-11-2018--post-3/images/Casablanca.jpg",
+      "extension": "jpg",
+      "size": 67294,
+      "prettySize": "67.3 kB",
+      "modifiedTime": "2018-12-19T07:48:02.000Z",
+      "accessTime": "2019-02-13T10:51:17.496Z",
+      "changeTime": "2019-02-13T10:51:17.497Z",
+      "birthTime": "2019-02-13T10:51:17.496Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/01-11-2018--post-3/images",
+      "base": "Casablanca.jpg",
+      "ext": ".jpg",
+      "name": "Casablanca",
+      "relativeDirectory": "01-11-2018--post-3\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 38280596832893510,
+      "atime": "2019-02-13T10:51:17.496Z",
+      "mtime": "2018-12-19T07:48:02.000Z",
+      "ctime": "2019-02-13T10:51:17.497Z",
+      "birthtime": "2019-02-13T10:51:17.496Z"
+    },
+    "0db28cbf-1df3-5d3c-a35a-1a6373595f9e": {
+      "id": "0db28cbf-1df3-5d3c-a35a-1a6373595f9e",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4b82af1623bebf280fb841c89f593094",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\30-10-2018--hello-world\\images\\Slonovi.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/30-10-2018--hello-world/images/Slonovi.jpg",
+      "relativePath": "30-10-2018--hello-world/images/Slonovi.jpg",
+      "extension": "jpg",
+      "size": 38234,
+      "prettySize": "38.2 kB",
+      "modifiedTime": "2018-12-19T07:48:02.000Z",
+      "accessTime": "2019-02-13T10:51:17.506Z",
+      "changeTime": "2019-02-13T10:51:17.507Z",
+      "birthTime": "2019-02-13T10:51:17.506Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/30-10-2018--hello-world/images",
+      "base": "Slonovi.jpg",
+      "ext": ".jpg",
+      "name": "Slonovi",
+      "relativeDirectory": "30-10-2018--hello-world\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 41658296553421490,
+      "atime": "2019-02-13T10:51:17.506Z",
+      "mtime": "2018-12-19T07:48:02.000Z",
+      "ctime": "2019-02-13T10:51:17.507Z",
+      "birthtime": "2019-02-13T10:51:17.506Z"
+    },
+    "43ec0aa6-36d1-515c-9afa-edba211a8f0a": {
+      "id": "43ec0aa6-36d1-515c-9afa-edba211a8f0a",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e4d3a0ddf182c88aa60bc075c70035b6",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\01-11-2018--post-3\\images\\Android.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/01-11-2018--post-3/images/Android.jpg",
+      "relativePath": "01-11-2018--post-3/images/Android.jpg",
+      "extension": "jpg",
+      "size": 75622,
+      "prettySize": "75.6 kB",
+      "modifiedTime": "2018-12-19T07:48:02.000Z",
+      "accessTime": "2019-02-13T10:51:17.495Z",
+      "changeTime": "2019-02-13T10:51:17.496Z",
+      "birthTime": "2019-02-13T10:51:17.495Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/01-11-2018--post-3/images",
+      "base": "Android.jpg",
+      "ext": ".jpg",
+      "name": "Android",
+      "relativeDirectory": "01-11-2018--post-3\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 18295873486436936,
+      "atime": "2019-02-13T10:51:17.495Z",
+      "mtime": "2018-12-19T07:48:02.000Z",
+      "ctime": "2019-02-13T10:51:17.496Z",
+      "birthtime": "2019-02-13T10:51:17.495Z"
+    },
+    "d69134e4-6bd6-593c-8c73-20c96fb4dbaf": {
+      "id": "d69134e4-6bd6-593c-8c73-20c96fb4dbaf",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "00358f8916970c48223e11c7b71aba9f",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\03-11-2018--post-5\\images\\Tesla.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/03-11-2018--post-5/images/Tesla.jpg",
+      "relativePath": "03-11-2018--post-5/images/Tesla.jpg",
+      "extension": "jpg",
+      "size": 136785,
+      "prettySize": "137 kB",
+      "modifiedTime": "2018-12-19T07:48:02.000Z",
+      "accessTime": "2019-02-13T10:51:17.503Z",
+      "changeTime": "2019-02-13T10:51:17.504Z",
+      "birthTime": "2019-02-13T10:51:17.503Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/03-11-2018--post-5/images",
+      "base": "Tesla.jpg",
+      "ext": ".jpg",
+      "name": "Tesla",
+      "relativeDirectory": "03-11-2018--post-5\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 30680772461705840,
+      "atime": "2019-02-13T10:51:17.503Z",
+      "mtime": "2018-12-19T07:48:02.000Z",
+      "ctime": "2019-02-13T10:51:17.504Z",
+      "birthtime": "2019-02-13T10:51:17.503Z"
+    },
+    "6ff09cef-64b9-5154-8179-a39de50fdb7a": {
+      "id": "6ff09cef-64b9-5154-8179-a39de50fdb7a",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e4d3a0ddf182c88aa60bc075c70035b6",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\02-11-2018--post-4\\images\\Android.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/02-11-2018--post-4/images/Android.jpg",
+      "relativePath": "02-11-2018--post-4/images/Android.jpg",
+      "extension": "jpg",
+      "size": 75622,
+      "prettySize": "75.6 kB",
+      "modifiedTime": "2018-12-19T07:48:02.000Z",
+      "accessTime": "2019-02-13T10:51:17.499Z",
+      "changeTime": "2019-02-13T10:51:17.499Z",
+      "birthTime": "2019-02-13T10:51:17.499Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/02-11-2018--post-4/images",
+      "base": "Android.jpg",
+      "ext": ".jpg",
+      "name": "Android",
+      "relativeDirectory": "02-11-2018--post-4\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 61361544923167310,
+      "atime": "2019-02-13T10:51:17.499Z",
+      "mtime": "2018-12-19T07:48:02.000Z",
+      "ctime": "2019-02-13T10:51:17.499Z",
+      "birthtime": "2019-02-13T10:51:17.499Z"
+    },
+    "be6e523d-5e14-5ca6-b074-b9495dc37bcc": {
+      "id": "be6e523d-5e14-5ca6-b074-b9495dc37bcc",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7a56092e3b6cc4ed2731388f8f356f6d",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\30-10-2018--hello-world\\images\\UkletaKuca.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/30-10-2018--hello-world/images/UkletaKuca.jpg",
+      "relativePath": "30-10-2018--hello-world/images/UkletaKuca.jpg",
+      "extension": "jpg",
+      "size": 65830,
+      "prettySize": "65.8 kB",
+      "modifiedTime": "2018-12-19T07:48:02.000Z",
+      "accessTime": "2019-02-13T10:51:17.507Z",
+      "changeTime": "2019-02-13T10:51:17.508Z",
+      "birthTime": "2019-02-13T10:51:17.507Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/30-10-2018--hello-world/images",
+      "base": "UkletaKuca.jpg",
+      "ext": ".jpg",
+      "name": "UkletaKuca",
+      "relativeDirectory": "30-10-2018--hello-world\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 25332747904203484,
+      "atime": "2019-02-13T10:51:17.507Z",
+      "mtime": "2018-12-19T07:48:02.000Z",
+      "ctime": "2019-02-13T10:51:17.508Z",
+      "birthtime": "2019-02-13T10:51:17.507Z"
+    },
+    "797a7c84-a4d6-52a3-b3d9-7f2dd43681e2": {
+      "id": "797a7c84-a4d6-52a3-b3d9-7f2dd43681e2",
+      "children": [],
+      "parent": "466da83d-503c-5edf-9a12-e748fd0aff02",
+      "internal": {
+        "content": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/Android.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/nathan-anderson-443540-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "981b83a336ee93ea2562526567905d4c",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Post 3",
+        "date": "2018-11-01",
+        "slug": "post-three",
+        "_PARENT": "466da83d-503c-5edf-9a12-e748fd0aff02"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/Android.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/nathan-anderson-443540-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
+      "fileAbsolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/01-11-2018--post-3/index.md"
+    },
+    "cc8b4881-091e-5969-936a-fef16fde7baf": {
+      "id": "cc8b4881-091e-5969-936a-fef16fde7baf",
+      "children": [],
+      "parent": "ee27ca11-3f49-5ddc-955f-ab8db73095da",
+      "internal": {
+        "content": "\n<!-- markdownlint-disable MD033 -->\n\n# [Nikola Tesla](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/Tesla.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## Tko je Tesla?\n\nNikola Tesla (Smiljan, 10. srpnja 1856. - New York, 7. siječnja 1943.) bio je hrvatski i američki znanstvenik i izumitelj podrijetlom Srbin iz Hrvatske.[1] Rođen u Lici, ali je gotovo cijeli život radio u SAD-u, gdje je i ostvario sve izume. Gimnaziju je pohađao u Gospiću, potom u Rakovcu kraj Karlovca, gdje je maturirao. Na Visoku tehničku školu u Grazu upisao se 1875. Godine 1881. radio je u Središnjem telegrafskom uredu u Budimpešti, a potom u Telefonskoj centrali, u kojoj je načinio niz tehničkih poboljšanja. U jesen 1882. zaposlio se u Parizu u Edisonovoj telefonskoj podružnici. Već je za vrijeme studija upozorio na nedostatke istosmjernoga elektromotora. U Budimpešti je zamislio primjenu višefaznih izmjeničnih struja za ostvarenje okretnoga magnetskoga polja koje bi uzrokovalo vrtnju u elektromotoru. U nastojanju da razvije zamišljeni sustav izmjeničnih struja, otišao je 1884. u SAD, gdje se s preporukom voditelja Edisonova predstavništva u Europi zaposlio kod T. A. Edisona, gdje je iznosio svoje zamisli o proizvodnji i isplativijem prijenosu izmjeničnih struja, ali nije nailazio na razumijevanje. Godine 1885. osnovao je Tesla u New Yorku vlastitu tvrtku Tesla Electric Light and Manufacturing Company za proizvodnju električnih lučnica (elektrolučna svjetiljka), a 1887. tvrtku Tesla Electric Company, s laboratorijem, u kojem je najprije konstruirao elektromotore izmjenične struje. U jesen iste godine prijavio je prve patente o proizvodnji i prijenosu višefaznih izmjeničnih struja i njihovoj primjeni za učinkovit pogon izmjeničnih elektromotora. Tim je izumima pokazao da je za većinu primjena izmjenična struja znatno prikladnija od istosmjerne.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/NTesla.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nIako mu je bio potreban novac 1912. je odbio primiti Nobelovu nagradu iz fizike jer je tvrdio da njegov suprimatelj Thomas Alva Edison nije pravi znanstvenik. Zadnje godine svog života proveo je hraneći golubove i živio je uglavnom od godišnjeg honorara iz domovine. Imao je napredni zametak fobije, ali istovremeno je bio briljantan znanstvenik koji je imao dara da praktično dokaže svoje hipoteze. Njegove špekulacije o ostvarenju komunikacije s drugim planetima, izjave da može razdijeliti Zemlju poput jabuke, kao i njegova tvrdnja da je izmislio smrtonosnu zraku koja može uništiti 10 tisuća aviona na udaljenosti od 400 km nailazile su na podsmijehe i kritike. Unatoč tomu Tesla se danas smatra jednim od najplodnijih genija u elektrotehnici. Njegova velika zasluga je uvođenje izmjenične struje u široku uporabu. Teslini izumi zasnovani na izmjeničnoj struji postali su temelj cijelom daljnjem razvoju elektrotehnike. Ostvario je oko tisuću pronalazaka i patenata - trofazni sustav za prijenos električne snage, generator i transformator za struje visoke frekvencije (Tesline struje) i drugo. Bio je i jedan od pionira radio-tehnike: otkrio je sustav za bežično upravljanje i davanje znakova na daljinu, pronašao je nov sustav osvjetljenja, konstruirao je visokofrekventne alternatore kao osnovu emisijskih radio-stanica, proizveo je neprigušene elektromagnetske valove, otkrio je i patentirao princip rezonancije za radio-veze, izložio ideju o međuplanetarnim telekomunikacijama pomoću ultrakratkih valova, a zamislio je u cjelini radarski sustav. Objavio je radove iz fizike u kojima je iznosio originalne ideje koje su se kasnije ostvarile\n\nPreminuo je u New Yorku 7. siječnja 1943. u 87-oj godini života. Nakon njegove smrti kovčezi u kojima se nalaze Teslini papiri, diplome i druge počasti, kao i njegove laboratorijske bilješke zapečaćeni su. Neko vrijeme nalazili su se u vlasništvu Teslinog rođaka i jedinog nasljednika Save Kosanovića. On je kasnije svoje tako stečeno nasljedstvo poklonio gradu Beogradu, a u svrhu osnivanja muzeja Nikole Tesle.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "f7363407bffc709215eb6c3598c24cf8",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Post 5",
+        "date": "2018-11-03",
+        "slug": "post-five",
+        "_PARENT": "ee27ca11-3f49-5ddc-955f-ab8db73095da"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Nikola Tesla](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/Tesla.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## Tko je Tesla?\n\nNikola Tesla (Smiljan, 10. srpnja 1856. - New York, 7. siječnja 1943.) bio je hrvatski i američki znanstvenik i izumitelj podrijetlom Srbin iz Hrvatske.[1] Rođen u Lici, ali je gotovo cijeli život radio u SAD-u, gdje je i ostvario sve izume. Gimnaziju je pohađao u Gospiću, potom u Rakovcu kraj Karlovca, gdje je maturirao. Na Visoku tehničku školu u Grazu upisao se 1875. Godine 1881. radio je u Središnjem telegrafskom uredu u Budimpešti, a potom u Telefonskoj centrali, u kojoj je načinio niz tehničkih poboljšanja. U jesen 1882. zaposlio se u Parizu u Edisonovoj telefonskoj podružnici. Već je za vrijeme studija upozorio na nedostatke istosmjernoga elektromotora. U Budimpešti je zamislio primjenu višefaznih izmjeničnih struja za ostvarenje okretnoga magnetskoga polja koje bi uzrokovalo vrtnju u elektromotoru. U nastojanju da razvije zamišljeni sustav izmjeničnih struja, otišao je 1884. u SAD, gdje se s preporukom voditelja Edisonova predstavništva u Europi zaposlio kod T. A. Edisona, gdje je iznosio svoje zamisli o proizvodnji i isplativijem prijenosu izmjeničnih struja, ali nije nailazio na razumijevanje. Godine 1885. osnovao je Tesla u New Yorku vlastitu tvrtku Tesla Electric Light and Manufacturing Company za proizvodnju električnih lučnica (elektrolučna svjetiljka), a 1887. tvrtku Tesla Electric Company, s laboratorijem, u kojem je najprije konstruirao elektromotore izmjenične struje. U jesen iste godine prijavio je prve patente o proizvodnji i prijenosu višefaznih izmjeničnih struja i njihovoj primjeni za učinkovit pogon izmjeničnih elektromotora. Tim je izumima pokazao da je za većinu primjena izmjenična struja znatno prikladnija od istosmjerne.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/NTesla.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nIako mu je bio potreban novac 1912. je odbio primiti Nobelovu nagradu iz fizike jer je tvrdio da njegov suprimatelj Thomas Alva Edison nije pravi znanstvenik. Zadnje godine svog života proveo je hraneći golubove i živio je uglavnom od godišnjeg honorara iz domovine. Imao je napredni zametak fobije, ali istovremeno je bio briljantan znanstvenik koji je imao dara da praktično dokaže svoje hipoteze. Njegove špekulacije o ostvarenju komunikacije s drugim planetima, izjave da može razdijeliti Zemlju poput jabuke, kao i njegova tvrdnja da je izmislio smrtonosnu zraku koja može uništiti 10 tisuća aviona na udaljenosti od 400 km nailazile su na podsmijehe i kritike. Unatoč tomu Tesla se danas smatra jednim od najplodnijih genija u elektrotehnici. Njegova velika zasluga je uvođenje izmjenične struje u široku uporabu. Teslini izumi zasnovani na izmjeničnoj struji postali su temelj cijelom daljnjem razvoju elektrotehnike. Ostvario je oko tisuću pronalazaka i patenata - trofazni sustav za prijenos električne snage, generator i transformator za struje visoke frekvencije (Tesline struje) i drugo. Bio je i jedan od pionira radio-tehnike: otkrio je sustav za bežično upravljanje i davanje znakova na daljinu, pronašao je nov sustav osvjetljenja, konstruirao je visokofrekventne alternatore kao osnovu emisijskih radio-stanica, proizveo je neprigušene elektromagnetske valove, otkrio je i patentirao princip rezonancije za radio-veze, izložio ideju o međuplanetarnim telekomunikacijama pomoću ultrakratkih valova, a zamislio je u cjelini radarski sustav. Objavio je radove iz fizike u kojima je iznosio originalne ideje koje su se kasnije ostvarile\n\nPreminuo je u New Yorku 7. siječnja 1943. u 87-oj godini života. Nakon njegove smrti kovčezi u kojima se nalaze Teslini papiri, diplome i druge počasti, kao i njegove laboratorijske bilješke zapečaćeni su. Neko vrijeme nalazili su se u vlasništvu Teslinog rođaka i jedinog nasljednika Save Kosanovića. On je kasnije svoje tako stečeno nasljedstvo poklonio gradu Beogradu, a u svrhu osnivanja muzeja Nikole Tesle.\n",
+      "fileAbsolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/03-11-2018--post-5/index.md"
+    },
+    "9047558e-37af-5f82-9bbc-58fa23194d96": {
+      "id": "9047558e-37af-5f82-9bbc-58fa23194d96",
+      "children": [],
+      "parent": "61f711f7-48a0-5fcd-b252-b39f053b120e",
+      "internal": {
+        "content": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/markos-mant-228858-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/victor-benard-493618-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "a89f66562c62d7ee085c9fd3dd9c868e",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Post 2",
+        "date": "2018-10-31",
+        "slug": "post-two",
+        "_PARENT": "61f711f7-48a0-5fcd-b252-b39f053b120e"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/markos-mant-228858-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/victor-benard-493618-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
+      "fileAbsolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/31-10-2018--post-2/index.md"
+    },
+    "8f4cbb9a-757d-547b-a3db-95b0ee4f387c": {
+      "id": "8f4cbb9a-757d-547b-a3db-95b0ee4f387c",
+      "children": [],
+      "parent": "991385fd-faf8-555e-8e56-b41aedb382e3",
+      "internal": {
+        "content": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/alessandro-viaro-94370-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/cristina-gottardi-189946-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "a192b44e8b68f745440bdc45dfa057e0",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Hello, World!",
+        "date": "2018-10-30",
+        "slug": "post-one",
+        "_PARENT": "991385fd-faf8-555e-8e56-b41aedb382e3"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/alessandro-viaro-94370-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/cristina-gottardi-189946-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
+      "fileAbsolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/30-10-2018--hello-world/index.md"
+    },
+    "5e36a106-60d2-5dd5-9010-95ba8833c127": {
+      "id": "5e36a106-60d2-5dd5-9010-95ba8833c127",
+      "children": [],
+      "parent": "dfb80c27-dcc9-582b-aca4-4d4957afad95",
+      "internal": {
+        "content": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/Android.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/SophieProfil.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "09e2886bac8320901dc9a0c1949e3ad7",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Post 4",
+        "date": "2018-11-02",
+        "slug": "post-four",
+        "_PARENT": "dfb80c27-dcc9-582b-aca4-4d4957afad95"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/Android.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/SophieProfil.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
+      "fileAbsolutePath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/content/posts/02-11-2018--post-4/index.md"
+    },
+    "SitePage /blog/post-three": {
+      "jsonName": "blog-post-three-0ca",
+      "internalComponentName": "ComponentBlogPostThree",
+      "path": "/blog/post-three",
+      "component": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "post-three"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/templates/blog-post.js",
+      "id": "SitePage /blog/post-three",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "035f9bcc187f722fa98a6bc494597af9",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/post-five": {
+      "jsonName": "blog-post-five-add",
+      "internalComponentName": "ComponentBlogPostFive",
+      "path": "/blog/post-five",
+      "component": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "post-five"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/templates/blog-post.js",
+      "id": "SitePage /blog/post-five",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "74982d6a5976333732226473d7d119ee",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/post-two": {
+      "jsonName": "blog-post-two-99a",
+      "internalComponentName": "ComponentBlogPostTwo",
+      "path": "/blog/post-two",
+      "component": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "post-two"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/templates/blog-post.js",
+      "id": "SitePage /blog/post-two",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ea3afd01aaa14144e20f8f8e9b56d8da",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/post-one": {
+      "jsonName": "blog-post-one-638",
+      "internalComponentName": "ComponentBlogPostOne",
+      "path": "/blog/post-one",
+      "component": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "post-one"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/templates/blog-post.js",
+      "id": "SitePage /blog/post-one",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "420321ef76005beee6318c836dfdf374",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/post-four": {
+      "jsonName": "blog-post-four-acd",
+      "internalComponentName": "ComponentBlogPostFour",
+      "path": "/blog/post-four",
+      "component": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "post-four"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/templates/blog-post.js",
+      "id": "SitePage /blog/post-four",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "97b5a020447e1f4f59621786f24597c5",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/": {
+      "jsonName": "blog-f7a",
+      "internalComponentName": "ComponentBlog",
+      "path": "/blog/",
+      "component": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/blog.js",
+      "componentChunkName": "component---src-pages-blog-js",
+      "context": {},
+      "pluginCreator___NODE": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+      "pluginCreatorId": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/blog.js",
+      "id": "SitePage /blog/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "de3e98e3b2af08a1c393d93c5793fb41",
+        "description": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+      "pluginCreatorId": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0d2d7667062b30ce764d378d352213ec",
+        "description": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /kultura/": {
+      "jsonName": "kultura-9c8",
+      "internalComponentName": "ComponentKultura",
+      "path": "/kultura/",
+      "component": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/kultura.js",
+      "componentChunkName": "component---src-pages-kultura-js",
+      "context": {},
+      "pluginCreator___NODE": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+      "pluginCreatorId": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/kultura.js",
+      "id": "SitePage /kultura/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f7eae3cadde906640580027bf13bdee8",
+        "description": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /naslovna/": {
+      "jsonName": "naslovna-131",
+      "internalComponentName": "ComponentNaslovna",
+      "path": "/naslovna/",
+      "component": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/naslovna.js",
+      "componentChunkName": "component---src-pages-naslovna-js",
+      "context": {},
+      "pluginCreator___NODE": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+      "pluginCreatorId": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/naslovna.js",
+      "id": "SitePage /naslovna/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "352777d9903eee8041955af397be94e6",
+        "description": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /private/": {
+      "jsonName": "private-80e",
+      "internalComponentName": "ComponentPrivate",
+      "path": "/private/",
+      "component": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/private.js",
+      "componentChunkName": "component---src-pages-private-js",
+      "context": {},
+      "pluginCreator___NODE": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+      "pluginCreatorId": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/private.js",
+      "id": "SitePage /private/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "27f58e64fc209f162a50cf1437ba2df2",
+        "description": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /putovanja/": {
+      "jsonName": "putovanja-530",
+      "internalComponentName": "ComponentPutovanja",
+      "path": "/putovanja/",
+      "component": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/putovanja.js",
+      "componentChunkName": "component---src-pages-putovanja-js",
+      "context": {},
+      "pluginCreator___NODE": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+      "pluginCreatorId": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/putovanja.js",
+      "id": "SitePage /putovanja/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d8152d47486796c8c87f3abd8af56164",
+        "description": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /second-page/": {
+      "jsonName": "second-page-1c7",
+      "internalComponentName": "ComponentSecondPage",
+      "path": "/second-page/",
+      "component": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/second-page.js",
+      "componentChunkName": "component---src-pages-second-page-js",
+      "context": {},
+      "pluginCreator___NODE": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+      "pluginCreatorId": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/second-page.js",
+      "id": "SitePage /second-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e48089810b0448c8348b9cda216ed8af",
+        "description": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /zanimljivosti/": {
+      "jsonName": "zanimljivosti-9db",
+      "internalComponentName": "ComponentZanimljivosti",
+      "path": "/zanimljivosti/",
+      "component": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/zanimljivosti.js",
+      "componentChunkName": "component---src-pages-zanimljivosti-js",
+      "context": {},
+      "pluginCreator___NODE": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+      "pluginCreatorId": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/zanimljivosti.js",
+      "id": "SitePage /zanimljivosti/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9ad8c544992c69d0448a0f7263f68fd2",
+        "description": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /zivotinje/": {
+      "jsonName": "zivotinje-e18",
+      "internalComponentName": "ComponentZivotinje",
+      "path": "/zivotinje/",
+      "component": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/zivotinje.js",
+      "componentChunkName": "component---src-pages-zivotinje-js",
+      "context": {},
+      "pluginCreator___NODE": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+      "pluginCreatorId": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/zivotinje.js",
+      "id": "SitePage /zivotinje/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9a638bacd3ea446755b5a3e8502b4fb9",
+        "description": "faf005e8-ee5c-545a-9cc2-d486e7167162",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "e986ebc3d2fb686e4e611d134e6eb002"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "/",
+        "sq--src-components-seo-index-js"
+      ],
+      "f70f8dde-b46f-5100-9b8a-9cb6b1d6e8ad": [],
+      "a55ac6a3-5b31-5873-a6e0-f08e24aa8c96": [],
+      "eab16b97-925b-5072-9084-0cfc4fd1ea45": [],
+      "e2bec084-4d39-5611-850f-0b08ba67a362": [],
+      "365ceb11-a05e-5d86-a584-94c292778a77": [],
+      "797a7c84-a4d6-52a3-b3d9-7f2dd43681e2": [
+        "/blog/post-three"
+      ],
+      "cc8b4881-091e-5969-936a-fef16fde7baf": [
+        "/blog/post-five"
+      ],
+      "9047558e-37af-5f82-9bbc-58fa23194d96": [
+        "/blog/post-two"
+      ],
+      "8f4cbb9a-757d-547b-a3db-95b0ee4f387c": [
+        "/blog/post-one"
+      ],
+      "5e36a106-60d2-5dd5-9010-95ba8833c127": [
+        "/blog/post-four"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        "/blog/"
+      ]
+    }
+  },
+  "jsonDataPaths": {
+    "index": "924/path---index-6a9-dXqwoOE9iel2fqUXswFo24jR49A",
+    "sq--src-components-seo-index-js": 1315885718,
+    "blog-post-four-acd": "663/path---blog-post-four-acd-cf4-AKYsFDY8l6mmiG3KSQygByQcwM",
+    "blog-f7a": "226/path---blog-f-7-a-05d-eAKAt1wOdEpzqNDwctMU7mYhQ",
+    "blog-post-five-add": "444/path---blog-post-five-add-944-ckaOSatRZEOg73QqO0vR04uj2kk",
+    "blog-post-three-0ca": "733/path---blog-post-three-0-ca-e59-ZSlGEfKjsFMCYU5aZIMORV1GWo",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "kultura-9c8": "218/path---kultura-9-c-8-e84-NZuapzHg3X9TaN1iIixfv1W23E",
+    "blog-post-one-638": "632/path---blog-post-one-638-2ad-ULC7sMyH7Q6ezqD5rgoa9IA6I",
+    "blog-post-two-99a": "627/path---blog-post-two-99-a-e88-PkfQsi9EZoG3ztjX4uVEgXldyNw",
+    "naslovna-131": "470/path---naslovna-131-09f-NZuapzHg3X9TaN1iIixfv1W23E",
+    "private-80e": "360/path---private-80-e-156-NZuapzHg3X9TaN1iIixfv1W23E",
+    "putovanja-530": "407/path---putovanja-530-354-NZuapzHg3X9TaN1iIixfv1W23E",
+    "second-page-1c7": "772/path---second-page-1-c-7-a3b-NZuapzHg3X9TaN1iIixfv1W23E",
+    "zanimljivosti-9db": "259/path---zanimljivosti-9-db-786-NZuapzHg3X9TaN1iIixfv1W23E",
+    "zivotinje-e18": "773/path---zivotinje-e-18-86a-NZuapzHg3X9TaN1iIixfv1W23E"
+  },
+  "components": {
+    "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/templates/blog-post.js": {
+      "query": "query BlogPostQuery(\n  $slug: String!\n) {\n  markdownRemark(frontmatter: {slug: {eq: $slug}}) {\n    html\n    frontmatter {\n      date\n      slug\n      title\n    }\n  }\n}\n",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/templates/blog-post.js"
+    },
+    "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/.cache/dev-404-page.js"
+    },
+    "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/blog.js": {
+      "query": "query BlogIndexQuery {\n  allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}) {\n    edges {\n      node {\n        id\n        frontmatter {\n          title\n          date\n          slug\n        }\n        excerpt(pruneLength: 300)\n      }\n    }\n  }\n}\n",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/blog.js"
+    },
+    "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/index.js": {
+      "query": "query SiteMetadata {\n  site {\n    siteMetadata {\n      title\n      description\n    }\n  }\n}\n",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/index.js"
+    },
+    "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/kultura.js": {
+      "query": "",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/kultura.js"
+    },
+    "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/naslovna.js": {
+      "query": "",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/naslovna.js"
+    },
+    "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/private.js": {
+      "query": "",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/private.js"
+    },
+    "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/putovanja.js": {
+      "query": "",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/putovanja.js"
+    },
+    "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/second-page.js": {
+      "query": "",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/second-page.js"
+    },
+    "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/zanimljivosti.js": {
+      "query": "",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/zanimljivosti.js"
+    },
+    "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/zivotinje.js": {
+      "query": "",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/pages/zivotinje.js"
+    }
+  },
+  "staticQueryComponents": {
+    "sq--src-components-seo-index-js": {
+      "name": "DefaultSEOQuery",
+      "componentPath": "C:/Users/PC/Desktop/CagaljSaSataZadnjaVerzija/src/components/SEO/index.js",
+      "id": "sq--src-components-seo-index-js",
+      "jsonName": "sq--src-components-seo-index-js",
+      "query": "query DefaultSEOQuery {\n  site {\n    siteMetadata {\n      title\n      description\n    }\n  }\n}\n",
+      "hash": 1315885718
+    }
+  }
+}
