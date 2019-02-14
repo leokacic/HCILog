@@ -8,7 +8,7 @@ import logoImg from "../../images/logo.png";
 
 export default () => (
   <header className={styles.Header}>
-    <Container className={styles.headerCenter}>
+    <div className={styles.headerCenter}>
       <span className={styles.headerLeft}>
         <img src={logoImg} className={styles.Img} alt="Logo Svijet oko nas" />
         <span className={styles.Logo}>Svijet oko nas</span>
@@ -35,6 +35,6 @@ export default () => (
         </NavLink>
         <NavLink to="/private">Private</NavLink>
       </Nav>
-    </Container>
+    </div>
   </header>
 );

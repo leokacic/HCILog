@@ -1,5 +1,5 @@
 .Header {
-  grid-area: header;
+  grid-area: header;  background-color: #000000;
 }
 
 .headerCenter {
@@ -7,17 +7,24 @@
   justify-content: space-between;
   align-items: center;
   flex: 1;
+  margin: 0 auto;
+  max-width: 1200px;
+  width: 90%;
+
 }
 
 .Logo {
+  margin-top: 10px;
   margin-left: 10px;
+  font-size: 23px;
   color: var(--color-gold, orange);
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 .Img {
-  width: 10%;
-  height: 10%;
+  margin-top: 10px;
+  width: 15%;
+  height: 15%;
 }
 
 .headerLeft {
@@ -35,14 +42,15 @@
 
 .NavLink {
   display: inline-block;
+  color: white;
   padding: 5px 10px;
   margin-left: 10px;
   text-transform: uppercase;
   cursor: pointer;
   white-space: nowrap;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: normal;
-  color: var(--color-primary, #000000);
+  color:grey;
   border-top: 3px solid transparent;
   border-bottom: 3px solid transparent;
   transition: all 0.25s linear;
@@ -144,3 +152,11 @@
     }
   }
 }
+@media screen and (min-width: 400px) and (max-width: 700px) {
+  /*za tablete */
+  .Logo{
+    font-size: 18px;
+
+  }
+}
+
