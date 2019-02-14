@@ -1,4 +1,5 @@
 .Container {
   min-height: 100vh;
   margin: 0 auto;
+  grid-template-rows: 7vh auto 9vh;
 }

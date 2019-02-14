@@ -513,12 +513,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-02-14T13:13:25.313Z",
+      "buildTime": "2019-02-14T14:17:11.469Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "76d88cfc57ff1d08291103a6d6cdbeef",
+        "contentDigest": "883253914e8f1eec2fd7c0912114114c",
         "type": "Site",
         "owner": "internal-data-bridge"
       }

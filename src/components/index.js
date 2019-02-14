@@ -5,3 +5,4 @@ export { default as BlogIndex } from "./BlogIndex";
 export { default as SiteContainerBlog } from "./SiteContainerBlog";
 export { default as PrivateRoute } from "./Private/PrivateRoute.js";
 export { default as LayoutBlog } from "./LayoutBlog";
+export { default as SEO } from "./SEO";

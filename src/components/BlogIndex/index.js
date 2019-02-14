@@ -12,7 +12,7 @@ export default ({ posts }) => {
           <Link to={`blog/${slug}`}>{title}</Link>
         </h2>
         <p className={styles.Excerpt}>{excerpt}</p>
-        <span className={styles.Date}>aa{date}</span>
+        <span className={styles.Date}>{date}</span>
       </section>
     );
   });

@@ -12,6 +12,8 @@ import {
 } from "../components/services/authentication/auth.js";
 import { navigate } from "gatsby";
 import styles from "../styles/pages/private.module.css";
+import { SiteContainer } from "../components";
+import Header from "../components/Header"
 
 const Logout = () => (
   <a
@@ -29,6 +31,7 @@ const Logout = () => (
 
 export default () => (
   <>
+    <Header />
     <SEO title="Private" />
     {isLoggedIn() ? (
       <Logout />
