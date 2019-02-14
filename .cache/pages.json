@@ -50,11 +50,6 @@
         "path": "/naslovna/"
     },
     {
-        "componentChunkName": "component---src-pages-private-js",
-        "jsonName": "private-80e",
-        "path": "/private/"
-    },
-    {
         "componentChunkName": "component---src-pages-putovanja-js",
         "jsonName": "putovanja-530",
         "path": "/putovanja/"
@@ -73,5 +68,11 @@
         "componentChunkName": "component---src-pages-zivotinje-js",
         "jsonName": "zivotinje-e18",
         "path": "/zivotinje/"
+    },
+    {
+        "componentChunkName": "component---src-pages-private-js",
+        "jsonName": "private-80e",
+        "path": "/private/",
+        "matchPath": "/private/*"
     }
 ]

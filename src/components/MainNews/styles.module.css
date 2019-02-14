@@ -11,6 +11,7 @@
 .SporedneVijesti {
   display: flex;
   flex-direction: row;
+  justify-content: space-around;
   margin-left: 5px;
   padding-right: 5px;
 }
@@ -23,6 +24,12 @@
   height: 100%;
   max-width: 300px;
   max-height: 300px;
+}
+.TekstSporednih{
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+  margin-left: 5px
 }
 .PrvaVijest {
   margin-bottom: 10px;
@@ -41,6 +48,9 @@
 .DrugaVijest {
   text-align: left;
   margin-bottom: 10px;
+}
+.DrugaVijesta {
+display: block;
 }
 .PrvaVijest h3 {
   margin-left: 5px;
@@ -96,7 +106,10 @@
 
 @media screen and (min-width: 400px) and (max-width: 700px) {
   /*za tablete */
-  .BottomLeft {
+  .BottomLeft{
     font-size: 15px;
+  }
+  .DrugaVijesta{
+    display: none;
   }
 }
