@@ -1,18 +1,18 @@
 import React from "react";
 import { graphql } from "gatsby";
-import { Layout } from "../components";
+import { LayoutBlog } from "../components";
 import styles from "./styles.module.css";
 
 export default ({ data }) => {
   const { markdownRemark: post } = data;
   return (
-    <Layout>
+    <LayoutBlog>
       <h1>{post.frontmatter.title}</h1>
       <section
         className={styles.Post}
         dangerouslySetInnerHTML={{ __html: post.html }}
       />
-    </Layout>
+    </LayoutBlog>
   );
 };
 

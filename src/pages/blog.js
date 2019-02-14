@@ -1,6 +1,6 @@
 import React from "react";
 import { graphql } from "gatsby";
-import { Layout, BlogIndex } from "../components";
+import { BlogIndex } from "../components";
 import LayoutBlog from "../components/LayoutBlog";
 
 export default ({
