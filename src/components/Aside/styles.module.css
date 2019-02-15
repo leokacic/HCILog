@@ -38,6 +38,17 @@
   text-align: start;
   margin-left: 5px;
 }
+.Oznaka{
+  display: flex;
+}
+.Oznaka::before {
+  content: '';
+  height: 25px;
+  width: 5px;
+  background-color: #4a4a4a;
+  margin-left: 5px ;
+  margin-top: 5px;
+}
 @supports (display: grid) {
   @media screen and (max-width: 400px) {
     /*za mobitele */

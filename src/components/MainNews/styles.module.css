@@ -25,6 +25,28 @@
   max-width: 300px;
   max-height: 300px;
 }
+.Oznaka{
+  display: flex;
+}
+.Oznaka::before {
+  content: '';
+  height: 25px;
+  width: 5px;
+  background-color: #4a4a4a;
+  margin-left: 5px ;
+  margin-top: 5px;
+}
+.OznakaG{
+  display: flex;
+}
+.OznakaG::before {
+  content: '';
+  height: 40px;
+  width: 5px;
+  background-color: white;
+  margin-left: 5px ;
+  margin-top: 5px;
+}
 .TekstSporednih{
   display: flex;
   flex-direction: column;

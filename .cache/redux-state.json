@@ -965,12 +965,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-02-15T10:22:33.927Z",
+      "buildTime": "2019-02-15T11:47:44.686Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e9cd93b724ee897db500d3fc9b7aae66",
+        "contentDigest": "5054aac42e7858ee1ccbf009f343800c",
         "type": "Site",
         "owner": "internal-data-bridge"
       }

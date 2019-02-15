@@ -19,7 +19,7 @@ export default () => (
           />
         </div>
         <div className={styles.TekstNovosti}>
-          <h3>Vijest:</h3>
+          <div className={styles.Oznaka}><h3>Vijest:</h3> </div> 
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
         </div>
       </div>
@@ -28,7 +28,7 @@ export default () => (
           <img className={styles.SlikaNovosti} src={Obala} alt="Casablanca" />
         </div>
         <div className={styles.TekstNovosti}>
-          <h3>Vijest:</h3>
+        <div className={styles.Oznaka}><h3>Vijest:</h3> </div> 
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
         </div>
       </div>
@@ -41,7 +41,7 @@ export default () => (
           />
         </div>
         <div className={styles.TekstNovosti}>
-          <h3>Vijest:</h3>
+        <div className={styles.Oznaka}><h3>Vijest:</h3> </div> 
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
         </div>
       </div>
@@ -50,7 +50,7 @@ export default () => (
           <img className={styles.SlikaNovosti} src={Android} alt="Casablanca" />
         </div>
         <div className={styles.TekstNovosti}>
-          <h3>Vijest:</h3>
+        <div className={styles.Oznaka}><h3>Vijest:</h3> </div> 
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
         </div>
       </div>

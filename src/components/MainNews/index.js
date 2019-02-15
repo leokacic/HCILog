@@ -11,7 +11,7 @@ export default () => (
       <div className={styles.PrvaVijest}>
         <img className={styles.GlavnaSlika} src={Slon} alt="Slonovi" />
         <div className={styles.BottomLeft}>
-          <h3>Vijest:</h3>
+        <div className={styles.OznakaG}><h3>Vijest:</h3> </div> 
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
         </div>
       </div>
@@ -20,21 +20,21 @@ export default () => (
       <div className={styles.DrugaVijest}>
         <img className={styles.SporedneSlike} src={Tesla} alt="Nikola Tesla" />
         <div className={styles.TekstSporednih}>
-          <h3>Vijest:</h3>
+          <div className={styles.Oznaka}><h3>Vijest:</h3> </div> 
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
         </div>
       </div>
       <div className={styles.DrugaVijest}>
         <img className={styles.SporedneSlike} src={Sophie} alt="Nikola Tesla" />
         <div className={styles.TekstSporednih}>
-          <h3>Vijest:</h3>
+        <div className={styles.Oznaka}><h3>Vijest:</h3> </div> 
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
         </div>
       </div>
-      <div className={styles.DrugaVijesta}>
+      <div className={styles.DrugaVijest}>
         <img className={styles.SporedneSlike} src={Sophie} alt="Nikola Tesla" />
         <div className={styles.TekstSporednih}>
-          <h3>Vijest:</h3>
+        <div className={styles.Oznaka}><h3>Vijest:</h3> </div> 
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
         </div>
       </div>
