@@ -15,7 +15,7 @@ export default () => (
       </span>
 
       <Nav>
-        <NavLink to="/" exact="true">
+        <NavLink to="/naslovnica" exact="true">
           Naslovnica
         </NavLink>
         <NavLink to="/kultura" id={styles.kultura}>
