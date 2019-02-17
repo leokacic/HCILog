@@ -50,6 +50,11 @@
         "path": "/naslovna/"
     },
     {
+        "componentChunkName": "component---src-pages-one-js",
+        "jsonName": "one-223",
+        "path": "/one/"
+    },
+    {
         "componentChunkName": "component---src-pages-putovanja-js",
         "jsonName": "putovanja-530",
         "path": "/putovanja/"

@@ -9,6 +9,7 @@ exports.components = {
   "component---src-pages-index-js": preferDefault(require("C:\\Users\\PC\\Desktop\\CagaljAkt\\src\\pages\\index.js")),
   "component---src-pages-kultura-js": preferDefault(require("C:\\Users\\PC\\Desktop\\CagaljAkt\\src\\pages\\kultura.js")),
   "component---src-pages-naslovna-js": preferDefault(require("C:\\Users\\PC\\Desktop\\CagaljAkt\\src\\pages\\naslovna.js")),
+  "component---src-pages-one-js": preferDefault(require("C:\\Users\\PC\\Desktop\\CagaljAkt\\src\\pages\\one.js")),
   "component---src-pages-private-js": preferDefault(require("C:\\Users\\PC\\Desktop\\CagaljAkt\\src\\pages\\private.js")),
   "component---src-pages-putovanja-js": preferDefault(require("C:\\Users\\PC\\Desktop\\CagaljAkt\\src\\pages\\putovanja.js")),
   "component---src-pages-second-page-js": preferDefault(require("C:\\Users\\PC\\Desktop\\CagaljAkt\\src\\pages\\second-page.js")),

@@ -24,8 +24,8 @@
 
 .LoginForm__button {
   background-color: var(--color-gatsby);
-  color: white;
-  border: none;
+  color: black;
+  border: solid black 2px;
   cursor: pointer;
   text-align: center;
 }

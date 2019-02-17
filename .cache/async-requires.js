@@ -8,6 +8,7 @@ exports.components = {
   "component---src-pages-index-js": () => import("C:\\Users\\PC\\Desktop\\CagaljAkt\\src\\pages\\index.js" /* webpackChunkName: "component---src-pages-index-js" */),
   "component---src-pages-kultura-js": () => import("C:\\Users\\PC\\Desktop\\CagaljAkt\\src\\pages\\kultura.js" /* webpackChunkName: "component---src-pages-kultura-js" */),
   "component---src-pages-naslovna-js": () => import("C:\\Users\\PC\\Desktop\\CagaljAkt\\src\\pages\\naslovna.js" /* webpackChunkName: "component---src-pages-naslovna-js" */),
+  "component---src-pages-one-js": () => import("C:\\Users\\PC\\Desktop\\CagaljAkt\\src\\pages\\one.js" /* webpackChunkName: "component---src-pages-one-js" */),
   "component---src-pages-private-js": () => import("C:\\Users\\PC\\Desktop\\CagaljAkt\\src\\pages\\private.js" /* webpackChunkName: "component---src-pages-private-js" */),
   "component---src-pages-putovanja-js": () => import("C:\\Users\\PC\\Desktop\\CagaljAkt\\src\\pages\\putovanja.js" /* webpackChunkName: "component---src-pages-putovanja-js" */),
   "component---src-pages-second-page-js": () => import("C:\\Users\\PC\\Desktop\\CagaljAkt\\src\\pages\\second-page.js" /* webpackChunkName: "component---src-pages-second-page-js" */),

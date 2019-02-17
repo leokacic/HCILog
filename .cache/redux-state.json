@@ -965,12 +965,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-02-17T10:25:37.312Z",
+      "buildTime": "2019-02-17T20:23:48.155Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a097f14838eaf5deb8e41b5762815472",
+        "contentDigest": "ea3dcd3ce08d8cc0cd63380f11f95539",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2278,6 +2278,26 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /one/": {
+      "jsonName": "one-223",
+      "internalComponentName": "ComponentOne",
+      "path": "/one/",
+      "component": "C:/Users/PC/Desktop/CagaljAkt/src/pages/one.js",
+      "componentChunkName": "component---src-pages-one-js",
+      "context": {},
+      "pluginCreator___NODE": "4094f2f5-1bc5-5feb-801d-1444072d2601",
+      "pluginCreatorId": "4094f2f5-1bc5-5feb-801d-1444072d2601",
+      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/pages/one.js",
+      "id": "SitePage /one/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "530e2e6a37e6a23563415bea08db3b90",
+        "description": "4094f2f5-1bc5-5feb-801d-1444072d2601",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /private/": {
       "jsonName": "private-80e",
       "internalComponentName": "ComponentPrivate",
@@ -2428,7 +2448,8 @@
     "putovanja-530": "407/path---putovanja-530-354-NZuapzHg3X9TaN1iIixfv1W23E",
     "second-page-1c7": "772/path---second-page-1-c-7-a3b-NZuapzHg3X9TaN1iIixfv1W23E",
     "zanimljivosti-9db": "259/path---zanimljivosti-9-db-786-NZuapzHg3X9TaN1iIixfv1W23E",
-    "zivotinje-e18": "773/path---zivotinje-e-18-86a-NZuapzHg3X9TaN1iIixfv1W23E"
+    "zivotinje-e18": "773/path---zivotinje-e-18-86a-NZuapzHg3X9TaN1iIixfv1W23E",
+    "one-223": "450/path---one-223-f49-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
     "C:/Users/PC/Desktop/CagaljAkt/src/templates/blog-post.js": {
@@ -2474,6 +2495,10 @@
     "C:/Users/PC/Desktop/CagaljAkt/src/pages/zivotinje.js": {
       "query": "",
       "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/pages/zivotinje.js"
+    },
+    "C:/Users/PC/Desktop/CagaljAkt/src/pages/one.js": {
+      "query": "",
+      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/pages/one.js"
     }
   },
   "staticQueryComponents": {

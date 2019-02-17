@@ -37,7 +37,7 @@ export default () => (
       <Logout />
     ) : (
       <>
-        <h1>Private</h1>
+        <h1>Prijava</h1>
         <Login private="/private/dashboard" handleLogin={handleLogin} />
       </>
     )}

@@ -130,7 +130,14 @@ display: block;
       margin-right: auto;
       width: 1000%;
     }
+    .Oznaka::before{
+      height: 40px;
+    }
+    .OznakaG::before{
+      background-color: gray;
+    }
   }
+
 }
 
 @media screen and (min-width: 400px) and (max-width: 700px) {

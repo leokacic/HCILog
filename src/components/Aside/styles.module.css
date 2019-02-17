@@ -67,6 +67,9 @@
       grid-auto-rows: 100px;
       overflow-y: hidden;
     }
+    .Oznaka::before{
+      height: 40px;
+    }
   }
 }
 
@@ -84,4 +87,5 @@
     left: 0px;
     text-shadow: 0 1px 0 black;
   }
+ 
 }
