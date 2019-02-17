@@ -31,13 +31,13 @@ export default () => (
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
         </div>
       </div>
-      <div className={styles.DrugaVijest}>
+      <div className={styles.DrugaVijesta}>
         <img className={styles.SporedneSlike} src={Sophie} alt="Nikola Tesla" />
         <div className={styles.TekstSporednih}>
         <div className={styles.Oznaka}><h3>Vijest:</h3> </div> 
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
         </div>
       </div>
-    </div>
+      </div>
   </main>
 );

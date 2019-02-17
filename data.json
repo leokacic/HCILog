@@ -1,6 +1,6 @@
 {
-    "Najnovije":{
-        "Aside" : [
+    "NOVOSTI":{
+        "news" : [
                 {
                 "id": 1,
                 "url":"dalmacija",
@@ -35,6 +35,239 @@
                 "vrijeme":" 05.01.2018. | 12:52",
                 "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."    
             }
+        ],
+    
+        "mainNewsA": [
+            {
+                "id": "A",
+                "url":"prva",
+                "title": "zabrana uskoro",
+                "text": "Grci na nogama: 'EU nam želi zabraniti tradicionalni gyros'",
+                "zanr":"novosti",
+                "vrijeme":" 05.01.2018. | 12:52",
+                "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            }
+        ],
+    
+        "mainNewsB": [
+            {
+                "id": "B",
+                "url":"druga",
+                "title": "počela zima",
+                "text": "Zimske radosti' stigle u Dalmaciju: na Braču pao snijeg",
+                "zanr":"dalmacija",
+                "vrijeme":" 05.01.2018. | 12:52",
+                "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            }
         ]
-    }
+    },
+
+    "SPORT":{
+        "news" : [
+                {
+                "id": 1,
+                "url":"1-sport",
+                "title": "čarolija",
+                "text": "Barcelona razbila Reala i riješila prvenstvo, Rakitić odličan, Kovačić među slabijima",
+                "zanr":"sport",
+                "vrijeme":" 05.01.2018. | 12:52",
+                "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            
+            },{
+                "id": 2,
+                "url":"2-sport",
+                "title": "uoči el clasica",
+                "text": "Španjolci izabrali Luku Modrića u najboljih 11 Real Madrida svih vremena!",
+                "zanr":"sport",
+                "vrijeme":" 05.01.2018. | 12:52",
+                "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            },{
+                "id": 3,
+                "url":"3-sport",
+                "title": "PRVENSTVO JE SVE BLIŽE",
+                "text":"Červar zadovoljan prvim dijelom priprema: Puno se trenira, ali momci se ne žale",
+                "zanr":"sport",
+                "vrijeme":" 05.01.2018. | 12:52",
+                "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            },{
+                "id": 4,
+                "url":"4-sport",
+                "title": "NAJLJEPŠE GODINE",
+                "text": "Veterani Splita i Trogira odigrali humanitarnu utakmicu u Parku mladeži",
+                "zanr":"sport",
+                "vrijeme":" 05.01.2018. | 12:52",
+                "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."     
+            }
+        ],
+    
+        "mainNewsA": [
+            {
+                "id": "A",
+                "url":"prva-sport",
+                "title": "nakon teškog poraza",
+                "text": "Kovačić: Ovo su teški trenuci koje moramo nadići",
+                "zanr":"sport",
+                "vrijeme":" 05.01.2018. | 12:52",
+                "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            }
+        ],
+    
+        "mainNewsB": [
+            {
+                "id": "B",
+                "url":"druga-sport",
+                "title": "čarolija",
+                "text": "Pogledajte prekrasnu akciju Barcelone kojom su načeli Real!",
+                "zanr":"sport",
+                "vrijeme":" 05.01.2018. | 12:52",
+                "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            }
+        ]
+    },
+
+
+    "najkomentiranije" : [
+            {
+            "id": 1,
+            "url":"5",
+            "title": "BIT CE HLADNIJE",
+            "text": "Najljepše lokacije svijeta nalaze se u Europi pa ih je potrebno pogledati",
+            "zanr":"scena",
+            "vrijeme":" 05.01.2018. | 12:52",
+            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        
+            },{
+            "id": 2,
+            "url":"2",
+            "title": "REZULTAT 2:1",
+            "text": "Sjajna pobjeda naših rukometaša nad Norveškom! Još samo Francuska!",
+            "zanr":"sport",
+            "vrijeme":" 05.01.2018. | 12:52",
+            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },{
+            "id": 3,
+            "url":"3",
+            "title": "BRAVO ZA IVANA",
+            "text":"Ova ptica može govoriti a uz to je jedna od najljepših na svijetu",
+            "zanr":"scena",
+            "vrijeme":" 05.01.2018. | 12:52",
+            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },{
+            "id": 4,
+            "url":"4",
+            "title": "NAJLJEPŠE DOBA GODINE",
+            "text": "Svaka svijeća na adventskom vijencu ima značenje",
+            "zanr":"stil",
+            "vrijeme":" 05.01.2018. | 12:52",
+            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."    
+        },
+        {
+            "id": 5,
+            "url":"5",
+            "title": "BIT CE HLADNIJE",
+            "text": "Dalmaciju danas očekuju jugo i pljuskovi praćeni grmljavinom, a sljedeći tjedan stiže jaka i olujna bura",
+            "zanr":"dalmacija",
+            "vrijeme":" 05.01.2018. | 12:52",
+            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        
+            },{
+            "id": 6,
+            "url":"1",
+            "title": "REZULTAT 2:1",
+            "text": "Dobra uvertira za United: City opet do spasa u zadnjih 10 min",
+            "zanr":"sport",
+            "vrijeme":" 05.01.2018. | 12:52",
+            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },{
+            "id": 7,
+            "url":"2",
+            "title": "BRAVO ZA IVANA",
+            "text":"Ivan Šarić zaradio ovacije u rasprodanom Lisinskom!",
+            "zanr":"scena",
+            "vrijeme":" 05.01.2018. | 12:52",
+            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },{
+            "id": 8,
+            "url":"3",
+            "title": "NAJLJEPŠE DOBA GODINE",
+            "text": "Svaka svijeća na adventskom vijencu ima značenje",
+            "zanr":"stil",
+            "vrijeme":" 05.01.2018. | 12:52",
+            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."    
+        }
+    ],
+
+    "najčitanije" : [
+        {
+            "id": 1,
+            "url":"dalmacija",
+            "title": "BIT CE HLADNIJE",
+            "text": "Dalmaciju danas očekuju jugo i pljuskovi praćeni grmljavinom, a sljedeći tjedan stiže jaka i olujna bura",
+            "zanr":"dalmacija",
+            "vrijeme":" 05.01.2018. | 12:52",
+            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        
+        },{
+            "id": 2,
+            "url":"sport",
+            "title": "REZULTAT 2:1",
+            "text": "Dobra uvertira za United: City opet do spasa u zadnjih 10 min",
+            "zanr":"sport",
+            "vrijeme":" 05.01.2018. | 12:52",
+            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },{
+            "id": 3,
+            "url":"scena",
+            "title": "BRAVO ZA IVANA",
+            "text":"Ivan Šarić zaradio ovacije u rasprodanom Lisinskom!",
+            "zanr":"scena",
+            "vrijeme":" 05.01.2018. | 12:52",
+            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },{
+            "id": 4,
+            "url":"stil",
+            "title": "NAJLJEPŠE DOBA GODINE",
+            "text": "Svaka svijeća na adventskom vijencu ima značenje",
+            "zanr":"stil",
+            "vrijeme":" 05.01.2018. | 12:52",
+            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."    
+        }
+    ],
+
+    "najnovije" : [
+            {
+            "id": 1,
+            "url":"sport",
+            "title": "BIT CE HLADNIJE",
+            "text": "Dalmaciju danas očekuju jugo i pljuskovi praćeni grmljavinom, a sljedeći tjedan stiže jaka i olujna bura",
+            "zanr":"dalmacija",
+            "vrijeme":" 05.01.2018. | 12:52",
+            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        
+        },{
+            "id": 2,
+            "url":"sport",
+            "title": "REZULTAT 2:1",
+            "text": "Dobra uvertira za United: City opet do spasa u zadnjih 10 min",
+            "zanr":"sport",
+            "vrijeme":" 05.01.2018. | 12:52",
+            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },{
+            "id": 3,
+            "url":"scena",
+            "title": "BRAVO ZA IVANA",
+            "text":"Ivan Šarić zaradio ovacije u rasprodanom Lisinskom!",
+            "zanr":"scena",
+            "vrijeme":" 05.01.2018. | 12:52",
+            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },{
+            "id": 4,
+            "url":"stil",
+            "title": "NAJLJEPŠE DOBA GODINE",
+            "text": "Svaka svijeća na adventskom vijencu ima značenje",
+            "zanr":"stil",
+            "vrijeme":" 05.01.2018. | 12:52",
+            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."    
+        }
+    ]
 }

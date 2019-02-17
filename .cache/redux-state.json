@@ -961,16 +961,16 @@
         "title": "",
         "description": ""
       },
-      "port": 8001,
+      "port": "8000",
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-02-15T11:47:44.686Z",
+      "buildTime": "2019-02-17T10:25:37.312Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5054aac42e7858ee1ccbf009f343800c",
+        "contentDigest": "a097f14838eaf5deb8e41b5762815472",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
