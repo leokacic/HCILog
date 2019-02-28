@@ -142,14 +142,17 @@
   border-bottom: 3px solid lightblue;
 }
 @supports (display: grid) {
-  @media screen and (max-width: 400px) {
+  @media screen and (max-width: 450px) {
     /*za mobitele */
     .Logo {
       display: none;
     }
     .Img {
-      width: 100%;
-      height: 100%;
+      width: 45%;
+      height: 50%;
+    }
+    .Nav{
+      display: none;
     }
   }
 }
@@ -157,7 +160,6 @@
   /*za tablete */
   .Logo{
     font-size: 18px;
-
   }
 }
 
