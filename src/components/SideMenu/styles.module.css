@@ -6,7 +6,7 @@
   height: 100%;
   width: 200px;
 
-  background-color: #fff;
+  background-color: black;
   border-left: 5px solid var(--color-gold, #000);
 
   transition: transform 0.5s ease;

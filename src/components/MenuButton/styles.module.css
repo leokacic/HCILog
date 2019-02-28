@@ -8,10 +8,10 @@
   transform: translateY(-50%);
 
   cursor: pointer;
-  background: #fff;
+  background: black;
   border: 1px solid var(--color-grey, #000);
   display: none;
-
+  color: orange;
   padding: 0 10px;
   overflow-y: hidden;
   transition: all 0.25s linear;
@@ -26,7 +26,7 @@
 }
 
 .Content.open {
-  color: #fff;
+  color: black;
 }
 
 .Button.open {

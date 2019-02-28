@@ -4,24 +4,24 @@
       "jsonName": "dev-404-page-5f9",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "C:/Users/PC/Desktop/CagaljAkt/.cache/dev-404-page.js",
+      "component": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
       "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
       "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/.cache/dev-404-page.js",
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d447103c9cb5b69a3ace84448b63b107",
+        "contentDigest": "7beb29a74fd563d515bc584cfa9da220",
         "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
         "owner": "internal-data-bridge"
       }
     },
     "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
-      "resolve": "C:/Users/PC/Desktop/CagaljAkt/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -33,7 +33,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/PC/Desktop/CagaljAkt/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -50,13 +50,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3e1995df4de62612f6190bc28f20a459",
+        "contentDigest": "22880d37093cf67b41e404ed49e3f693",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "1fc32581-893a-55e8-8927-bcd667e2b700": {
-      "resolve": "C:/Users/PC/Desktop/CagaljAkt/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "resolve": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
       "name": "load-babel-config",
       "version": "1.0.0",
@@ -68,7 +68,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/PC/Desktop/CagaljAkt/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "pluginFilepath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "packageJson": {
         "name": "load-babel-config",
         "description": "Internal plugin that handles loading Babel configs",
@@ -85,13 +85,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "287b296c7ebc47ff771ae41a3b27865b",
+        "contentDigest": "733b114070663efd87705d12d883c7db",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
-      "resolve": "C:/Users/PC/Desktop/CagaljAkt/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -104,7 +104,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/PC/Desktop/CagaljAkt/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -121,13 +121,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b2739cd547a6f5ec93d4788809392cf6",
+        "contentDigest": "a871e0bab16d8cb6c25cb0f6e108c72b",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
-      "resolve": "C:/Users/PC/Desktop/CagaljAkt/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
       "name": "prod-404",
       "version": "1.0.0",
@@ -139,7 +139,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/PC/Desktop/CagaljAkt/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -156,13 +156,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8773b63156d4c5280b07f21e9a2a0085",
+        "contentDigest": "1c281af005c9d902d8f57d6de73e23b7",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "84dad27f-1d44-51fc-ac56-4db2e5222995": {
-      "resolve": "C:/Users/PC/Desktop/CagaljAkt/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
       "name": "query-runner",
       "version": "1.0.0",
@@ -174,7 +174,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/PC/Desktop/CagaljAkt/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -191,128 +191,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c1e3dfd2dbade66bed0e75a260067f72",
-        "type": "SitePlugin",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "9aae45e3-a084-5831-bcc8-253be8f5cd26": {
-      "resolve": "C:/Users/PC/Desktop/CagaljAkt/node_modules/gatsby-source-filesystem",
-      "id": "9aae45e3-a084-5831-bcc8-253be8f5cd26",
-      "name": "gatsby-source-filesystem",
-      "version": "2.0.6",
-      "pluginOptions": {
-        "plugins": [],
-        "path": "C:\\Users\\PC\\Desktop\\CagaljAkt/content/posts",
-        "name": "posts"
-      },
-      "nodeAPIs": [
-        "sourceNodes",
-        "setFieldsOnGraphQLNodeType"
-      ],
-      "browserAPIs": [],
-      "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/PC/Desktop/CagaljAkt/node_modules/gatsby-source-filesystem",
-      "packageJson": {
-        "name": "gatsby-source-filesystem",
-        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
-        "version": "2.0.6",
-        "keywords": [
-          "gatsby",
-          "gatsby-plugin"
-        ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
-        "license": "MIT",
-        "dependencies": [
-          {
-            "name": "@babel/runtime",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "better-queue",
-            "version": "^3.8.7"
-          },
-          {
-            "name": "bluebird",
-            "version": "^3.5.0"
-          },
-          {
-            "name": "chokidar",
-            "version": "^1.7.0"
-          },
-          {
-            "name": "fs-extra",
-            "version": "^5.0.0"
-          },
-          {
-            "name": "got",
-            "version": "^7.1.0"
-          },
-          {
-            "name": "md5-file",
-            "version": "^3.1.1"
-          },
-          {
-            "name": "mime",
-            "version": "^2.2.0"
-          },
-          {
-            "name": "pretty-bytes",
-            "version": "^4.0.2"
-          },
-          {
-            "name": "slash",
-            "version": "^1.0.0"
-          },
-          {
-            "name": "valid-url",
-            "version": "^1.0.9"
-          },
-          {
-            "name": "xstate",
-            "version": "^3.1.0"
-          }
-        ],
-        "devDependencies": [
-          {
-            "name": "@babel/cli",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "@babel/core",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "babel-preset-gatsby-package",
-            "version": "^0.1.2"
-          },
-          {
-            "name": "cross-env",
-            "version": "^5.1.4"
-          }
-        ],
-        "peerDependencies": [
-          {
-            "name": "gatsby",
-            "version": ">2.0.0-alpha"
-          }
-        ],
-        "optionalDependecies": [],
-        "bundledDependecies": []
-      },
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "contentDigest": "f92cde163e6f7bd13df95bfe42d09933",
+        "contentDigest": "3a98fd866ea61e0ae1a4984f8db2401f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "84d6154d-4241-556c-a679-cc8339cac100": {
-      "resolve": "C:/Users/PC/Desktop/CagaljAkt/node_modules/gatsby-plugin-sharp",
+      "resolve": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/node_modules/gatsby-plugin-sharp",
       "id": "84d6154d-4241-556c-a679-cc8339cac100",
       "name": "gatsby-plugin-sharp",
       "version": "2.0.10",
@@ -322,7 +207,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/PC/Desktop/CagaljAkt/node_modules/gatsby-plugin-sharp",
+      "pluginFilepath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/node_modules/gatsby-plugin-sharp",
       "packageJson": {
         "name": "gatsby-plugin-sharp",
         "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
@@ -435,37 +320,428 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "10c5ec411a2958d1f6f2955299fd3dee",
+        "contentDigest": "b0cffc7c4b5a0a29b8ac38b7a8cc86b7",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
-    "7e6d3d9f-6fdc-5b54-8ce2-557fd01e2629": {
-      "resolve": "C:/Users/PC/Desktop/CagaljAkt/node_modules/gatsby-transformer-remark",
-      "id": "7e6d3d9f-6fdc-5b54-8ce2-557fd01e2629",
+    "2847462d-e980-51b8-b45c-46ddefda4060": {
+      "resolve": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/node_modules/gatsby-remark-images",
+      "id": "2847462d-e980-51b8-b45c-46ddefda4060",
+      "name": "gatsby-remark-images",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": [],
+        "maxWidth": 1000,
+        "linkImagesToOriginal": false,
+        "backgroundColor": "transparent",
+        "wrapperStyle": "",
+        "showCaptions": false,
+        "pathPrefix": "",
+        "withWebp": false
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "markdown",
+          "remark",
+          "responsive images"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit-parents",
+            "version": "^2.0.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.5"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "52cb92d237de264d976f56ab49ddc978",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "89659580-5fb3-5e5a-8bec-f752a04d705f": {
+      "resolve": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/node_modules/gatsby-plugin-create-client-paths",
+      "id": "89659580-5fb3-5e5a-8bec-f752a04d705f",
+      "name": "gatsby-plugin-create-client-paths",
+      "version": "2.0.4",
+      "pluginOptions": {
+        "plugins": [],
+        "prefixes": [
+          "/private/*"
+        ]
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/node_modules/gatsby-plugin-create-client-paths",
+      "packageJson": {
+        "name": "gatsby-plugin-create-client-paths",
+        "description": "Gatsby-plugin for creating paths that exist only on the client",
+        "version": "2.0.4",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "scott.eckenthal@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b0ff83ee1d45bea8943b36fd05d2d4fd",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "93f18acd4dbf10ac7eabca330d5e2bcc",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne",
+      "packageJson": {
+        "name": "gatsby-starter-hello-world",
+        "description": "Gatsby hello world starter",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "classnames",
+            "version": "^2.2.6"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.34"
+          },
+          {
+            "name": "gatsby-plugin-create-client-paths",
+            "version": "^2.0.4"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.10"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.6"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.1.11"
+          },
+          {
+            "name": "react",
+            "version": "^16.5.1"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.5.1"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-router-dom",
+            "version": "^4.3.1"
+          },
+          {
+            "name": "rimraf",
+            "version": "^2.6.2"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "900d520a9d8c7047eb45211a53bfeac3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "",
+        "description": ""
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-02-28T15:42:05.987Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "347708d72f98125936bb5e66ab7b71fb",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "5f03d99d-1aa8-504c-9142-d58761e847c5": {
+      "resolve": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/node_modules/gatsby-source-filesystem",
+      "id": "5f03d99d-1aa8-504c-9142-d58761e847c5",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.6",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "C:\\Users\\PC\\Desktop\\Leo\\Leo faks\\KorisnickaSucelja-SveVezanoZaProjekt\\MojaVerzijaPRijeAne/content/posts",
+        "name": "posts"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.6",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c2f306e0055f76e43f6516adb93795da",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "0bd5a785-df7b-5b59-9b38-fe46f231892d": {
+      "resolve": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/node_modules/gatsby-transformer-remark",
+      "id": "0bd5a785-df7b-5b59-9b38-fe46f231892d",
       "name": "gatsby-transformer-remark",
       "version": "2.1.11",
       "pluginOptions": {
         "plugins": [
           {
-            "resolve": "C:/Users/PC/Desktop/CagaljAkt/node_modules/gatsby-remark-images",
+            "resolve": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/node_modules/gatsby-remark-images",
             "id": "2847462d-e980-51b8-b45c-46ddefda4060",
             "name": "gatsby-remark-images",
             "version": "2.0.5",
             "pluginOptions": {
-              "plugins": [],
-              "maxWidth": 1000,
-              "linkImagesToOriginal": false,
-              "backgroundColor": "transparent",
-              "wrapperStyle": "",
-              "showCaptions": false,
-              "pathPrefix": "",
-              "withWebp": false
+              "$ref": "$[\"nodes\"][\"2847462d-e980-51b8-b45c-46ddefda4060\"][\"pluginOptions\"]"
             },
-            "nodeAPIs": [],
-            "browserAPIs": [],
-            "ssrAPIs": [],
-            "pluginFilepath": "C:/Users/PC/Desktop/CagaljAkt/node_modules/gatsby-remark-images"
+            "nodeAPIs": {
+              "$ref": "$[\"nodes\"][\"2847462d-e980-51b8-b45c-46ddefda4060\"][\"nodeAPIs\"]"
+            },
+            "browserAPIs": {
+              "$ref": "$[\"nodes\"][\"2847462d-e980-51b8-b45c-46ddefda4060\"][\"browserAPIs\"]"
+            },
+            "ssrAPIs": {
+              "$ref": "$[\"nodes\"][\"2847462d-e980-51b8-b45c-46ddefda4060\"][\"ssrAPIs\"]"
+            },
+            "pluginFilepath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/node_modules/gatsby-remark-images"
           }
         ]
       },
@@ -475,7 +751,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/PC/Desktop/CagaljAkt/node_modules/gatsby-transformer-remark",
+      "pluginFilepath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/node_modules/gatsby-transformer-remark",
       "packageJson": {
         "name": "gatsby-transformer-remark",
         "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
@@ -599,272 +875,19 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "64de26e66f1f210cc42b9316c406db88",
+        "contentDigest": "d82124c7f4ba7a619a0c87c6e092439c",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
-    "2847462d-e980-51b8-b45c-46ddefda4060": {
-      "resolve": "C:/Users/PC/Desktop/CagaljAkt/node_modules/gatsby-remark-images",
-      "id": "2847462d-e980-51b8-b45c-46ddefda4060",
-      "name": "gatsby-remark-images",
-      "version": "2.0.5",
-      "pluginOptions": {
-        "$ref": "$[\"nodes\"][\"7e6d3d9f-6fdc-5b54-8ce2-557fd01e2629\"][\"pluginOptions\"][\"plugins\"][0][\"pluginOptions\"]"
-      },
-      "nodeAPIs": {
-        "$ref": "$[\"nodes\"][\"7e6d3d9f-6fdc-5b54-8ce2-557fd01e2629\"][\"pluginOptions\"][\"plugins\"][0][\"nodeAPIs\"]"
-      },
-      "browserAPIs": {
-        "$ref": "$[\"nodes\"][\"7e6d3d9f-6fdc-5b54-8ce2-557fd01e2629\"][\"pluginOptions\"][\"plugins\"][0][\"browserAPIs\"]"
-      },
-      "ssrAPIs": {
-        "$ref": "$[\"nodes\"][\"7e6d3d9f-6fdc-5b54-8ce2-557fd01e2629\"][\"pluginOptions\"][\"plugins\"][0][\"ssrAPIs\"]"
-      },
-      "pluginFilepath": "C:/Users/PC/Desktop/CagaljAkt/node_modules/gatsby-remark-images",
-      "packageJson": {
-        "name": "gatsby-remark-images",
-        "description": "Processes images in markdown so they can be used in the production build.",
-        "version": "2.0.5",
-        "main": "index.js",
-        "keywords": [
-          "gatsby",
-          "gatsby-plugin",
-          "image",
-          "markdown",
-          "remark",
-          "responsive images"
-        ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
-        "license": "MIT",
-        "dependencies": [
-          {
-            "name": "@babel/runtime",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "cheerio",
-            "version": "^1.0.0-rc.2"
-          },
-          {
-            "name": "is-relative-url",
-            "version": "^2.0.0"
-          },
-          {
-            "name": "lodash",
-            "version": "^4.17.10"
-          },
-          {
-            "name": "slash",
-            "version": "^1.0.0"
-          },
-          {
-            "name": "unist-util-select",
-            "version": "^1.5.0"
-          },
-          {
-            "name": "unist-util-visit-parents",
-            "version": "^2.0.1"
-          }
-        ],
-        "devDependencies": [
-          {
-            "name": "@babel/cli",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "@babel/core",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "babel-preset-gatsby-package",
-            "version": "^0.1.2"
-          },
-          {
-            "name": "cross-env",
-            "version": "^5.1.4"
-          }
-        ],
-        "peerDependencies": [
-          {
-            "name": "gatsby",
-            "version": ">2.0.0-alpha"
-          },
-          {
-            "name": "gatsby-plugin-sharp",
-            "version": "^2.0.0-beta.5"
-          }
-        ],
-        "optionalDependecies": [],
-        "bundledDependecies": []
-      },
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "contentDigest": "bce4b8cd1073964e16d887d6748147cc",
-        "type": "SitePlugin",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "89659580-5fb3-5e5a-8bec-f752a04d705f": {
-      "resolve": "C:/Users/PC/Desktop/CagaljAkt/node_modules/gatsby-plugin-create-client-paths",
-      "id": "89659580-5fb3-5e5a-8bec-f752a04d705f",
-      "name": "gatsby-plugin-create-client-paths",
-      "version": "2.0.4",
-      "pluginOptions": {
-        "plugins": [],
-        "prefixes": [
-          "/private/*"
-        ]
-      },
-      "nodeAPIs": [
-        "onCreatePage"
-      ],
-      "browserAPIs": [],
-      "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/PC/Desktop/CagaljAkt/node_modules/gatsby-plugin-create-client-paths",
-      "packageJson": {
-        "name": "gatsby-plugin-create-client-paths",
-        "description": "Gatsby-plugin for creating paths that exist only on the client",
-        "version": "2.0.4",
-        "main": "index.js",
-        "keywords": [
-          "gatsby",
-          "gatsby-plugin"
-        ],
-        "author": {
-          "name": "scott.eckenthal@gmail.com"
-        },
-        "license": "MIT",
-        "dependencies": [
-          {
-            "name": "@babel/runtime",
-            "version": "^7.0.0"
-          }
-        ],
-        "devDependencies": [
-          {
-            "name": "@babel/cli",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "@babel/core",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "babel-preset-gatsby-package",
-            "version": "^0.1.3"
-          },
-          {
-            "name": "cross-env",
-            "version": "^5.1.4"
-          }
-        ],
-        "peerDependencies": [
-          {
-            "name": "gatsby",
-            "version": "^2.0.0"
-          }
-        ],
-        "optionalDependecies": [],
-        "bundledDependecies": []
-      },
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "contentDigest": "d9cbc8320de7f159c7e284200963c260",
-        "type": "SitePlugin",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
-      "resolve": "C:/Users/PC/Desktop/CagaljAkt",
-      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "name": "default-site-plugin",
-      "version": "93f18acd4dbf10ac7eabca330d5e2bcc",
-      "pluginOptions": {
-        "plugins": []
-      },
-      "nodeAPIs": [
-        "createPages"
-      ],
-      "browserAPIs": [],
-      "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/PC/Desktop/CagaljAkt",
-      "packageJson": {
-        "name": "gatsby-starter-hello-world",
-        "description": "Gatsby hello world starter",
-        "license": "MIT",
-        "dependencies": [
-          {
-            "name": "classnames",
-            "version": "^2.2.6"
-          },
-          {
-            "name": "gatsby",
-            "version": "^2.0.34"
-          },
-          {
-            "name": "gatsby-plugin-create-client-paths",
-            "version": "^2.0.4"
-          },
-          {
-            "name": "gatsby-plugin-sharp",
-            "version": "^2.0.10"
-          },
-          {
-            "name": "gatsby-remark-images",
-            "version": "^2.0.5"
-          },
-          {
-            "name": "gatsby-source-filesystem",
-            "version": "^2.0.6"
-          },
-          {
-            "name": "gatsby-transformer-remark",
-            "version": "^2.1.11"
-          },
-          {
-            "name": "react",
-            "version": "^16.5.1"
-          },
-          {
-            "name": "react-dom",
-            "version": "^16.5.1"
-          },
-          {
-            "name": "react-helmet",
-            "version": "^5.2.0"
-          },
-          {
-            "name": "rimraf",
-            "version": "^2.6.2"
-          }
-        ],
-        "devDependencies": [],
-        "peerDependencies": [],
-        "optionalDependecies": [],
-        "bundledDependecies": []
-      },
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "contentDigest": "564c36631642e5003e9596bbd8bb49a6",
-        "type": "SitePlugin",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "4094f2f5-1bc5-5feb-801d-1444072d2601": {
-      "resolve": "C:/Users/PC/Desktop/CagaljAkt/node_modules/gatsby-plugin-page-creator",
-      "id": "4094f2f5-1bc5-5feb-801d-1444072d2601",
+    "5fcbb6da-0f92-52dc-a854-398670d03462": {
+      "resolve": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/node_modules/gatsby-plugin-page-creator",
+      "id": "5fcbb6da-0f92-52dc-a854-398670d03462",
       "name": "gatsby-plugin-page-creator",
       "version": "2.0.2",
       "pluginOptions": {
         "plugins": [],
-        "path": "C:/Users/PC/Desktop/CagaljAkt/src/pages",
+        "path": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages",
         "pathCheck": false
       },
       "nodeAPIs": [
@@ -872,7 +895,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/PC/Desktop/CagaljAkt/node_modules/gatsby-plugin-page-creator",
+      "pluginFilepath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/node_modules/gatsby-plugin-page-creator",
       "packageJson": {
         "name": "gatsby-plugin-page-creator",
         "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
@@ -951,90 +974,33 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7e87fce694ae1d18dbe30412c9ebb602",
+        "contentDigest": "2976bd5e1d2d8c577de9a5a133c500bf",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
-    "Site": {
-      "siteMetadata": {
-        "title": "",
-        "description": ""
-      },
-      "port": 8001,
-      "host": "localhost",
-      "pathPrefix": "",
-      "polyfill": true,
-      "buildTime": "2019-02-18T11:40:23.474Z",
-      "id": "Site",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "contentDigest": "376d48b3da04e9fcbf57dbf8f6ed8780",
-        "type": "Site",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "27bd1691-0243-5d59-94ad-641382e52550": {
-      "id": "27bd1691-0243-5d59-94ad-641382e52550",
+    "ccde350a-a66b-5dd6-9116-004390ba0e76": {
+      "id": "ccde350a-a66b-5dd6-9116-004390ba0e76",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5aaf8cc167ebc8a2b4c4fab6b5f1ab82",
-        "type": "Directory",
-        "description": "Directory \"content\\posts\\01-11-2018--post-3\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/01-11-2018--post-3",
-      "relativePath": "01-11-2018--post-3",
-      "extension": "",
-      "size": 0,
-      "prettySize": "0 B",
-      "modifiedTime": "2018-12-20T11:20:40.085Z",
-      "accessTime": "2019-02-13T10:51:17.497Z",
-      "changeTime": "2019-02-13T10:51:18.601Z",
-      "birthTime": "2019-02-13T10:51:16.746Z",
-      "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts",
-      "base": "01-11-2018--post-3",
-      "ext": "",
-      "name": "01-11-2018--post-3",
-      "relativeDirectory": "",
-      "dev": -256696446,
-      "mode": 16822,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 23362423067198764,
-      "atime": "2019-02-13T10:51:17.497Z",
-      "mtime": "2018-12-20T11:20:40.085Z",
-      "ctime": "2019-02-13T10:51:18.601Z",
-      "birthtime": "2019-02-13T10:51:16.746Z"
-    },
-    "a433f156-256a-50f0-8def-36ea2a13e5dd": {
-      "id": "a433f156-256a-50f0-8def-36ea2a13e5dd",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "5f05884833cc20e12d658a9b031d4db3",
+        "contentDigest": "a6c59ca8808b0319b3333904c90673b8",
         "type": "Directory",
         "description": "Directory \"content\\posts\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts",
       "relativePath": "",
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-12-20T11:20:40.179Z",
-      "accessTime": "2019-02-13T10:51:16.760Z",
-      "changeTime": "2019-02-13T10:51:18.608Z",
-      "birthTime": "2019-02-13T10:51:16.746Z",
+      "modifiedTime": "2019-02-28T15:41:24.708Z",
+      "accessTime": "2019-02-28T15:41:24.708Z",
+      "changeTime": "2019-02-28T15:41:24.708Z",
+      "birthTime": "2019-02-28T15:41:24.366Z",
       "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content",
       "base": "posts",
       "ext": "",
       "name": "posts",
@@ -1045,34 +1011,34 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 4222124650874148,
-      "atime": "2019-02-13T10:51:16.760Z",
-      "mtime": "2018-12-20T11:20:40.179Z",
-      "ctime": "2019-02-13T10:51:18.608Z",
-      "birthtime": "2019-02-13T10:51:16.746Z"
+      "ino": 1407374884021294,
+      "atime": "2019-02-28T15:41:24.708Z",
+      "mtime": "2019-02-28T15:41:24.708Z",
+      "ctime": "2019-02-28T15:41:24.708Z",
+      "birthtime": "2019-02-28T15:41:24.366Z"
     },
-    "12eba731-2241-5eac-9028-93867dc9b100": {
-      "id": "12eba731-2241-5eac-9028-93867dc9b100",
+    "a087cd6e-0eb2-598a-b293-f4553a9a71e8": {
+      "id": "a087cd6e-0eb2-598a-b293-f4553a9a71e8",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b8bc3dfb2076defc1de433c52a9436f1",
+        "contentDigest": "bb27a3849e832ba0305511f13d59336f",
         "type": "Directory",
         "description": "Directory \"content\\posts\\03-11-2018--post-5\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/03-11-2018--post-5",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/03-11-2018--post-5",
       "relativePath": "03-11-2018--post-5",
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-12-20T11:20:40.132Z",
-      "accessTime": "2019-02-13T10:51:17.505Z",
-      "changeTime": "2019-02-13T10:51:18.602Z",
-      "birthTime": "2019-02-13T10:51:16.749Z",
+      "modifiedTime": "2019-02-28T15:41:24.531Z",
+      "accessTime": "2019-02-28T15:41:24.531Z",
+      "changeTime": "2019-02-28T15:41:24.531Z",
+      "birthTime": "2019-02-28T15:41:24.523Z",
       "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts",
       "base": "03-11-2018--post-5",
       "ext": "",
       "name": "03-11-2018--post-5",
@@ -1083,34 +1049,34 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 6473924464559430,
-      "atime": "2019-02-13T10:51:17.505Z",
-      "mtime": "2018-12-20T11:20:40.132Z",
-      "ctime": "2019-02-13T10:51:18.602Z",
-      "birthtime": "2019-02-13T10:51:16.749Z"
+      "ino": 1407374884021306,
+      "atime": "2019-02-28T15:41:24.531Z",
+      "mtime": "2019-02-28T15:41:24.531Z",
+      "ctime": "2019-02-28T15:41:24.531Z",
+      "birthtime": "2019-02-28T15:41:24.523Z"
     },
-    "083ce594-a234-5ca1-8b95-faa3c27c8dde": {
-      "id": "083ce594-a234-5ca1-8b95-faa3c27c8dde",
+    "8e5fb6ef-5d11-535b-8a1a-4cc58bbc7b88": {
+      "id": "8e5fb6ef-5d11-535b-8a1a-4cc58bbc7b88",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "48de23f74cc1e19d5a67c5943942a632",
+        "contentDigest": "8c3527822234aabb076a1b1204c244d0",
         "type": "Directory",
         "description": "Directory \"content\\posts\\02-11-2018--post-4\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/02-11-2018--post-4",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/02-11-2018--post-4",
       "relativePath": "02-11-2018--post-4",
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-12-20T11:20:40.117Z",
-      "accessTime": "2019-02-13T10:51:17.501Z",
-      "changeTime": "2019-02-13T10:51:18.602Z",
-      "birthTime": "2019-02-13T10:51:16.748Z",
+      "modifiedTime": "2019-02-28T15:41:24.487Z",
+      "accessTime": "2019-02-28T15:41:24.487Z",
+      "changeTime": "2019-02-28T15:41:24.487Z",
+      "birthTime": "2019-02-28T15:41:24.466Z",
       "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts",
       "base": "02-11-2018--post-4",
       "ext": "",
       "name": "02-11-2018--post-4",
@@ -1121,37 +1087,37 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 4503599627584829,
-      "atime": "2019-02-13T10:51:17.501Z",
-      "mtime": "2018-12-20T11:20:40.117Z",
-      "ctime": "2019-02-13T10:51:18.602Z",
-      "birthtime": "2019-02-13T10:51:16.748Z"
+      "ino": 1407374884021301,
+      "atime": "2019-02-28T15:41:24.487Z",
+      "mtime": "2019-02-28T15:41:24.487Z",
+      "ctime": "2019-02-28T15:41:24.487Z",
+      "birthtime": "2019-02-28T15:41:24.466Z"
     },
-    "19dfba9f-685c-5c4e-bf83-7b259fe01121": {
-      "id": "19dfba9f-685c-5c4e-bf83-7b259fe01121",
+    "b5f4e991-bbb8-5f0d-9b87-9bc8b127e955": {
+      "id": "b5f4e991-bbb8-5f0d-9b87-9bc8b127e955",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c3205d69380a60afb7ae2dede6907964",
+        "contentDigest": "2cc277979e74aca1a18b61ac16ad358a",
         "type": "Directory",
-        "description": "Directory \"content\\posts\\30-10-2018--hello-world\"",
+        "description": "Directory \"content\\posts\\01-11-2018--post-3\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/30-10-2018--hello-world",
-      "relativePath": "30-10-2018--hello-world",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/01-11-2018--post-3",
+      "relativePath": "01-11-2018--post-3",
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-12-20T11:20:40.164Z",
-      "accessTime": "2019-02-13T10:51:17.509Z",
-      "changeTime": "2019-02-13T10:51:18.602Z",
-      "birthTime": "2019-02-13T10:51:16.750Z",
+      "modifiedTime": "2019-02-28T15:41:24.378Z",
+      "accessTime": "2019-02-28T15:41:24.378Z",
+      "changeTime": "2019-02-28T15:41:24.378Z",
+      "birthTime": "2019-02-28T15:41:24.370Z",
       "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts",
-      "base": "30-10-2018--hello-world",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts",
+      "base": "01-11-2018--post-3",
       "ext": "",
-      "name": "30-10-2018--hello-world",
+      "name": "01-11-2018--post-3",
       "relativeDirectory": "",
       "dev": -256696446,
       "mode": 16822,
@@ -1159,72 +1125,34 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 7599824371402060,
-      "atime": "2019-02-13T10:51:17.509Z",
-      "mtime": "2018-12-20T11:20:40.164Z",
-      "ctime": "2019-02-13T10:51:18.602Z",
-      "birthtime": "2019-02-13T10:51:16.750Z"
+      "ino": 1407374884021295,
+      "atime": "2019-02-28T15:41:24.378Z",
+      "mtime": "2019-02-28T15:41:24.378Z",
+      "ctime": "2019-02-28T15:41:24.378Z",
+      "birthtime": "2019-02-28T15:41:24.370Z"
     },
-    "1b36a2b0-4b7e-5503-94c1-637d34742f9a": {
-      "id": "1b36a2b0-4b7e-5503-94c1-637d34742f9a",
+    "5e90716f-1e7f-5131-a302-5d7faa97d041": {
+      "id": "5e90716f-1e7f-5131-a302-5d7faa97d041",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7e9e741327cfb4afc19a62f01f21889e",
-        "type": "Directory",
-        "description": "Directory \"content\\posts\\01-11-2018--post-3\\images\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/01-11-2018--post-3/images",
-      "relativePath": "01-11-2018--post-3/images",
-      "extension": "",
-      "size": 0,
-      "prettySize": "0 B",
-      "modifiedTime": "2018-12-20T11:20:40.085Z",
-      "accessTime": "2019-02-13T10:51:17.496Z",
-      "changeTime": "2019-02-13T10:51:18.577Z",
-      "birthTime": "2019-02-13T10:51:16.747Z",
-      "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts/01-11-2018--post-3",
-      "base": "images",
-      "ext": "",
-      "name": "images",
-      "relativeDirectory": "01-11-2018--post-3",
-      "dev": -256696446,
-      "mode": 16822,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 5348024557716786,
-      "atime": "2019-02-13T10:51:17.496Z",
-      "mtime": "2018-12-20T11:20:40.085Z",
-      "ctime": "2019-02-13T10:51:18.577Z",
-      "birthtime": "2019-02-13T10:51:16.747Z"
-    },
-    "7c21cde7-4a71-52a0-9c47-3ffa4149f7b2": {
-      "id": "7c21cde7-4a71-52a0-9c47-3ffa4149f7b2",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "e16d502a75e1cd0d008323b5dd2afde1",
+        "contentDigest": "2bc36fc219ca8d7e286df0c81b90831b",
         "type": "Directory",
         "description": "Directory \"content\\posts\\31-10-2018--post-2\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/31-10-2018--post-2",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/31-10-2018--post-2",
       "relativePath": "31-10-2018--post-2",
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-12-20T11:20:40.195Z",
-      "accessTime": "2019-02-13T10:51:17.512Z",
-      "changeTime": "2019-02-13T10:51:18.602Z",
-      "birthTime": "2019-02-13T10:51:16.760Z",
+      "modifiedTime": "2019-02-28T15:41:24.717Z",
+      "accessTime": "2019-02-28T15:41:24.717Z",
+      "changeTime": "2019-02-28T15:41:24.717Z",
+      "birthTime": "2019-02-28T15:41:24.708Z",
       "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts",
       "base": "31-10-2018--post-2",
       "ext": "",
       "name": "31-10-2018--post-2",
@@ -1235,110 +1163,72 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 3659174697452899,
-      "atime": "2019-02-13T10:51:17.512Z",
-      "mtime": "2018-12-20T11:20:40.195Z",
-      "ctime": "2019-02-13T10:51:18.602Z",
-      "birthtime": "2019-02-13T10:51:16.760Z"
+      "ino": 1407374884021318,
+      "atime": "2019-02-28T15:41:24.717Z",
+      "mtime": "2019-02-28T15:41:24.717Z",
+      "ctime": "2019-02-28T15:41:24.717Z",
+      "birthtime": "2019-02-28T15:41:24.708Z"
     },
-    "7afe264e-cf1d-5b4c-b445-621264d76d9e": {
-      "id": "7afe264e-cf1d-5b4c-b445-621264d76d9e",
+    "a4d71bee-209c-55bd-80e8-dc12becb1ab3": {
+      "id": "a4d71bee-209c-55bd-80e8-dc12becb1ab3",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "704a0659cf6cdf9fc7114a3ffa4e97f5",
+        "contentDigest": "7a44a29b95491dd3fb19b07faa6d1acc",
         "type": "Directory",
-        "description": "Directory \"content\\posts\\02-11-2018--post-4\\images\"",
+        "description": "Directory \"content\\posts\\30-10-2018--hello-world\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/02-11-2018--post-4/images",
-      "relativePath": "02-11-2018--post-4/images",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/30-10-2018--hello-world",
+      "relativePath": "30-10-2018--hello-world",
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-12-20T11:20:40.117Z",
-      "accessTime": "2019-02-13T10:51:17.500Z",
-      "changeTime": "2019-02-13T10:51:18.577Z",
-      "birthTime": "2019-02-13T10:51:16.748Z",
+      "modifiedTime": "2019-02-28T15:41:24.613Z",
+      "accessTime": "2019-02-28T15:41:24.613Z",
+      "changeTime": "2019-02-28T15:41:24.613Z",
+      "birthTime": "2019-02-28T15:41:24.588Z",
       "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts/02-11-2018--post-4",
-      "base": "images",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts",
+      "base": "30-10-2018--hello-world",
       "ext": "",
-      "name": "images",
-      "relativeDirectory": "02-11-2018--post-4",
+      "name": "30-10-2018--hello-world",
+      "relativeDirectory": "",
       "dev": -256696446,
       "mode": 16822,
       "nlink": 1,
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 46724846134183230,
-      "atime": "2019-02-13T10:51:17.500Z",
-      "mtime": "2018-12-20T11:20:40.117Z",
-      "ctime": "2019-02-13T10:51:18.577Z",
-      "birthtime": "2019-02-13T10:51:16.748Z"
+      "ino": 1407374884021312,
+      "atime": "2019-02-28T15:41:24.613Z",
+      "mtime": "2019-02-28T15:41:24.613Z",
+      "ctime": "2019-02-28T15:41:24.613Z",
+      "birthtime": "2019-02-28T15:41:24.588Z"
     },
-    "7cb72e85-ad49-5f04-b018-855780d520f4": {
-      "id": "7cb72e85-ad49-5f04-b018-855780d520f4",
+    "ba13e773-bf93-5bd4-ab7b-9e8fdf12968d": {
+      "id": "ba13e773-bf93-5bd4-ab7b-9e8fdf12968d",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7870cf51c1fbd603d4caefc734bced82",
-        "type": "Directory",
-        "description": "Directory \"content\\posts\\03-11-2018--post-5\\images\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/03-11-2018--post-5/images",
-      "relativePath": "03-11-2018--post-5/images",
-      "extension": "",
-      "size": 0,
-      "prettySize": "0 B",
-      "modifiedTime": "2018-12-20T11:20:40.148Z",
-      "accessTime": "2019-02-13T10:51:17.503Z",
-      "changeTime": "2019-02-13T10:51:18.577Z",
-      "birthTime": "2019-02-13T10:51:16.749Z",
-      "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts/03-11-2018--post-5",
-      "base": "images",
-      "ext": "",
-      "name": "images",
-      "relativeDirectory": "03-11-2018--post-5",
-      "dev": -256696446,
-      "mode": 16822,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 5348024557716811,
-      "atime": "2019-02-13T10:51:17.503Z",
-      "mtime": "2018-12-20T11:20:40.148Z",
-      "ctime": "2019-02-13T10:51:18.577Z",
-      "birthtime": "2019-02-13T10:51:16.749Z"
-    },
-    "15955a77-a351-58a1-b2d3-e29270a92f45": {
-      "id": "15955a77-a351-58a1-b2d3-e29270a92f45",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "0ce9c4f3c05d955e6839e221ea50d2d0",
+        "contentDigest": "16550dd42514ebd8e3993f177ddd8e28",
         "type": "Directory",
         "description": "Directory \"content\\posts\\30-10-2018--hello-world\\images\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/30-10-2018--hello-world/images",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/30-10-2018--hello-world/images",
       "relativePath": "30-10-2018--hello-world/images",
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-12-20T11:20:40.179Z",
-      "accessTime": "2019-02-13T10:51:17.507Z",
-      "changeTime": "2019-02-13T10:51:18.577Z",
-      "birthTime": "2019-02-13T10:51:16.759Z",
+      "modifiedTime": "2019-02-28T15:41:24.636Z",
+      "accessTime": "2019-02-28T15:41:24.636Z",
+      "changeTime": "2019-02-28T15:41:24.636Z",
+      "birthTime": "2019-02-28T15:41:24.613Z",
       "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts/30-10-2018--hello-world",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/30-10-2018--hello-world",
       "base": "images",
       "ext": "",
       "name": "images",
@@ -1349,34 +1239,34 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 4503599627584861,
-      "atime": "2019-02-13T10:51:17.507Z",
-      "mtime": "2018-12-20T11:20:40.179Z",
-      "ctime": "2019-02-13T10:51:18.577Z",
-      "birthtime": "2019-02-13T10:51:16.759Z"
+      "ino": 5348024557970498,
+      "atime": "2019-02-28T15:41:24.636Z",
+      "mtime": "2019-02-28T15:41:24.636Z",
+      "ctime": "2019-02-28T15:41:24.636Z",
+      "birthtime": "2019-02-28T15:41:24.613Z"
     },
-    "8e3b6aab-a7b2-5ac9-918d-2aef438c40d0": {
-      "id": "8e3b6aab-a7b2-5ac9-918d-2aef438c40d0",
+    "f8f37338-660f-561d-93c6-feaf39f40d62": {
+      "id": "f8f37338-660f-561d-93c6-feaf39f40d62",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4030c1c01d065d56872ef34475048e4f",
+        "contentDigest": "c0325e8ed385bef456969d8d15c76dcd",
         "type": "Directory",
         "description": "Directory \"content\\posts\\31-10-2018--post-2\\images\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/31-10-2018--post-2/images",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/31-10-2018--post-2/images",
       "relativePath": "31-10-2018--post-2/images",
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-12-20T11:20:40.195Z",
-      "accessTime": "2019-02-13T10:51:17.511Z",
-      "changeTime": "2019-02-13T10:51:18.577Z",
-      "birthTime": "2019-02-13T10:51:16.760Z",
+      "modifiedTime": "2019-02-28T15:41:24.741Z",
+      "accessTime": "2019-02-28T15:41:24.741Z",
+      "changeTime": "2019-02-28T15:41:24.741Z",
+      "birthTime": "2019-02-28T15:41:24.717Z",
       "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts/31-10-2018--post-2",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/31-10-2018--post-2",
       "base": "images",
       "ext": "",
       "name": "images",
@@ -1387,37 +1277,274 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 3377699720742264,
-      "atime": "2019-02-13T10:51:17.511Z",
-      "mtime": "2018-12-20T11:20:40.195Z",
-      "ctime": "2019-02-13T10:51:18.577Z",
-      "birthtime": "2019-02-13T10:51:16.760Z"
+      "ino": 6755399441523784,
+      "atime": "2019-02-28T15:41:24.741Z",
+      "mtime": "2019-02-28T15:41:24.741Z",
+      "ctime": "2019-02-28T15:41:24.741Z",
+      "birthtime": "2019-02-28T15:41:24.717Z"
     },
-    "f0008906-8f9e-5f3a-b21d-39d3f1871106": {
-      "id": "f0008906-8f9e-5f3a-b21d-39d3f1871106",
+    "4324795a-83b4-5042-806e-fd71f46ad30e": {
+      "id": "4324795a-83b4-5042-806e-fd71f46ad30e",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ad858494f22028b0cac95c177165883f",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\01-11-2018--post-3\\images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/01-11-2018--post-3/images",
+      "relativePath": "01-11-2018--post-3/images",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-02-28T15:41:24.446Z",
+      "accessTime": "2019-02-28T15:41:24.446Z",
+      "changeTime": "2019-02-28T15:41:24.446Z",
+      "birthTime": "2019-02-28T15:41:24.378Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/01-11-2018--post-3",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "01-11-2018--post-3",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1407374884021298,
+      "atime": "2019-02-28T15:41:24.446Z",
+      "mtime": "2019-02-28T15:41:24.446Z",
+      "ctime": "2019-02-28T15:41:24.446Z",
+      "birthtime": "2019-02-28T15:41:24.378Z"
+    },
+    "01d25400-c3e6-5aac-8b5b-a872aecffda7": {
+      "id": "01d25400-c3e6-5aac-8b5b-a872aecffda7",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3fe11bedd19c6e811f28381cafccf762",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\03-11-2018--post-5\\images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/03-11-2018--post-5/images",
+      "relativePath": "03-11-2018--post-5/images",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-02-28T15:41:24.546Z",
+      "accessTime": "2019-02-28T15:41:24.546Z",
+      "changeTime": "2019-02-28T15:41:24.546Z",
+      "birthTime": "2019-02-28T15:41:24.531Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/03-11-2018--post-5",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "03-11-2018--post-5",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1407374884021308,
+      "atime": "2019-02-28T15:41:24.546Z",
+      "mtime": "2019-02-28T15:41:24.546Z",
+      "ctime": "2019-02-28T15:41:24.546Z",
+      "birthtime": "2019-02-28T15:41:24.531Z"
+    },
+    "6a7a32fe-f0ce-5471-b971-0254d7a6e59c": {
+      "id": "6a7a32fe-f0ce-5471-b971-0254d7a6e59c",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5581fc43ecf1bc65662ed0c57bf90e05",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\02-11-2018--post-4\\images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/02-11-2018--post-4/images",
+      "relativePath": "02-11-2018--post-4/images",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-02-28T15:41:24.505Z",
+      "accessTime": "2019-02-28T15:41:24.505Z",
+      "changeTime": "2019-02-28T15:41:24.505Z",
+      "birthTime": "2019-02-28T15:41:24.487Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/02-11-2018--post-4",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "02-11-2018--post-4",
+      "dev": -256696446,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1407374884021303,
+      "atime": "2019-02-28T15:41:24.505Z",
+      "mtime": "2019-02-28T15:41:24.505Z",
+      "ctime": "2019-02-28T15:41:24.505Z",
+      "birthtime": "2019-02-28T15:41:24.487Z"
+    },
+    "283061b2-1d51-5dc1-873b-2afca31333ed": {
+      "id": "283061b2-1d51-5dc1-873b-2afca31333ed",
       "children": [
-        "4371fa97-977c-5a4c-bf8c-47131b30beb3"
+        "f2c31a50-5d39-5d13-8cee-2aa431bd88da"
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "96bd293039a833cf516bcd6c174d0f3e",
+        "contentDigest": "55d85ffcd27a0baae4bf012292c5e3ff",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\30-10-2018--hello-world\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/30-10-2018--hello-world/index.md",
+      "relativePath": "30-10-2018--hello-world/index.md",
+      "extension": "md",
+      "size": 3432,
+      "prettySize": "3.43 kB",
+      "modifiedTime": "2019-02-18T22:10:00.664Z",
+      "accessTime": "2019-02-28T15:41:24.592Z",
+      "changeTime": "2019-02-28T15:41:24.611Z",
+      "birthTime": "2019-02-28T15:41:24.592Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/30-10-2018--hello-world",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "30-10-2018--hello-world",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1407374884021313,
+      "atime": "2019-02-28T15:41:24.592Z",
+      "mtime": "2019-02-18T22:10:00.664Z",
+      "ctime": "2019-02-28T15:41:24.611Z",
+      "birthtime": "2019-02-28T15:41:24.592Z"
+    },
+    "95632235-2f3c-5466-9cd5-a92332b2dc86": {
+      "id": "95632235-2f3c-5466-9cd5-a92332b2dc86",
+      "children": [
+        "22ed6c36-fdad-5e9d-b1d6-dce2345aa330"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "14843e0c3e4f41a5dfe803ba6ae9d6ca",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\03-11-2018--post-5\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/03-11-2018--post-5/index.md",
+      "relativePath": "03-11-2018--post-5/index.md",
+      "extension": "md",
+      "size": 4317,
+      "prettySize": "4.32 kB",
+      "modifiedTime": "2019-02-18T18:58:18.605Z",
+      "accessTime": "2019-02-28T15:41:24.527Z",
+      "changeTime": "2019-02-28T15:41:24.529Z",
+      "birthTime": "2019-02-28T15:41:24.527Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/03-11-2018--post-5",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "03-11-2018--post-5",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1407374884021307,
+      "atime": "2019-02-28T15:41:24.527Z",
+      "mtime": "2019-02-18T18:58:18.605Z",
+      "ctime": "2019-02-28T15:41:24.529Z",
+      "birthtime": "2019-02-28T15:41:24.527Z"
+    },
+    "37472470-8d92-5f93-8316-add97302f2b4": {
+      "id": "37472470-8d92-5f93-8316-add97302f2b4",
+      "children": [
+        "24f65baf-5c9a-59a4-a536-48b1c6e560d2"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "23c507ffb2f4e0f0c956db7a1667144c",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\31-10-2018--post-2\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/31-10-2018--post-2/index.md",
+      "relativePath": "31-10-2018--post-2/index.md",
+      "extension": "md",
+      "size": 2726,
+      "prettySize": "2.73 kB",
+      "modifiedTime": "2019-02-18T19:13:36.154Z",
+      "accessTime": "2019-02-28T15:41:24.712Z",
+      "changeTime": "2019-02-28T15:41:24.714Z",
+      "birthTime": "2019-02-28T15:41:24.712Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/31-10-2018--post-2",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "31-10-2018--post-2",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1407374884021319,
+      "atime": "2019-02-28T15:41:24.712Z",
+      "mtime": "2019-02-18T19:13:36.154Z",
+      "ctime": "2019-02-28T15:41:24.714Z",
+      "birthtime": "2019-02-28T15:41:24.712Z"
+    },
+    "a73a63b5-bf1b-5b24-a916-095d0c5f060d": {
+      "id": "a73a63b5-bf1b-5b24-a916-095d0c5f060d",
+      "children": [
+        "7d22d1da-c142-5cc3-8b67-6fa0b8982050"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f370a1deaf98f2632ef90e28e2e269cc",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content\\posts\\01-11-2018--post-3\\index.md\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/01-11-2018--post-3/index.md",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/01-11-2018--post-3/index.md",
       "relativePath": "01-11-2018--post-3/index.md",
       "extension": "md",
-      "size": 2142,
-      "prettySize": "2.14 kB",
-      "modifiedTime": "2018-12-19T07:48:02.000Z",
-      "accessTime": "2019-02-13T10:51:17.497Z",
-      "changeTime": "2019-02-13T10:51:17.498Z",
-      "birthTime": "2019-02-13T10:51:17.497Z",
+      "size": 2429,
+      "prettySize": "2.43 kB",
+      "modifiedTime": "2019-02-18T19:13:02.707Z",
+      "accessTime": "2019-02-28T15:41:24.374Z",
+      "changeTime": "2019-02-28T15:41:24.376Z",
+      "birthTime": "2019-02-28T15:41:24.374Z",
       "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts/01-11-2018--post-3",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/01-11-2018--post-3",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
@@ -1428,217 +1555,14 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 31243722415127116,
-      "atime": "2019-02-13T10:51:17.497Z",
-      "mtime": "2018-12-19T07:48:02.000Z",
-      "ctime": "2019-02-13T10:51:17.498Z",
-      "birthtime": "2019-02-13T10:51:17.497Z"
+      "ino": 1407374884021296,
+      "atime": "2019-02-28T15:41:24.374Z",
+      "mtime": "2019-02-18T19:13:02.707Z",
+      "ctime": "2019-02-28T15:41:24.376Z",
+      "birthtime": "2019-02-28T15:41:24.374Z"
     },
-    "0876d61d-9986-5a27-8930-8448e4fdbb65": {
-      "id": "0876d61d-9986-5a27-8930-8448e4fdbb65",
-      "children": [
-        "20d3e252-f7db-5929-bce1-953d0a51d743"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "a48238dcf795bb4951d5c6ec4782dc9a",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"content\\posts\\02-11-2018--post-4\\index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/02-11-2018--post-4/index.md",
-      "relativePath": "02-11-2018--post-4/index.md",
-      "extension": "md",
-      "size": 2122,
-      "prettySize": "2.12 kB",
-      "modifiedTime": "2018-12-19T07:48:02.000Z",
-      "accessTime": "2019-02-13T10:51:17.501Z",
-      "changeTime": "2019-02-13T10:51:17.501Z",
-      "birthTime": "2019-02-13T10:51:17.501Z",
-      "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts/02-11-2018--post-4",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "02-11-2018--post-4",
-      "dev": -256696446,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 20829148276832852,
-      "atime": "2019-02-13T10:51:17.501Z",
-      "mtime": "2018-12-19T07:48:02.000Z",
-      "ctime": "2019-02-13T10:51:17.501Z",
-      "birthtime": "2019-02-13T10:51:17.501Z"
-    },
-    "66734641-a992-5af7-80c4-1de4dc2e3c3a": {
-      "id": "66734641-a992-5af7-80c4-1de4dc2e3c3a",
-      "children": [
-        "b9986de2-24d2-5f2f-81ff-3d1ee5d47e8c"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "2c46202670d73d0dfec14b78c919d917",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"content\\posts\\30-10-2018--hello-world\\index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/30-10-2018--hello-world/index.md",
-      "relativePath": "30-10-2018--hello-world/index.md",
-      "extension": "md",
-      "size": 2173,
-      "prettySize": "2.17 kB",
-      "modifiedTime": "2018-12-19T07:48:02.000Z",
-      "accessTime": "2019-02-13T10:51:17.509Z",
-      "changeTime": "2019-02-13T10:51:17.509Z",
-      "birthTime": "2019-02-13T10:51:17.509Z",
-      "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts/30-10-2018--hello-world",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "30-10-2018--hello-world",
-      "dev": -256696446,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 24488322974071550,
-      "atime": "2019-02-13T10:51:17.509Z",
-      "mtime": "2018-12-19T07:48:02.000Z",
-      "ctime": "2019-02-13T10:51:17.509Z",
-      "birthtime": "2019-02-13T10:51:17.509Z"
-    },
-    "237255b4-9aef-5a79-9ac8-d08b57a9339b": {
-      "id": "237255b4-9aef-5a79-9ac8-d08b57a9339b",
-      "children": [
-        "aa91aa99-df36-5c2d-824d-5c560eb1ba5b"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "9610e94fc2b531ac7363b0046bdd7211",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"content\\posts\\03-11-2018--post-5\\index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/03-11-2018--post-5/index.md",
-      "relativePath": "03-11-2018--post-5/index.md",
-      "extension": "md",
-      "size": 4283,
-      "prettySize": "4.28 kB",
-      "modifiedTime": "2018-12-19T07:48:02.000Z",
-      "accessTime": "2019-02-13T10:51:17.505Z",
-      "changeTime": "2019-02-13T10:51:17.505Z",
-      "birthTime": "2019-02-13T10:51:17.505Z",
-      "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts/03-11-2018--post-5",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "03-11-2018--post-5",
-      "dev": -256696446,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 24769797950782110,
-      "atime": "2019-02-13T10:51:17.505Z",
-      "mtime": "2018-12-19T07:48:02.000Z",
-      "ctime": "2019-02-13T10:51:17.505Z",
-      "birthtime": "2019-02-13T10:51:17.505Z"
-    },
-    "84ba2fcf-7158-5079-9510-bf45e16840c7": {
-      "id": "84ba2fcf-7158-5079-9510-bf45e16840c7",
-      "children": [
-        "beb9c501-d533-5fad-80a8-554ebc419f2f"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "abaedb2ff8dae46e7e6297dd83ba108d",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"content\\posts\\31-10-2018--post-2\\index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/31-10-2018--post-2/index.md",
-      "relativePath": "31-10-2018--post-2/index.md",
-      "extension": "md",
-      "size": 2158,
-      "prettySize": "2.16 kB",
-      "modifiedTime": "2018-12-19T07:48:02.000Z",
-      "accessTime": "2019-02-13T10:51:17.512Z",
-      "changeTime": "2019-02-13T10:51:17.512Z",
-      "birthTime": "2019-02-13T10:51:17.512Z",
-      "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts/31-10-2018--post-2",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "31-10-2018--post-2",
-      "dev": -256696446,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 15481123719330588,
-      "atime": "2019-02-13T10:51:17.512Z",
-      "mtime": "2018-12-19T07:48:02.000Z",
-      "ctime": "2019-02-13T10:51:17.512Z",
-      "birthtime": "2019-02-13T10:51:17.512Z"
-    },
-    "5cd6ee58-6ea5-54a8-8dc6-f40c7b789a02": {
-      "id": "5cd6ee58-6ea5-54a8-8dc6-f40c7b789a02",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "989e08e5aee5483fce6ec7830b4e8c86",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"content\\posts\\03-11-2018--post-5\\images\\NTesla.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/03-11-2018--post-5/images/NTesla.jpg",
-      "relativePath": "03-11-2018--post-5/images/NTesla.jpg",
-      "extension": "jpg",
-      "size": 17033,
-      "prettySize": "17 kB",
-      "modifiedTime": "2018-12-19T07:48:02.000Z",
-      "accessTime": "2019-02-13T10:51:17.503Z",
-      "changeTime": "2019-02-13T10:51:17.503Z",
-      "birthTime": "2019-02-13T10:51:17.503Z",
-      "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts/03-11-2018--post-5/images",
-      "base": "NTesla.jpg",
-      "ext": ".jpg",
-      "name": "NTesla",
-      "relativeDirectory": "03-11-2018--post-5\\images",
-      "dev": -256696446,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 166633186212952670,
-      "atime": "2019-02-13T10:51:17.503Z",
-      "mtime": "2018-12-19T07:48:02.000Z",
-      "ctime": "2019-02-13T10:51:17.503Z",
-      "birthtime": "2019-02-13T10:51:17.503Z"
-    },
-    "08462ed4-4d01-5a73-8de7-ad2d21b149ef": {
-      "id": "08462ed4-4d01-5a73-8de7-ad2d21b149ef",
+    "093d8158-480b-5e18-9cc2-3a9f724f86b6": {
+      "id": "093d8158-480b-5e18-9cc2-3a9f724f86b6",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
@@ -1649,17 +1573,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/02-11-2018--post-4/images/SophieProfil.jpg",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/02-11-2018--post-4/images/SophieProfil.jpg",
       "relativePath": "02-11-2018--post-4/images/SophieProfil.jpg",
       "extension": "jpg",
       "size": 45082,
       "prettySize": "45.1 kB",
-      "modifiedTime": "2018-12-19T07:48:02.000Z",
-      "accessTime": "2019-02-13T10:51:17.500Z",
-      "changeTime": "2019-02-13T10:51:17.500Z",
-      "birthTime": "2019-02-13T10:51:17.500Z",
+      "modifiedTime": "2019-02-15T02:56:32.000Z",
+      "accessTime": "2019-02-28T15:41:24.505Z",
+      "changeTime": "2019-02-28T15:41:24.519Z",
+      "birthTime": "2019-02-28T15:41:24.505Z",
       "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts/02-11-2018--post-4/images",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/02-11-2018--post-4/images",
       "base": "SophieProfil.jpg",
       "ext": ".jpg",
       "name": "SophieProfil",
@@ -1670,170 +1594,94 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 42502721483553360,
-      "atime": "2019-02-13T10:51:17.500Z",
-      "mtime": "2018-12-19T07:48:02.000Z",
-      "ctime": "2019-02-13T10:51:17.500Z",
-      "birthtime": "2019-02-13T10:51:17.500Z"
+      "ino": 1407374884021305,
+      "atime": "2019-02-28T15:41:24.505Z",
+      "mtime": "2019-02-15T02:56:32.000Z",
+      "ctime": "2019-02-28T15:41:24.519Z",
+      "birthtime": "2019-02-28T15:41:24.505Z"
     },
-    "b564195f-e8a9-5758-96a3-22d518b60912": {
-      "id": "b564195f-e8a9-5758-96a3-22d518b60912",
-      "children": [],
+    "e0f8b82f-f884-587f-b7f0-0671f185d5a0": {
+      "id": "e0f8b82f-f884-587f-b7f0-0671f185d5a0",
+      "children": [
+        "42bcc7e5-1ae6-545f-aee3-891eb8e8f44b"
+      ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4b82af1623bebf280fb841c89f593094",
+        "contentDigest": "89ec4b1baa1cc37e650de7ced23a304e",
         "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"content\\posts\\30-10-2018--hello-world\\images\\Slonovi.jpg\"",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\02-11-2018--post-4\\index.md\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/30-10-2018--hello-world/images/Slonovi.jpg",
-      "relativePath": "30-10-2018--hello-world/images/Slonovi.jpg",
-      "extension": "jpg",
-      "size": 38234,
-      "prettySize": "38.2 kB",
-      "modifiedTime": "2018-12-19T07:48:02.000Z",
-      "accessTime": "2019-02-13T10:51:17.506Z",
-      "changeTime": "2019-02-13T10:51:17.507Z",
-      "birthTime": "2019-02-13T10:51:17.506Z",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/02-11-2018--post-4/index.md",
+      "relativePath": "02-11-2018--post-4/index.md",
+      "extension": "md",
+      "size": 1442,
+      "prettySize": "1.44 kB",
+      "modifiedTime": "2019-02-18T19:00:12.831Z",
+      "accessTime": "2019-02-28T15:41:24.471Z",
+      "changeTime": "2019-02-28T15:41:24.485Z",
+      "birthTime": "2019-02-28T15:41:24.471Z",
       "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts/30-10-2018--hello-world/images",
-      "base": "Slonovi.jpg",
-      "ext": ".jpg",
-      "name": "Slonovi",
-      "relativeDirectory": "30-10-2018--hello-world\\images",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/02-11-2018--post-4",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "02-11-2018--post-4",
       "dev": -256696446,
       "mode": 33206,
       "nlink": 1,
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 41658296553421490,
-      "atime": "2019-02-13T10:51:17.506Z",
-      "mtime": "2018-12-19T07:48:02.000Z",
-      "ctime": "2019-02-13T10:51:17.507Z",
-      "birthtime": "2019-02-13T10:51:17.506Z"
+      "ino": 1407374884021302,
+      "atime": "2019-02-28T15:41:24.471Z",
+      "mtime": "2019-02-18T19:00:12.831Z",
+      "ctime": "2019-02-28T15:41:24.485Z",
+      "birthtime": "2019-02-28T15:41:24.471Z"
     },
-    "047afe2b-d383-5455-9d92-45efee613961": {
-      "id": "047afe2b-d383-5455-9d92-45efee613961",
+    "4f2363a4-f229-52bd-a6a9-c1f58a226a5d": {
+      "id": "4f2363a4-f229-52bd-a6a9-c1f58a226a5d",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
         "contentDigest": "989e08e5aee5483fce6ec7830b4e8c86",
         "type": "File",
         "mediaType": "image/jpeg",
-        "description": "File \"content\\posts\\31-10-2018--post-2\\images\\N.Tesla.JPG\"",
+        "description": "File \"content\\posts\\03-11-2018--post-5\\images\\NTesla.jpg\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/31-10-2018--post-2/images/N.Tesla.JPG",
-      "relativePath": "31-10-2018--post-2/images/N.Tesla.JPG",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/03-11-2018--post-5/images/NTesla.jpg",
+      "relativePath": "03-11-2018--post-5/images/NTesla.jpg",
       "extension": "jpg",
       "size": 17033,
       "prettySize": "17 kB",
-      "modifiedTime": "2018-12-19T07:48:02.000Z",
-      "accessTime": "2019-02-13T10:51:17.511Z",
-      "changeTime": "2019-02-13T10:51:17.511Z",
-      "birthTime": "2019-02-13T10:51:17.511Z",
+      "modifiedTime": "2019-02-15T02:56:32.000Z",
+      "accessTime": "2019-02-28T15:41:24.535Z",
+      "changeTime": "2019-02-28T15:41:24.544Z",
+      "birthTime": "2019-02-28T15:41:24.535Z",
       "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts/31-10-2018--post-2/images",
-      "base": "N.Tesla.JPG",
-      "ext": ".JPG",
-      "name": "N.Tesla",
-      "relativeDirectory": "31-10-2018--post-2\\images",
-      "dev": -256696446,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 37717646879472410,
-      "atime": "2019-02-13T10:51:17.511Z",
-      "mtime": "2018-12-19T07:48:02.000Z",
-      "ctime": "2019-02-13T10:51:17.511Z",
-      "birthtime": "2019-02-13T10:51:17.511Z"
-    },
-    "3c287ddc-3e1e-5da2-853a-91987c396091": {
-      "id": "3c287ddc-3e1e-5da2-853a-91987c396091",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "02e408d0bf45e8598ea7281a251b65ec",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"content\\posts\\31-10-2018--post-2\\images\\Mars1.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/31-10-2018--post-2/images/Mars1.jpg",
-      "relativePath": "31-10-2018--post-2/images/Mars1.jpg",
-      "extension": "jpg",
-      "size": 43013,
-      "prettySize": "43 kB",
-      "modifiedTime": "2018-12-19T07:48:02.000Z",
-      "accessTime": "2019-02-13T10:51:17.510Z",
-      "changeTime": "2019-02-13T10:51:17.510Z",
-      "birthTime": "2019-02-13T10:51:17.510Z",
-      "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts/31-10-2018--post-2/images",
-      "base": "Mars1.jpg",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/03-11-2018--post-5/images",
+      "base": "NTesla.jpg",
       "ext": ".jpg",
-      "name": "Mars1",
-      "relativeDirectory": "31-10-2018--post-2\\images",
+      "name": "NTesla",
+      "relativeDirectory": "03-11-2018--post-5\\images",
       "dev": -256696446,
       "mode": 33206,
       "nlink": 1,
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 18577348463147788,
-      "atime": "2019-02-13T10:51:17.510Z",
-      "mtime": "2018-12-19T07:48:02.000Z",
-      "ctime": "2019-02-13T10:51:17.510Z",
-      "birthtime": "2019-02-13T10:51:17.510Z"
+      "ino": 1407374884021309,
+      "atime": "2019-02-28T15:41:24.535Z",
+      "mtime": "2019-02-15T02:56:32.000Z",
+      "ctime": "2019-02-28T15:41:24.544Z",
+      "birthtime": "2019-02-28T15:41:24.535Z"
     },
-    "ede298f1-5111-5003-9fd7-85ad442aab8a": {
-      "id": "ede298f1-5111-5003-9fd7-85ad442aab8a",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "e4d3a0ddf182c88aa60bc075c70035b6",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"content\\posts\\01-11-2018--post-3\\images\\Android.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/01-11-2018--post-3/images/Android.jpg",
-      "relativePath": "01-11-2018--post-3/images/Android.jpg",
-      "extension": "jpg",
-      "size": 75622,
-      "prettySize": "75.6 kB",
-      "modifiedTime": "2018-12-19T07:48:02.000Z",
-      "accessTime": "2019-02-13T10:51:17.495Z",
-      "changeTime": "2019-02-13T10:51:17.496Z",
-      "birthTime": "2019-02-13T10:51:17.495Z",
-      "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts/01-11-2018--post-3/images",
-      "base": "Android.jpg",
-      "ext": ".jpg",
-      "name": "Android",
-      "relativeDirectory": "01-11-2018--post-3\\images",
-      "dev": -256696446,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 18295873486436936,
-      "atime": "2019-02-13T10:51:17.495Z",
-      "mtime": "2018-12-19T07:48:02.000Z",
-      "ctime": "2019-02-13T10:51:17.496Z",
-      "birthtime": "2019-02-13T10:51:17.495Z"
-    },
-    "573b9301-c4b9-5df3-8a38-e572389b3c04": {
-      "id": "573b9301-c4b9-5df3-8a38-e572389b3c04",
+    "90a6a447-8277-553f-8869-5e94a78636db": {
+      "id": "90a6a447-8277-553f-8869-5e94a78636db",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
@@ -1844,17 +1692,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/02-11-2018--post-4/images/Android.jpg",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/02-11-2018--post-4/images/Android.jpg",
       "relativePath": "02-11-2018--post-4/images/Android.jpg",
       "extension": "jpg",
       "size": 75622,
       "prettySize": "75.6 kB",
-      "modifiedTime": "2018-12-19T07:48:02.000Z",
-      "accessTime": "2019-02-13T10:51:17.499Z",
-      "changeTime": "2019-02-13T10:51:17.499Z",
-      "birthTime": "2019-02-13T10:51:17.499Z",
+      "modifiedTime": "2019-02-15T02:56:32.000Z",
+      "accessTime": "2019-02-28T15:41:24.491Z",
+      "changeTime": "2019-02-28T15:41:24.503Z",
+      "birthTime": "2019-02-28T15:41:24.491Z",
       "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts/02-11-2018--post-4/images",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/02-11-2018--post-4/images",
       "base": "Android.jpg",
       "ext": ".jpg",
       "name": "Android",
@@ -1865,77 +1713,77 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 61361544923167310,
-      "atime": "2019-02-13T10:51:17.499Z",
-      "mtime": "2018-12-19T07:48:02.000Z",
-      "ctime": "2019-02-13T10:51:17.499Z",
-      "birthtime": "2019-02-13T10:51:17.499Z"
+      "ino": 1407374884021304,
+      "atime": "2019-02-28T15:41:24.491Z",
+      "mtime": "2019-02-15T02:56:32.000Z",
+      "ctime": "2019-02-28T15:41:24.503Z",
+      "birthtime": "2019-02-28T15:41:24.491Z"
     },
-    "02ddb488-7356-5bd4-95d0-7c3c7557d800": {
-      "id": "02ddb488-7356-5bd4-95d0-7c3c7557d800",
+    "ddf3865b-12cc-5214-9549-15148665589c": {
+      "id": "ddf3865b-12cc-5214-9549-15148665589c",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7a56092e3b6cc4ed2731388f8f356f6d",
+        "contentDigest": "9abb06fd4d596d096e4ed29b7dfbc765",
         "type": "File",
         "mediaType": "image/jpeg",
-        "description": "File \"content\\posts\\30-10-2018--hello-world\\images\\UkletaKuca.jpg\"",
+        "description": "File \"content\\posts\\31-10-2018--post-2\\images\\Iceland.jpg\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/30-10-2018--hello-world/images/UkletaKuca.jpg",
-      "relativePath": "30-10-2018--hello-world/images/UkletaKuca.jpg",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/31-10-2018--post-2/images/Iceland.jpg",
+      "relativePath": "31-10-2018--post-2/images/Iceland.jpg",
       "extension": "jpg",
-      "size": 65830,
-      "prettySize": "65.8 kB",
-      "modifiedTime": "2018-12-19T07:48:02.000Z",
-      "accessTime": "2019-02-13T10:51:17.507Z",
-      "changeTime": "2019-02-13T10:51:17.508Z",
-      "birthTime": "2019-02-13T10:51:17.507Z",
+      "size": 128021,
+      "prettySize": "128 kB",
+      "modifiedTime": "2019-02-18T19:24:54.325Z",
+      "accessTime": "2019-02-28T15:41:24.721Z",
+      "changeTime": "2019-02-28T15:41:24.739Z",
+      "birthTime": "2019-02-28T15:41:24.721Z",
       "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts/30-10-2018--hello-world/images",
-      "base": "UkletaKuca.jpg",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/31-10-2018--post-2/images",
+      "base": "Iceland.jpg",
       "ext": ".jpg",
-      "name": "UkletaKuca",
-      "relativeDirectory": "30-10-2018--hello-world\\images",
+      "name": "Iceland",
+      "relativeDirectory": "31-10-2018--post-2\\images",
       "dev": -256696446,
       "mode": 33206,
       "nlink": 1,
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 25332747904203484,
-      "atime": "2019-02-13T10:51:17.507Z",
-      "mtime": "2018-12-19T07:48:02.000Z",
-      "ctime": "2019-02-13T10:51:17.508Z",
-      "birthtime": "2019-02-13T10:51:17.507Z"
+      "ino": 1407374884021321,
+      "atime": "2019-02-28T15:41:24.721Z",
+      "mtime": "2019-02-18T19:24:54.325Z",
+      "ctime": "2019-02-28T15:41:24.739Z",
+      "birthtime": "2019-02-28T15:41:24.721Z"
     },
-    "9bb928d4-884b-51bb-bf67-f866f4697e0f": {
-      "id": "9bb928d4-884b-51bb-bf67-f866f4697e0f",
+    "8c13da15-b7d5-5c04-aa1d-d7ad2362e77a": {
+      "id": "8c13da15-b7d5-5c04-aa1d-d7ad2362e77a",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ef750fdb6b769f6b5da7a2ca5c380289",
+        "contentDigest": "b6416694ef19e40961a3618ad2e9a4a7",
         "type": "File",
         "mediaType": "image/jpeg",
-        "description": "File \"content\\posts\\01-11-2018--post-3\\images\\Casablanca.jpg\"",
+        "description": "File \"content\\posts\\01-11-2018--post-3\\images\\Pas.jpg\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/01-11-2018--post-3/images/Casablanca.jpg",
-      "relativePath": "01-11-2018--post-3/images/Casablanca.jpg",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/01-11-2018--post-3/images/Pas.jpg",
+      "relativePath": "01-11-2018--post-3/images/Pas.jpg",
       "extension": "jpg",
-      "size": 67294,
-      "prettySize": "67.3 kB",
-      "modifiedTime": "2018-12-19T07:48:02.000Z",
-      "accessTime": "2019-02-13T10:51:17.496Z",
-      "changeTime": "2019-02-13T10:51:17.497Z",
-      "birthTime": "2019-02-13T10:51:17.496Z",
+      "size": 70592,
+      "prettySize": "70.6 kB",
+      "modifiedTime": "2019-02-18T19:06:45.867Z",
+      "accessTime": "2019-02-28T15:41:24.383Z",
+      "changeTime": "2019-02-28T15:41:24.434Z",
+      "birthTime": "2019-02-28T15:41:24.383Z",
       "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts/01-11-2018--post-3/images",
-      "base": "Casablanca.jpg",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/01-11-2018--post-3/images",
+      "base": "Pas.jpg",
       "ext": ".jpg",
-      "name": "Casablanca",
+      "name": "Pas",
       "relativeDirectory": "01-11-2018--post-3\\images",
       "dev": -256696446,
       "mode": 33206,
@@ -1943,14 +1791,14 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 38280596832893510,
-      "atime": "2019-02-13T10:51:17.496Z",
-      "mtime": "2018-12-19T07:48:02.000Z",
-      "ctime": "2019-02-13T10:51:17.497Z",
-      "birthtime": "2019-02-13T10:51:17.496Z"
+      "ino": 1407374884021299,
+      "atime": "2019-02-28T15:41:24.383Z",
+      "mtime": "2019-02-18T19:06:45.867Z",
+      "ctime": "2019-02-28T15:41:24.434Z",
+      "birthtime": "2019-02-28T15:41:24.383Z"
     },
-    "a28342a8-d34b-54ec-9ee1-9bd4b9944e28": {
-      "id": "a28342a8-d34b-54ec-9ee1-9bd4b9944e28",
+    "89b98e44-c4a7-5089-92ea-bdd2101a6e84": {
+      "id": "89b98e44-c4a7-5089-92ea-bdd2101a6e84",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
@@ -1961,17 +1809,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/03-11-2018--post-5/images/Tesla.jpg",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/03-11-2018--post-5/images/Tesla.jpg",
       "relativePath": "03-11-2018--post-5/images/Tesla.jpg",
       "extension": "jpg",
       "size": 136785,
       "prettySize": "137 kB",
-      "modifiedTime": "2018-12-19T07:48:02.000Z",
-      "accessTime": "2019-02-13T10:51:17.503Z",
-      "changeTime": "2019-02-13T10:51:17.504Z",
-      "birthTime": "2019-02-13T10:51:17.503Z",
+      "modifiedTime": "2019-02-15T02:56:32.000Z",
+      "accessTime": "2019-02-28T15:41:24.546Z",
+      "changeTime": "2019-02-28T15:41:24.583Z",
+      "birthTime": "2019-02-28T15:41:24.546Z",
       "root": "C:/",
-      "dir": "C:/Users/PC/Desktop/CagaljAkt/content/posts/03-11-2018--post-5/images",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/03-11-2018--post-5/images",
       "base": "Tesla.jpg",
       "ext": ".jpg",
       "name": "Tesla",
@@ -1982,174 +1830,286 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 30680772461705840,
-      "atime": "2019-02-13T10:51:17.503Z",
-      "mtime": "2018-12-19T07:48:02.000Z",
-      "ctime": "2019-02-13T10:51:17.504Z",
-      "birthtime": "2019-02-13T10:51:17.503Z"
+      "ino": 1407374884021310,
+      "atime": "2019-02-28T15:41:24.546Z",
+      "mtime": "2019-02-15T02:56:32.000Z",
+      "ctime": "2019-02-28T15:41:24.583Z",
+      "birthtime": "2019-02-28T15:41:24.546Z"
     },
-    "4371fa97-977c-5a4c-bf8c-47131b30beb3": {
-      "id": "4371fa97-977c-5a4c-bf8c-47131b30beb3",
+    "8e1eeffc-1161-516c-a4ab-93ea5da99a0b": {
+      "id": "8e1eeffc-1161-516c-a4ab-93ea5da99a0b",
       "children": [],
-      "parent": "f0008906-8f9e-5f3a-b21d-39d3f1871106",
+      "parent": "___SOURCE___",
       "internal": {
-        "content": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/Android.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/nathan-anderson-443540-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
+        "contentDigest": "013582f6f2c54c77e00243a69f08a0d4",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\01-11-2018--post-3\\images\\Vuk.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/01-11-2018--post-3/images/Vuk.jpg",
+      "relativePath": "01-11-2018--post-3/images/Vuk.jpg",
+      "extension": "jpg",
+      "size": 78364,
+      "prettySize": "78.4 kB",
+      "modifiedTime": "2019-02-18T19:06:45.949Z",
+      "accessTime": "2019-02-28T15:41:24.446Z",
+      "changeTime": "2019-02-28T15:41:24.460Z",
+      "birthTime": "2019-02-28T15:41:24.446Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/01-11-2018--post-3/images",
+      "base": "Vuk.jpg",
+      "ext": ".jpg",
+      "name": "Vuk",
+      "relativeDirectory": "01-11-2018--post-3\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1407374884021300,
+      "atime": "2019-02-28T15:41:24.446Z",
+      "mtime": "2019-02-18T19:06:45.949Z",
+      "ctime": "2019-02-28T15:41:24.460Z",
+      "birthtime": "2019-02-28T15:41:24.446Z"
+    },
+    "f2c31a50-5d39-5d13-8cee-2aa431bd88da": {
+      "id": "f2c31a50-5d39-5d13-8cee-2aa431bd88da",
+      "children": [],
+      "parent": "283061b2-1d51-5dc1-873b-2afca31333ed",
+      "internal": {
+        "content": "\n<!-- markdownlint-disable MD033 -->\n\n# [Miami](https://hr.wikipedia.org/wiki/Miami,_Florida)\n\n<figure class=\"figure\">\n    <img src=\"./images/Miami.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Palme Miamia</figcaption>\n</figure>\n\n\nMiami je grad smješten u jugoistočnom kutu američke savezne države Floride. Miami je drugi najveći grad na Floridi te najveći grad i sjedište okruga Miami-Dade. Također je najveći grad u metropolitanskom području (\"Područje utjecaja\") južne Floride, koje se sastoji od okruga Miami-Dade, Broward i Palm Beach te je najveće metropolitansko područje u jugoistočnom SAD-u.\n\nVeliki porast broja stanovnika posljednjih godina rezultat je migracija unutar SAD-a kao i imigracije. Šire područje Miamija mjesto je gdje se susreću brojne kulture i nalazi se pod snažnim utjecajem velike populacije etničkih Latinoamerikanaca i karipskih otočana, od kojih su mnogi izvorni govornici španjolskog i haićanskog jezika.\n\nVažnost regije kao međunarodnog financijskog i kulturalnog središta uzdigla je Miami do statusa svjetskog grada, a uz Atlantu grad je jedno od najvažnijih poslovnih središta u jugoistočnom SAD-u.\nVeliki porast broja stanovnika posljednjih godina rezultat je migracija unutar SAD-a kao i imigracije. Šire područje Miamija mjesto je gdje se susreću brojne kulture i nalazi se pod snažnim utjecajem velike populacije etničkih Latinoamerikanaca i karipskih otočana, od kojih su mnogi izvorni govornici španjolskog i haićanskog jezika.\n\nVažnost regije kao međunarodnog financijskog i kulturalnog središta uzdigla je Miami do statusa svjetskog grada, a uz Atlantu grad je jedno od najvažnijih poslovnih središta u jugoistočnom SAD-u.\n\n## Povijest Miamia\n\n<figure class=\"figure\">\n    <img src=\"./images/Miami2.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Poznata plaža Miamia</figcaption>\n</figure>\n\nMiami je kao grad službeno osnovan 28. srpnja 1896. godine, dok je područje na kojem je grad osnovan bilo naseljeno više od tisuću godina Tequesta Indijancima, a to je područje 1566., Španjolskoj prisvojio Pedro Menéndez de Avilés. Španjolska misija izgrađena je godinu kasnije. Godine 1836., sagrađena je tvrđava Dallas gdje su se odvijale bitke tijekom Drugog seminolskog rata. U 1920-ima, događa se veliki porast stanovništva i izgradnje infrastrukture. Do 1940., u Miamiju je živjelo 172 172 stanovnika.\n\nNagli razvoj grada počinje dolaskom željeznice. Lokalna uzgajivačica citrusa Julia Tuttle, uvjerila je željezničkog magnata Henrya Flaglera u gradnju željeznice sve do Miamija. Dana 28. srpnja 1896., Miami je službeno proglašen gradom s preko 300 stanovnika.\n\nNagli razvoj grada koji je počeo 1920-ih, poremetile su krize nekretnina, uragan 1926., te velika depresija 1930-ih. Početkom Drugog svjetskog rata, Miami je zbog svog položaja odigrao važnu ulogu u borbi protiv njemačkih podmornica. Rat je potaknuo rast stanovništva čiji se broj podigao na skoro pola milijuna. Dolaskom Castrovog režima na vlast na Kubi 1959. godine, veliki broj Kubanaca doselio se u Miami, što je dodatno povećalo broj stanovnika. Od novijih kriza najznačajnije su pobuna zbog premlaćivanja Arthura McDuffieja, narko ratovi, uragan Andrew, te afera Eliána Gonzáleza. Danas je Miami grad u velikom razvoju, koji privlači veliki broj stanovnika.\n",
         "type": "MarkdownRemark",
-        "contentDigest": "9e26d4e9754fe2aae117098aa2a7fcea",
+        "contentDigest": "38a432045ba0a7489b9088cc581c6234",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
-        "title": "Post 3",
-        "date": "2018-11-01",
-        "slug": "post-three",
-        "_PARENT": "f0008906-8f9e-5f3a-b21d-39d3f1871106"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/Android.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/nathan-anderson-443540-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
-      "fileAbsolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/01-11-2018--post-3/index.md"
-    },
-    "20d3e252-f7db-5929-bce1-953d0a51d743": {
-      "id": "20d3e252-f7db-5929-bce1-953d0a51d743",
-      "children": [],
-      "parent": "0876d61d-9986-5a27-8930-8448e4fdbb65",
-      "internal": {
-        "content": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/Android.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/SophieProfil.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "8de9610d4f12783c051ce7eb43482915",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Post 4",
-        "date": "2018-11-02",
-        "slug": "post-four",
-        "_PARENT": "0876d61d-9986-5a27-8930-8448e4fdbb65"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/Android.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/SophieProfil.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
-      "fileAbsolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/02-11-2018--post-4/index.md"
-    },
-    "b9986de2-24d2-5f2f-81ff-3d1ee5d47e8c": {
-      "id": "b9986de2-24d2-5f2f-81ff-3d1ee5d47e8c",
-      "children": [],
-      "parent": "66734641-a992-5af7-80c4-1de4dc2e3c3a",
-      "internal": {
-        "content": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/alessandro-viaro-94370-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/cristina-gottardi-189946-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "bb0a49f1a00122d29979a39f4510cdbe",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Hello, World!",
+        "title": "Miami",
         "date": "2018-10-30",
         "slug": "post-one",
-        "_PARENT": "66734641-a992-5af7-80c4-1de4dc2e3c3a"
+        "_PARENT": "283061b2-1d51-5dc1-873b-2afca31333ed"
       },
       "excerpt": "",
-      "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/alessandro-viaro-94370-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/cristina-gottardi-189946-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
-      "fileAbsolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/30-10-2018--hello-world/index.md"
+      "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Miami](https://hr.wikipedia.org/wiki/Miami,_Florida)\n\n<figure class=\"figure\">\n    <img src=\"./images/Miami.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Palme Miamia</figcaption>\n</figure>\n\n\nMiami je grad smješten u jugoistočnom kutu američke savezne države Floride. Miami je drugi najveći grad na Floridi te najveći grad i sjedište okruga Miami-Dade. Također je najveći grad u metropolitanskom području (\"Područje utjecaja\") južne Floride, koje se sastoji od okruga Miami-Dade, Broward i Palm Beach te je najveće metropolitansko područje u jugoistočnom SAD-u.\n\nVeliki porast broja stanovnika posljednjih godina rezultat je migracija unutar SAD-a kao i imigracije. Šire područje Miamija mjesto je gdje se susreću brojne kulture i nalazi se pod snažnim utjecajem velike populacije etničkih Latinoamerikanaca i karipskih otočana, od kojih su mnogi izvorni govornici španjolskog i haićanskog jezika.\n\nVažnost regije kao međunarodnog financijskog i kulturalnog središta uzdigla je Miami do statusa svjetskog grada, a uz Atlantu grad je jedno od najvažnijih poslovnih središta u jugoistočnom SAD-u.\nVeliki porast broja stanovnika posljednjih godina rezultat je migracija unutar SAD-a kao i imigracije. Šire područje Miamija mjesto je gdje se susreću brojne kulture i nalazi se pod snažnim utjecajem velike populacije etničkih Latinoamerikanaca i karipskih otočana, od kojih su mnogi izvorni govornici španjolskog i haićanskog jezika.\n\nVažnost regije kao međunarodnog financijskog i kulturalnog središta uzdigla je Miami do statusa svjetskog grada, a uz Atlantu grad je jedno od najvažnijih poslovnih središta u jugoistočnom SAD-u.\n\n## Povijest Miamia\n\n<figure class=\"figure\">\n    <img src=\"./images/Miami2.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Poznata plaža Miamia</figcaption>\n</figure>\n\nMiami je kao grad službeno osnovan 28. srpnja 1896. godine, dok je područje na kojem je grad osnovan bilo naseljeno više od tisuću godina Tequesta Indijancima, a to je područje 1566., Španjolskoj prisvojio Pedro Menéndez de Avilés. Španjolska misija izgrađena je godinu kasnije. Godine 1836., sagrađena je tvrđava Dallas gdje su se odvijale bitke tijekom Drugog seminolskog rata. U 1920-ima, događa se veliki porast stanovništva i izgradnje infrastrukture. Do 1940., u Miamiju je živjelo 172 172 stanovnika.\n\nNagli razvoj grada počinje dolaskom željeznice. Lokalna uzgajivačica citrusa Julia Tuttle, uvjerila je željezničkog magnata Henrya Flaglera u gradnju željeznice sve do Miamija. Dana 28. srpnja 1896., Miami je službeno proglašen gradom s preko 300 stanovnika.\n\nNagli razvoj grada koji je počeo 1920-ih, poremetile su krize nekretnina, uragan 1926., te velika depresija 1930-ih. Početkom Drugog svjetskog rata, Miami je zbog svog položaja odigrao važnu ulogu u borbi protiv njemačkih podmornica. Rat je potaknuo rast stanovništva čiji se broj podigao na skoro pola milijuna. Dolaskom Castrovog režima na vlast na Kubi 1959. godine, veliki broj Kubanaca doselio se u Miami, što je dodatno povećalo broj stanovnika. Od novijih kriza najznačajnije su pobuna zbog premlaćivanja Arthura McDuffieja, narko ratovi, uragan Andrew, te afera Eliána Gonzáleza. Danas je Miami grad u velikom razvoju, koji privlači veliki broj stanovnika.\n",
+      "fileAbsolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/30-10-2018--hello-world/index.md"
     },
-    "beb9c501-d533-5fad-80a8-554ebc419f2f": {
-      "id": "beb9c501-d533-5fad-80a8-554ebc419f2f",
+    "24f65baf-5c9a-59a4-a536-48b1c6e560d2": {
+      "id": "24f65baf-5c9a-59a4-a536-48b1c6e560d2",
       "children": [],
-      "parent": "84ba2fcf-7158-5079-9510-bf45e16840c7",
+      "parent": "37472470-8d92-5f93-8316-add97302f2b4",
       "internal": {
-        "content": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/markos-mant-228858-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/victor-benard-493618-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
+        "content": "\n<!-- markdownlint-disable MD033 -->\n\n# [Island](https://hr.wikipedia.org/wiki/Island)\n\n<figure class=\"figure\">\n    <img src=\"./images/Fjord.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Fjordovi Islanda </figcaption>\n</figure>\n\n## Island\n\nIsland je bio jedan od najvećih otoka na svijetu koje čovjek nije naselio, dok u kasnom devetom i desetom stoljeću nisu došli norveški i keltski (škotski i irski) imigranti. Island ima najstariji parlament na svijetu, Althing, osnovan 930. godine. Neki pisani izvori navode da su irski redovnici živjeli na Islandu prije dolaska norveških naseljenika, ali nisu nađeni arheološki dokazi koji bi potkrijepili ovu tvrdnju.\n\nIsland je bio neovisan 300 godina, a zatim su njime vladali Norveška i Danska. Formalno je bio norveška kolonija, do 1814. godine, kada se zajednička država Norveške i Danske razdvojila sporazumom iz Kiela, a Island je postao ovisan teritorij Danske. Od danske vlade je dobio ograničenu autonomnu vlast, 1874. godine, a protektoratsku neovisnost i suverenitet u unutrašnjim pitanjima 1918. Vanjski odnosi i obrana su ostali pod danskom upravom do Drugog svjetskog rata, kada je Njemačka vojno okupirala Dansku, 1940. Island su, nakon toga, okupirali saveznici. Danski kralj je de jure ostao suveren do 1944. godine, kada je današnja republika osnovana u nedostatku danske vlasti.\n## Politika Islanda\n\n<figure class=\"figure\">\n    <img src=\"./images/Iceland.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Aurora Borealis</figcaption>\n</figure>\n\nIsland je bio jedan od najvećih otoka na svijetu koje čovjek nije naselio, dok u kasnom devetom i desetom stoljeću nisu došli norveški i keltski (škotski i irski) imigranti. Island ima najstariji parlament na svijetu, Althing, osnovan 930. godine. Neki pisani izvori navode da su irski redovnici živjeli na Islandu prije dolaska norveških naseljenika, ali nisu nađeni arheološki dokazi koji bi potkrijepili ovu tvrdnju.\n\nIsland je bio neovisan 300 godina, a zatim su njime vladali Norveška i Danska. Formalno je bio norveška kolonija, do 1814. godine, kada se zajednička država Norveške i Danske razdvojila sporazumom iz Kiela, a Island je postao ovisan teritorij Danske. Od danske vlade je dobio ograničenu autonomnu vlast, 1874. godine, a protektoratsku neovisnost i suverenitet u unutrašnjim pitanjima 1918. Vanjski odnosi i obrana su ostali pod danskom upravom do Drugog svjetskog rata, kada je Njemačka vojno okupirala Dansku, 1940. Island su, nakon toga, okupirali saveznici. Danski kralj je de jure ostao suveren do 1944. godine, kada je današnja republika osnovana u nedostatku danske vlasti.\n",
         "type": "MarkdownRemark",
-        "contentDigest": "0c196ce992b42bb75c430e9f7c2fac18",
+        "contentDigest": "d683b4dfe9490e30f6023e7148da689e",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
-        "title": "Post 2",
+        "title": "Island",
         "date": "2018-10-31",
         "slug": "post-two",
-        "_PARENT": "84ba2fcf-7158-5079-9510-bf45e16840c7"
+        "_PARENT": "37472470-8d92-5f93-8316-add97302f2b4"
       },
       "excerpt": "",
-      "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Lorem Ipsum](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/markos-mant-228858-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## What is Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/victor-benard-493618-unsplash.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n",
-      "fileAbsolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/31-10-2018--post-2/index.md"
+      "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Island](https://hr.wikipedia.org/wiki/Island)\n\n<figure class=\"figure\">\n    <img src=\"./images/Fjord.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Fjordovi Islanda </figcaption>\n</figure>\n\n## Island\n\nIsland je bio jedan od najvećih otoka na svijetu koje čovjek nije naselio, dok u kasnom devetom i desetom stoljeću nisu došli norveški i keltski (škotski i irski) imigranti. Island ima najstariji parlament na svijetu, Althing, osnovan 930. godine. Neki pisani izvori navode da su irski redovnici živjeli na Islandu prije dolaska norveških naseljenika, ali nisu nađeni arheološki dokazi koji bi potkrijepili ovu tvrdnju.\n\nIsland je bio neovisan 300 godina, a zatim su njime vladali Norveška i Danska. Formalno je bio norveška kolonija, do 1814. godine, kada se zajednička država Norveške i Danske razdvojila sporazumom iz Kiela, a Island je postao ovisan teritorij Danske. Od danske vlade je dobio ograničenu autonomnu vlast, 1874. godine, a protektoratsku neovisnost i suverenitet u unutrašnjim pitanjima 1918. Vanjski odnosi i obrana su ostali pod danskom upravom do Drugog svjetskog rata, kada je Njemačka vojno okupirala Dansku, 1940. Island su, nakon toga, okupirali saveznici. Danski kralj je de jure ostao suveren do 1944. godine, kada je današnja republika osnovana u nedostatku danske vlasti.\n## Politika Islanda\n\n<figure class=\"figure\">\n    <img src=\"./images/Iceland.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Aurora Borealis</figcaption>\n</figure>\n\nIsland je bio jedan od najvećih otoka na svijetu koje čovjek nije naselio, dok u kasnom devetom i desetom stoljeću nisu došli norveški i keltski (škotski i irski) imigranti. Island ima najstariji parlament na svijetu, Althing, osnovan 930. godine. Neki pisani izvori navode da su irski redovnici živjeli na Islandu prije dolaska norveških naseljenika, ali nisu nađeni arheološki dokazi koji bi potkrijepili ovu tvrdnju.\n\nIsland je bio neovisan 300 godina, a zatim su njime vladali Norveška i Danska. Formalno je bio norveška kolonija, do 1814. godine, kada se zajednička država Norveške i Danske razdvojila sporazumom iz Kiela, a Island je postao ovisan teritorij Danske. Od danske vlade je dobio ograničenu autonomnu vlast, 1874. godine, a protektoratsku neovisnost i suverenitet u unutrašnjim pitanjima 1918. Vanjski odnosi i obrana su ostali pod danskom upravom do Drugog svjetskog rata, kada je Njemačka vojno okupirala Dansku, 1940. Island su, nakon toga, okupirali saveznici. Danski kralj je de jure ostao suveren do 1944. godine, kada je današnja republika osnovana u nedostatku danske vlasti.\n",
+      "fileAbsolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/31-10-2018--post-2/index.md"
     },
-    "aa91aa99-df36-5c2d-824d-5c560eb1ba5b": {
-      "id": "aa91aa99-df36-5c2d-824d-5c560eb1ba5b",
+    "42bcc7e5-1ae6-545f-aee3-891eb8e8f44b": {
+      "id": "42bcc7e5-1ae6-545f-aee3-891eb8e8f44b",
       "children": [],
-      "parent": "237255b4-9aef-5a79-9ac8-d08b57a9339b",
+      "parent": "e0f8b82f-f884-587f-b7f0-0671f185d5a0",
       "internal": {
-        "content": "\n<!-- markdownlint-disable MD033 -->\n\n# [Nikola Tesla](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/Tesla.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## Tko je Tesla?\n\nNikola Tesla (Smiljan, 10. srpnja 1856. - New York, 7. siječnja 1943.) bio je hrvatski i američki znanstvenik i izumitelj podrijetlom Srbin iz Hrvatske.[1] Rođen u Lici, ali je gotovo cijeli život radio u SAD-u, gdje je i ostvario sve izume. Gimnaziju je pohađao u Gospiću, potom u Rakovcu kraj Karlovca, gdje je maturirao. Na Visoku tehničku školu u Grazu upisao se 1875. Godine 1881. radio je u Središnjem telegrafskom uredu u Budimpešti, a potom u Telefonskoj centrali, u kojoj je načinio niz tehničkih poboljšanja. U jesen 1882. zaposlio se u Parizu u Edisonovoj telefonskoj podružnici. Već je za vrijeme studija upozorio na nedostatke istosmjernoga elektromotora. U Budimpešti je zamislio primjenu višefaznih izmjeničnih struja za ostvarenje okretnoga magnetskoga polja koje bi uzrokovalo vrtnju u elektromotoru. U nastojanju da razvije zamišljeni sustav izmjeničnih struja, otišao je 1884. u SAD, gdje se s preporukom voditelja Edisonova predstavništva u Europi zaposlio kod T. A. Edisona, gdje je iznosio svoje zamisli o proizvodnji i isplativijem prijenosu izmjeničnih struja, ali nije nailazio na razumijevanje. Godine 1885. osnovao je Tesla u New Yorku vlastitu tvrtku Tesla Electric Light and Manufacturing Company za proizvodnju električnih lučnica (elektrolučna svjetiljka), a 1887. tvrtku Tesla Electric Company, s laboratorijem, u kojem je najprije konstruirao elektromotore izmjenične struje. U jesen iste godine prijavio je prve patente o proizvodnji i prijenosu višefaznih izmjeničnih struja i njihovoj primjeni za učinkovit pogon izmjeničnih elektromotora. Tim je izumima pokazao da je za većinu primjena izmjenična struja znatno prikladnija od istosmjerne.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/NTesla.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nIako mu je bio potreban novac 1912. je odbio primiti Nobelovu nagradu iz fizike jer je tvrdio da njegov suprimatelj Thomas Alva Edison nije pravi znanstvenik. Zadnje godine svog života proveo je hraneći golubove i živio je uglavnom od godišnjeg honorara iz domovine. Imao je napredni zametak fobije, ali istovremeno je bio briljantan znanstvenik koji je imao dara da praktično dokaže svoje hipoteze. Njegove špekulacije o ostvarenju komunikacije s drugim planetima, izjave da može razdijeliti Zemlju poput jabuke, kao i njegova tvrdnja da je izmislio smrtonosnu zraku koja može uništiti 10 tisuća aviona na udaljenosti od 400 km nailazile su na podsmijehe i kritike. Unatoč tomu Tesla se danas smatra jednim od najplodnijih genija u elektrotehnici. Njegova velika zasluga je uvođenje izmjenične struje u široku uporabu. Teslini izumi zasnovani na izmjeničnoj struji postali su temelj cijelom daljnjem razvoju elektrotehnike. Ostvario je oko tisuću pronalazaka i patenata - trofazni sustav za prijenos električne snage, generator i transformator za struje visoke frekvencije (Tesline struje) i drugo. Bio je i jedan od pionira radio-tehnike: otkrio je sustav za bežično upravljanje i davanje znakova na daljinu, pronašao je nov sustav osvjetljenja, konstruirao je visokofrekventne alternatore kao osnovu emisijskih radio-stanica, proizveo je neprigušene elektromagnetske valove, otkrio je i patentirao princip rezonancije za radio-veze, izložio ideju o međuplanetarnim telekomunikacijama pomoću ultrakratkih valova, a zamislio je u cjelini radarski sustav. Objavio je radove iz fizike u kojima je iznosio originalne ideje koje su se kasnije ostvarile\n\nPreminuo je u New Yorku 7. siječnja 1943. u 87-oj godini života. Nakon njegove smrti kovčezi u kojima se nalaze Teslini papiri, diplome i druge počasti, kao i njegove laboratorijske bilješke zapečaćeni su. Neko vrijeme nalazili su se u vlasništvu Teslinog rođaka i jedinog nasljednika Save Kosanovića. On je kasnije svoje tako stečeno nasljedstvo poklonio gradu Beogradu, a u svrhu osnivanja muzeja Nikole Tesle.\n",
+        "content": "\n<!-- markdownlint-disable MD033 -->\n\n# [Sophia](https://en.wikipedia.org/wiki/Sophia_(robot))\n\n<figure class=\"figure\">\n    <img src=\"./images/Android.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Sophie sa svojim izumiteljem</figcaption>\n</figure>\n\n## Sophie\n\nHumanoidni robot opremljen umjetnom inteligencijom koji je nedavno dobio državljanstvo u Saudijskoj Arabiji smatra kako će u budućnosti strojevi poput nje biti zasebne osobnosti\n\n<figure class=\"figure\">\n    <img src=\"./images/SophieProfil.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Profil Sophie</figcaption>\n</figure>\n\nSophia, robot ljudskog lica tvrtke Hanson Robotics, svojedobno je rekla kako treba sve nas ljude poubijati. Pa je potom predložila da postane veleposlanica robota u odnosima s ljudima. \n\nSad, navodno, želi zasnovati vlastitu obitelj i imati djecu.\nPrema riječima Davida Hansona, osnivača Hanson Roboticsa, androidi poput Sophie primjenu će naći u područjima zdravstvene skrbi, terapijske djelatnosti, obrazovanja i uslužnih djelatnosti. \n\nSophijino lice i vrat se sastoje od 62 različitih jedinica koje djeluju usklađeno kako bi stvorile pokrete koji djeluju koliko-toliko prirodno. U oči su joj ugrađene kamere opremljene tehnologijom prepoznavanja lica, pa tako ne samo zna s kime razgovara već može očitati i reakcije na svoje izjave. ",
         "type": "MarkdownRemark",
-        "contentDigest": "28e1495de9d447944b3c99f2a272c1e1",
+        "contentDigest": "e831d4d376c9fb26777f4fb2bd9ff355",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
-        "title": "Post 5",
-        "date": "2018-11-03",
-        "slug": "post-five",
-        "_PARENT": "237255b4-9aef-5a79-9ac8-d08b57a9339b"
+        "title": "Humanoidni robot Sophie",
+        "date": "2018-11-02",
+        "slug": "post-four",
+        "_PARENT": "e0f8b82f-f884-587f-b7f0-0671f185d5a0"
       },
       "excerpt": "",
-      "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Nikola Tesla](https://www.lipsum.com/)\n\n<figure class=\"figure\">\n    <img src=\"./images/Tesla.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\n## Tko je Tesla?\n\nNikola Tesla (Smiljan, 10. srpnja 1856. - New York, 7. siječnja 1943.) bio je hrvatski i američki znanstvenik i izumitelj podrijetlom Srbin iz Hrvatske.[1] Rođen u Lici, ali je gotovo cijeli život radio u SAD-u, gdje je i ostvario sve izume. Gimnaziju je pohađao u Gospiću, potom u Rakovcu kraj Karlovca, gdje je maturirao. Na Visoku tehničku školu u Grazu upisao se 1875. Godine 1881. radio je u Središnjem telegrafskom uredu u Budimpešti, a potom u Telefonskoj centrali, u kojoj je načinio niz tehničkih poboljšanja. U jesen 1882. zaposlio se u Parizu u Edisonovoj telefonskoj podružnici. Već je za vrijeme studija upozorio na nedostatke istosmjernoga elektromotora. U Budimpešti je zamislio primjenu višefaznih izmjeničnih struja za ostvarenje okretnoga magnetskoga polja koje bi uzrokovalo vrtnju u elektromotoru. U nastojanju da razvije zamišljeni sustav izmjeničnih struja, otišao je 1884. u SAD, gdje se s preporukom voditelja Edisonova predstavništva u Europi zaposlio kod T. A. Edisona, gdje je iznosio svoje zamisli o proizvodnji i isplativijem prijenosu izmjeničnih struja, ali nije nailazio na razumijevanje. Godine 1885. osnovao je Tesla u New Yorku vlastitu tvrtku Tesla Electric Light and Manufacturing Company za proizvodnju električnih lučnica (elektrolučna svjetiljka), a 1887. tvrtku Tesla Electric Company, s laboratorijem, u kojem je najprije konstruirao elektromotore izmjenične struje. U jesen iste godine prijavio je prve patente o proizvodnji i prijenosu višefaznih izmjeničnih struja i njihovoj primjeni za učinkovit pogon izmjeničnih elektromotora. Tim je izumima pokazao da je za većinu primjena izmjenična struja znatno prikladnija od istosmjerne.\n\n## Where does it come from?\n\n<figure class=\"figure\">\n    <img src=\"./images/NTesla.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Title</figcaption>\n</figure>\n\nIako mu je bio potreban novac 1912. je odbio primiti Nobelovu nagradu iz fizike jer je tvrdio da njegov suprimatelj Thomas Alva Edison nije pravi znanstvenik. Zadnje godine svog života proveo je hraneći golubove i živio je uglavnom od godišnjeg honorara iz domovine. Imao je napredni zametak fobije, ali istovremeno je bio briljantan znanstvenik koji je imao dara da praktično dokaže svoje hipoteze. Njegove špekulacije o ostvarenju komunikacije s drugim planetima, izjave da može razdijeliti Zemlju poput jabuke, kao i njegova tvrdnja da je izmislio smrtonosnu zraku koja može uništiti 10 tisuća aviona na udaljenosti od 400 km nailazile su na podsmijehe i kritike. Unatoč tomu Tesla se danas smatra jednim od najplodnijih genija u elektrotehnici. Njegova velika zasluga je uvođenje izmjenične struje u široku uporabu. Teslini izumi zasnovani na izmjeničnoj struji postali su temelj cijelom daljnjem razvoju elektrotehnike. Ostvario je oko tisuću pronalazaka i patenata - trofazni sustav za prijenos električne snage, generator i transformator za struje visoke frekvencije (Tesline struje) i drugo. Bio je i jedan od pionira radio-tehnike: otkrio je sustav za bežično upravljanje i davanje znakova na daljinu, pronašao je nov sustav osvjetljenja, konstruirao je visokofrekventne alternatore kao osnovu emisijskih radio-stanica, proizveo je neprigušene elektromagnetske valove, otkrio je i patentirao princip rezonancije za radio-veze, izložio ideju o međuplanetarnim telekomunikacijama pomoću ultrakratkih valova, a zamislio je u cjelini radarski sustav. Objavio je radove iz fizike u kojima je iznosio originalne ideje koje su se kasnije ostvarile\n\nPreminuo je u New Yorku 7. siječnja 1943. u 87-oj godini života. Nakon njegove smrti kovčezi u kojima se nalaze Teslini papiri, diplome i druge počasti, kao i njegove laboratorijske bilješke zapečaćeni su. Neko vrijeme nalazili su se u vlasništvu Teslinog rođaka i jedinog nasljednika Save Kosanovića. On je kasnije svoje tako stečeno nasljedstvo poklonio gradu Beogradu, a u svrhu osnivanja muzeja Nikole Tesle.\n",
-      "fileAbsolutePath": "C:/Users/PC/Desktop/CagaljAkt/content/posts/03-11-2018--post-5/index.md"
+      "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Sophia](https://en.wikipedia.org/wiki/Sophia_(robot))\n\n<figure class=\"figure\">\n    <img src=\"./images/Android.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Sophie sa svojim izumiteljem</figcaption>\n</figure>\n\n## Sophie\n\nHumanoidni robot opremljen umjetnom inteligencijom koji je nedavno dobio državljanstvo u Saudijskoj Arabiji smatra kako će u budućnosti strojevi poput nje biti zasebne osobnosti\n\n<figure class=\"figure\">\n    <img src=\"./images/SophieProfil.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Profil Sophie</figcaption>\n</figure>\n\nSophia, robot ljudskog lica tvrtke Hanson Robotics, svojedobno je rekla kako treba sve nas ljude poubijati. Pa je potom predložila da postane veleposlanica robota u odnosima s ljudima. \n\nSad, navodno, želi zasnovati vlastitu obitelj i imati djecu.\nPrema riječima Davida Hansona, osnivača Hanson Roboticsa, androidi poput Sophie primjenu će naći u područjima zdravstvene skrbi, terapijske djelatnosti, obrazovanja i uslužnih djelatnosti. \n\nSophijino lice i vrat se sastoje od 62 različitih jedinica koje djeluju usklađeno kako bi stvorile pokrete koji djeluju koliko-toliko prirodno. U oči su joj ugrađene kamere opremljene tehnologijom prepoznavanja lica, pa tako ne samo zna s kime razgovara već može očitati i reakcije na svoje izjave. ",
+      "fileAbsolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/02-11-2018--post-4/index.md"
     },
-    "SitePage /blog/post-three": {
-      "jsonName": "blog-post-three-0ca",
-      "internalComponentName": "ComponentBlogPostThree",
-      "path": "/blog/post-three",
-      "component": "C:/Users/PC/Desktop/CagaljAkt/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "post-three"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/templates/blog-post.js",
-      "id": "SitePage /blog/post-three",
-      "parent": "SOURCE",
+    "22ed6c36-fdad-5e9d-b1d6-dce2345aa330": {
+      "id": "22ed6c36-fdad-5e9d-b1d6-dce2345aa330",
       "children": [],
+      "parent": "95632235-2f3c-5466-9cd5-a92332b2dc86",
       "internal": {
-        "type": "SitePage",
-        "contentDigest": "a8bb37cd7c35e6791409efc0bf1126e2",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
+        "content": "\n<!-- markdownlint-disable MD033 -->\n\n# [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla)\n\n<figure class=\"figure\">\n    <img src=\"./images/Tesla.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Nikola Tesla</figcaption>\n</figure>\n\n## Tko je Tesla?\n\nNikola Tesla (Smiljan, 10. srpnja 1856. - New York, 7. siječnja 1943.) bio je hrvatski i američki znanstvenik i izumitelj podrijetlom Srbin iz Hrvatske.[1] Rođen u Lici, ali je gotovo cijeli život radio u SAD-u, gdje je i ostvario sve izume. Gimnaziju je pohađao u Gospiću, potom u Rakovcu kraj Karlovca, gdje je maturirao. Na Visoku tehničku školu u Grazu upisao se 1875. Godine 1881. radio je u Središnjem telegrafskom uredu u Budimpešti, a potom u Telefonskoj centrali, u kojoj je načinio niz tehničkih poboljšanja. U jesen 1882. zaposlio se u Parizu u Edisonovoj telefonskoj podružnici. Već je za vrijeme studija upozorio na nedostatke istosmjernoga elektromotora. U Budimpešti je zamislio primjenu višefaznih izmjeničnih struja za ostvarenje okretnoga magnetskoga polja koje bi uzrokovalo vrtnju u elektromotoru. U nastojanju da razvije zamišljeni sustav izmjeničnih struja, otišao je 1884. u SAD, gdje se s preporukom voditelja Edisonova predstavništva u Europi zaposlio kod T. A. Edisona, gdje je iznosio svoje zamisli o proizvodnji i isplativijem prijenosu izmjeničnih struja, ali nije nailazio na razumijevanje. Godine 1885. osnovao je Tesla u New Yorku vlastitu tvrtku Tesla Electric Light and Manufacturing Company za proizvodnju električnih lučnica (elektrolučna svjetiljka), a 1887. tvrtku Tesla Electric Company, s laboratorijem, u kojem je najprije konstruirao elektromotore izmjenične struje. U jesen iste godine prijavio je prve patente o proizvodnji i prijenosu višefaznih izmjeničnih struja i njihovoj primjeni za učinkovit pogon izmjeničnih elektromotora. Tim je izumima pokazao da je za većinu primjena izmjenična struja znatno prikladnija od istosmjerne.\n\n## O životu\n\n<figure class=\"figure\">\n    <img src=\"./images/NTesla.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Nikola Tesla</figcaption>\n</figure>\n\nIako mu je bio potreban novac 1912. je odbio primiti Nobelovu nagradu iz fizike jer je tvrdio da njegov suprimatelj Thomas Alva Edison nije pravi znanstvenik. Zadnje godine svog života proveo je hraneći golubove i živio je uglavnom od godišnjeg honorara iz domovine. Imao je napredni zametak fobije, ali istovremeno je bio briljantan znanstvenik koji je imao dara da praktično dokaže svoje hipoteze. Njegove špekulacije o ostvarenju komunikacije s drugim planetima, izjave da može razdijeliti Zemlju poput jabuke, kao i njegova tvrdnja da je izmislio smrtonosnu zraku koja može uništiti 10 tisuća aviona na udaljenosti od 400 km nailazile su na podsmijehe i kritike. Unatoč tomu Tesla se danas smatra jednim od najplodnijih genija u elektrotehnici. Njegova velika zasluga je uvođenje izmjenične struje u široku uporabu. Teslini izumi zasnovani na izmjeničnoj struji postali su temelj cijelom daljnjem razvoju elektrotehnike. Ostvario je oko tisuću pronalazaka i patenata - trofazni sustav za prijenos električne snage, generator i transformator za struje visoke frekvencije (Tesline struje) i drugo. Bio je i jedan od pionira radio-tehnike: otkrio je sustav za bežično upravljanje i davanje znakova na daljinu, pronašao je nov sustav osvjetljenja, konstruirao je visokofrekventne alternatore kao osnovu emisijskih radio-stanica, proizveo je neprigušene elektromagnetske valove, otkrio je i patentirao princip rezonancije za radio-veze, izložio ideju o međuplanetarnim telekomunikacijama pomoću ultrakratkih valova, a zamislio je u cjelini radarski sustav. Objavio je radove iz fizike u kojima je iznosio originalne ideje koje su se kasnije ostvarile\n\nPreminuo je u New Yorku 7. siječnja 1943. u 87-oj godini života. Nakon njegove smrti kovčezi u kojima se nalaze Teslini papiri, diplome i druge počasti, kao i njegove laboratorijske bilješke zapečaćeni su. Neko vrijeme nalazili su se u vlasništvu Teslinog rođaka i jedinog nasljednika Save Kosanovića. On je kasnije svoje tako stečeno nasljedstvo poklonio gradu Beogradu, a u svrhu osnivanja muzeja Nikole Tesle.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "a488f4b009489147e17ebf125716a37b",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "O životu Nikole Tesle",
+        "date": "2018-11-03",
+        "slug": "post-five",
+        "_PARENT": "95632235-2f3c-5466-9cd5-a92332b2dc86"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla)\n\n<figure class=\"figure\">\n    <img src=\"./images/Tesla.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Nikola Tesla</figcaption>\n</figure>\n\n## Tko je Tesla?\n\nNikola Tesla (Smiljan, 10. srpnja 1856. - New York, 7. siječnja 1943.) bio je hrvatski i američki znanstvenik i izumitelj podrijetlom Srbin iz Hrvatske.[1] Rođen u Lici, ali je gotovo cijeli život radio u SAD-u, gdje je i ostvario sve izume. Gimnaziju je pohađao u Gospiću, potom u Rakovcu kraj Karlovca, gdje je maturirao. Na Visoku tehničku školu u Grazu upisao se 1875. Godine 1881. radio je u Središnjem telegrafskom uredu u Budimpešti, a potom u Telefonskoj centrali, u kojoj je načinio niz tehničkih poboljšanja. U jesen 1882. zaposlio se u Parizu u Edisonovoj telefonskoj podružnici. Već je za vrijeme studija upozorio na nedostatke istosmjernoga elektromotora. U Budimpešti je zamislio primjenu višefaznih izmjeničnih struja za ostvarenje okretnoga magnetskoga polja koje bi uzrokovalo vrtnju u elektromotoru. U nastojanju da razvije zamišljeni sustav izmjeničnih struja, otišao je 1884. u SAD, gdje se s preporukom voditelja Edisonova predstavništva u Europi zaposlio kod T. A. Edisona, gdje je iznosio svoje zamisli o proizvodnji i isplativijem prijenosu izmjeničnih struja, ali nije nailazio na razumijevanje. Godine 1885. osnovao je Tesla u New Yorku vlastitu tvrtku Tesla Electric Light and Manufacturing Company za proizvodnju električnih lučnica (elektrolučna svjetiljka), a 1887. tvrtku Tesla Electric Company, s laboratorijem, u kojem je najprije konstruirao elektromotore izmjenične struje. U jesen iste godine prijavio je prve patente o proizvodnji i prijenosu višefaznih izmjeničnih struja i njihovoj primjeni za učinkovit pogon izmjeničnih elektromotora. Tim je izumima pokazao da je za većinu primjena izmjenična struja znatno prikladnija od istosmjerne.\n\n## O životu\n\n<figure class=\"figure\">\n    <img src=\"./images/NTesla.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Nikola Tesla</figcaption>\n</figure>\n\nIako mu je bio potreban novac 1912. je odbio primiti Nobelovu nagradu iz fizike jer je tvrdio da njegov suprimatelj Thomas Alva Edison nije pravi znanstvenik. Zadnje godine svog života proveo je hraneći golubove i živio je uglavnom od godišnjeg honorara iz domovine. Imao je napredni zametak fobije, ali istovremeno je bio briljantan znanstvenik koji je imao dara da praktično dokaže svoje hipoteze. Njegove špekulacije o ostvarenju komunikacije s drugim planetima, izjave da može razdijeliti Zemlju poput jabuke, kao i njegova tvrdnja da je izmislio smrtonosnu zraku koja može uništiti 10 tisuća aviona na udaljenosti od 400 km nailazile su na podsmijehe i kritike. Unatoč tomu Tesla se danas smatra jednim od najplodnijih genija u elektrotehnici. Njegova velika zasluga je uvođenje izmjenične struje u široku uporabu. Teslini izumi zasnovani na izmjeničnoj struji postali su temelj cijelom daljnjem razvoju elektrotehnike. Ostvario je oko tisuću pronalazaka i patenata - trofazni sustav za prijenos električne snage, generator i transformator za struje visoke frekvencije (Tesline struje) i drugo. Bio je i jedan od pionira radio-tehnike: otkrio je sustav za bežično upravljanje i davanje znakova na daljinu, pronašao je nov sustav osvjetljenja, konstruirao je visokofrekventne alternatore kao osnovu emisijskih radio-stanica, proizveo je neprigušene elektromagnetske valove, otkrio je i patentirao princip rezonancije za radio-veze, izložio ideju o međuplanetarnim telekomunikacijama pomoću ultrakratkih valova, a zamislio je u cjelini radarski sustav. Objavio je radove iz fizike u kojima je iznosio originalne ideje koje su se kasnije ostvarile\n\nPreminuo je u New Yorku 7. siječnja 1943. u 87-oj godini života. Nakon njegove smrti kovčezi u kojima se nalaze Teslini papiri, diplome i druge počasti, kao i njegove laboratorijske bilješke zapečaćeni su. Neko vrijeme nalazili su se u vlasništvu Teslinog rođaka i jedinog nasljednika Save Kosanovića. On je kasnije svoje tako stečeno nasljedstvo poklonio gradu Beogradu, a u svrhu osnivanja muzeja Nikole Tesle.\n",
+      "fileAbsolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/03-11-2018--post-5/index.md"
     },
-    "SitePage /blog/post-four": {
-      "jsonName": "blog-post-four-acd",
-      "internalComponentName": "ComponentBlogPostFour",
-      "path": "/blog/post-four",
-      "component": "C:/Users/PC/Desktop/CagaljAkt/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "post-four"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/templates/blog-post.js",
-      "id": "SitePage /blog/post-four",
-      "parent": "SOURCE",
+    "7d22d1da-c142-5cc3-8b67-6fa0b8982050": {
+      "id": "7d22d1da-c142-5cc3-8b67-6fa0b8982050",
       "children": [],
+      "parent": "a73a63b5-bf1b-5b24-a916-095d0c5f060d",
       "internal": {
-        "type": "SitePage",
-        "contentDigest": "6813a21493c2774def707d95dbf24c55",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
+        "content": "\n<!-- markdownlint-disable MD033 -->\n\n# [Domaći pas](https://hr.wikipedia.org/wiki/Doma%C4%87i_pas)\n\n<figure class=\"figure\">\n    <img src=\"./images/Pas.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Veseli pas</figcaption>\n</figure>\n\n## Psi\n\nPsi su bili prve domaće životinje među sisavcima. Ljudi su ih pripitomili prije otprilike 12 000 godina. Sve pasmine potječu od vuka (Canis lupus) unatoč tvrdnjama nekih da potječu i od lisica.\n\nPsi su vjerojatno prve pripitomljene životinje, koje čovjeku vjerno služe sve do danas. Ljudi su ih selektivno razmnožavali za mnoge namjene, a rezultat je toga životinja različitih oblika, veličina i sposobnosti.\n\nPas, Canis familiaris, kralježnjak je, sisavac i zvijer, pripadnik porodice pasa (Canidae) koja obuhvaća i lisicu, čaglja, vuka te australskog dinga. Njuška mu je vlažna, posjeduje izvrstan njuh i vrlo je druželjubiv. Izrazito dobro trči i spretno pliva te može vrlo brzo mijenjati smjer trka. Dok spava, često ga prate sni u kojima trza repom, cvili i potiho laje i reži.\n\nSmatra se da je predak psa bila životinja slična vuku - vjerojatno mješanac izmedu vuka i čaglja - koja je živjela prije nekoliko milijuna godina. Čak se i danas pripitomljeni psi mogu uspješno razmnožavati s vukovima i čagljevima. Neki smatraju da se svi psi mogu podijeliti u dvije velike skupine - na one koji su slični vukovima i na one koji su slični čagljevima.\n\n\n## Porijeklo od vukova\n\n<figure class=\"figure\">\n    <img src=\"./images/Vuk.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Vuk</figcaption>\n</figure>\n\nSmatra se da je predak psa bila životinja slična vuku - vjerojatno mješanac izmedu vuka i čaglja - koja je živjela prije nekoliko milijuna godina. Čak se i danas pripitomljeni psi mogu uspješno razmnožavati s vukovima i čagljevima. Neki smatraju da se svi psi mogu podijeliti u dvije velike skupine - na one koji su slični vukovima i na one koji su slični čagljevima.Smatra se da je predak psa bila životinja slična vuku - vjerojatno mješanac izmedu vuka i čaglja - koja je živjela prije nekoliko milijuna godina. Čak se i danas pripitomljeni psi mogu uspješno razmnožavati s vukovima i čagljevima. Neki smatraju da se svi psi mogu podijeliti u dvije velike skupine - na one koji su slični vukovima i na one koji su slični čagljevima.",
+        "type": "MarkdownRemark",
+        "contentDigest": "c9dfff8d0a1b6c39eb66cf5a535a6fdf",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Domaći pas",
+        "date": "2018-11-01",
+        "slug": "post-three",
+        "_PARENT": "a73a63b5-bf1b-5b24-a916-095d0c5f060d"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n<!-- markdownlint-disable MD033 -->\n\n# [Domaći pas](https://hr.wikipedia.org/wiki/Doma%C4%87i_pas)\n\n<figure class=\"figure\">\n    <img src=\"./images/Pas.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Veseli pas</figcaption>\n</figure>\n\n## Psi\n\nPsi su bili prve domaće životinje među sisavcima. Ljudi su ih pripitomili prije otprilike 12 000 godina. Sve pasmine potječu od vuka (Canis lupus) unatoč tvrdnjama nekih da potječu i od lisica.\n\nPsi su vjerojatno prve pripitomljene životinje, koje čovjeku vjerno služe sve do danas. Ljudi su ih selektivno razmnožavali za mnoge namjene, a rezultat je toga životinja različitih oblika, veličina i sposobnosti.\n\nPas, Canis familiaris, kralježnjak je, sisavac i zvijer, pripadnik porodice pasa (Canidae) koja obuhvaća i lisicu, čaglja, vuka te australskog dinga. Njuška mu je vlažna, posjeduje izvrstan njuh i vrlo je druželjubiv. Izrazito dobro trči i spretno pliva te može vrlo brzo mijenjati smjer trka. Dok spava, često ga prate sni u kojima trza repom, cvili i potiho laje i reži.\n\nSmatra se da je predak psa bila životinja slična vuku - vjerojatno mješanac izmedu vuka i čaglja - koja je živjela prije nekoliko milijuna godina. Čak se i danas pripitomljeni psi mogu uspješno razmnožavati s vukovima i čagljevima. Neki smatraju da se svi psi mogu podijeliti u dvije velike skupine - na one koji su slični vukovima i na one koji su slični čagljevima.\n\n\n## Porijeklo od vukova\n\n<figure class=\"figure\">\n    <img src=\"./images/Vuk.jpg\" alt=\"Title\"/>\n    <figcaption class=\"figure__caption\">Vuk</figcaption>\n</figure>\n\nSmatra se da je predak psa bila životinja slična vuku - vjerojatno mješanac izmedu vuka i čaglja - koja je živjela prije nekoliko milijuna godina. Čak se i danas pripitomljeni psi mogu uspješno razmnožavati s vukovima i čagljevima. Neki smatraju da se svi psi mogu podijeliti u dvije velike skupine - na one koji su slični vukovima i na one koji su slični čagljevima.Smatra se da je predak psa bila životinja slična vuku - vjerojatno mješanac izmedu vuka i čaglja - koja je živjela prije nekoliko milijuna godina. Čak se i danas pripitomljeni psi mogu uspješno razmnožavati s vukovima i čagljevima. Neki smatraju da se svi psi mogu podijeliti u dvije velike skupine - na one koji su slični vukovima i na one koji su slični čagljevima.",
+      "fileAbsolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/01-11-2018--post-3/index.md"
+    },
+    "4aabde03-9a30-5c46-ba18-82632af33b19": {
+      "id": "4aabde03-9a30-5c46-ba18-82632af33b19",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c8bdaff73482405b63c04579474a214c",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\30-10-2018--hello-world\\images\\Miami.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/30-10-2018--hello-world/images/Miami.jpg",
+      "relativePath": "30-10-2018--hello-world/images/Miami.jpg",
+      "extension": "jpg",
+      "size": 417728,
+      "prettySize": "418 kB",
+      "modifiedTime": "2019-02-18T19:21:10.955Z",
+      "accessTime": "2019-02-28T15:41:24.618Z",
+      "changeTime": "2019-02-28T15:41:24.634Z",
+      "birthTime": "2019-02-28T15:41:24.618Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/30-10-2018--hello-world/images",
+      "base": "Miami.jpg",
+      "ext": ".jpg",
+      "name": "Miami",
+      "relativeDirectory": "30-10-2018--hello-world\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1688849860731972,
+      "atime": "2019-02-28T15:41:24.618Z",
+      "mtime": "2019-02-18T19:21:10.955Z",
+      "ctime": "2019-02-28T15:41:24.634Z",
+      "birthtime": "2019-02-28T15:41:24.618Z"
+    },
+    "013e395c-8741-5148-9bc2-7c61886008ea": {
+      "id": "013e395c-8741-5148-9bc2-7c61886008ea",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a8b595ccb254a4da17045048e949eee3",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\31-10-2018--post-2\\images\\Iceland2.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/31-10-2018--post-2/images/Iceland2.jpg",
+      "relativePath": "31-10-2018--post-2/images/Iceland2.jpg",
+      "extension": "jpg",
+      "size": 527570,
+      "prettySize": "528 kB",
+      "modifiedTime": "2019-02-18T19:24:54.432Z",
+      "accessTime": "2019-02-28T15:41:24.741Z",
+      "changeTime": "2019-02-28T15:41:24.752Z",
+      "birthTime": "2019-02-28T15:41:24.741Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/31-10-2018--post-2/images",
+      "base": "Iceland2.jpg",
+      "ext": ".jpg",
+      "name": "Iceland2",
+      "relativeDirectory": "31-10-2018--post-2\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 2533274790863946,
+      "atime": "2019-02-28T15:41:24.741Z",
+      "mtime": "2019-02-18T19:24:54.432Z",
+      "ctime": "2019-02-28T15:41:24.752Z",
+      "birthtime": "2019-02-28T15:41:24.741Z"
+    },
+    "48c9004e-231c-5b5a-8b3b-3d4b5b1384d1": {
+      "id": "48c9004e-231c-5b5a-8b3b-3d4b5b1384d1",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7a0c31fdd0a4e8a841232f934371cc4f",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\30-10-2018--hello-world\\images\\Miami2.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/30-10-2018--hello-world/images/Miami2.jpg",
+      "relativePath": "30-10-2018--hello-world/images/Miami2.jpg",
+      "extension": "jpg",
+      "size": 2729390,
+      "prettySize": "2.73 MB",
+      "modifiedTime": "2019-02-18T19:21:11.218Z",
+      "accessTime": "2019-02-28T15:41:24.636Z",
+      "changeTime": "2019-02-28T15:41:24.704Z",
+      "birthTime": "2019-02-28T15:41:24.636Z",
+      "root": "C:/",
+      "dir": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/content/posts/30-10-2018--hello-world/images",
+      "base": "Miami2.jpg",
+      "ext": ".jpg",
+      "name": "Miami2",
+      "relativeDirectory": "30-10-2018--hello-world\\images",
+      "dev": -256696446,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 5629499534681157,
+      "atime": "2019-02-28T15:41:24.636Z",
+      "mtime": "2019-02-18T19:21:11.218Z",
+      "ctime": "2019-02-28T15:41:24.704Z",
+      "birthtime": "2019-02-28T15:41:24.636Z"
     },
     "SitePage /blog/post-one": {
       "jsonName": "blog-post-one-638",
       "internalComponentName": "ComponentBlogPostOne",
       "path": "/blog/post-one",
-      "component": "C:/Users/PC/Desktop/CagaljAkt/src/templates/blog-post.js",
+      "component": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/templates/blog-post.js",
       "componentChunkName": "component---src-templates-blog-post-js",
       "context": {
         "slug": "post-one"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/templates/blog-post.js",
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/templates/blog-post.js",
       "id": "SitePage /blog/post-one",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0e6476808f037aea59c9230f4af5b017",
+        "contentDigest": "249a692d23ab00207980be07e7c0c430",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -2158,20 +2118,42 @@
       "jsonName": "blog-post-two-99a",
       "internalComponentName": "ComponentBlogPostTwo",
       "path": "/blog/post-two",
-      "component": "C:/Users/PC/Desktop/CagaljAkt/src/templates/blog-post.js",
+      "component": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/templates/blog-post.js",
       "componentChunkName": "component---src-templates-blog-post-js",
       "context": {
         "slug": "post-two"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/templates/blog-post.js",
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/templates/blog-post.js",
       "id": "SitePage /blog/post-two",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ed413e01cef1c91a88234dc239e30468",
+        "contentDigest": "4bbc58b11f6a6b09c1560439c2124b32",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/post-four": {
+      "jsonName": "blog-post-four-acd",
+      "internalComponentName": "ComponentBlogPostFour",
+      "path": "/blog/post-four",
+      "component": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "post-four"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/templates/blog-post.js",
+      "id": "SitePage /blog/post-four",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "991ac02e52a1fa1b82b49f0e8e447146",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -2180,20 +2162,42 @@
       "jsonName": "blog-post-five-add",
       "internalComponentName": "ComponentBlogPostFive",
       "path": "/blog/post-five",
-      "component": "C:/Users/PC/Desktop/CagaljAkt/src/templates/blog-post.js",
+      "component": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/templates/blog-post.js",
       "componentChunkName": "component---src-templates-blog-post-js",
       "context": {
         "slug": "post-five"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/templates/blog-post.js",
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/templates/blog-post.js",
       "id": "SitePage /blog/post-five",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d88ccceac4307321d3648cc9a3d467f7",
+        "contentDigest": "6048b2b9305dc18eadead213331116e0",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/post-three": {
+      "jsonName": "blog-post-three-0ca",
+      "internalComponentName": "ComponentBlogPostThree",
+      "path": "/blog/post-three",
+      "component": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "post-three"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/templates/blog-post.js",
+      "id": "SitePage /blog/post-three",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4e1d28f8f287b4d8e0fa3f255305829f",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -2202,19 +2206,19 @@
       "jsonName": "blog-f7a",
       "internalComponentName": "ComponentBlog",
       "path": "/blog/",
-      "component": "C:/Users/PC/Desktop/CagaljAkt/src/pages/blog.js",
+      "component": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/blog.js",
       "componentChunkName": "component---src-pages-blog-js",
       "context": {},
-      "pluginCreator___NODE": "4094f2f5-1bc5-5feb-801d-1444072d2601",
-      "pluginCreatorId": "4094f2f5-1bc5-5feb-801d-1444072d2601",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/pages/blog.js",
+      "pluginCreator___NODE": "5fcbb6da-0f92-52dc-a854-398670d03462",
+      "pluginCreatorId": "5fcbb6da-0f92-52dc-a854-398670d03462",
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/blog.js",
       "id": "SitePage /blog/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d1c51625e4d239acca2e683025edf9cf",
-        "description": "4094f2f5-1bc5-5feb-801d-1444072d2601",
+        "contentDigest": "26f6cbe60239abbbf23f35d9f3404bc3",
+        "description": "5fcbb6da-0f92-52dc-a854-398670d03462",
         "owner": "internal-data-bridge"
       }
     },
@@ -2222,19 +2226,19 @@
       "jsonName": "index",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "C:/Users/PC/Desktop/CagaljAkt/src/pages/index.js",
+      "component": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "pluginCreator___NODE": "4094f2f5-1bc5-5feb-801d-1444072d2601",
-      "pluginCreatorId": "4094f2f5-1bc5-5feb-801d-1444072d2601",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/pages/index.js",
+      "pluginCreator___NODE": "5fcbb6da-0f92-52dc-a854-398670d03462",
+      "pluginCreatorId": "5fcbb6da-0f92-52dc-a854-398670d03462",
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b603cc9df76ce4ddc4ad541b58cdf43b",
-        "description": "4094f2f5-1bc5-5feb-801d-1444072d2601",
+        "contentDigest": "8b7e7142e549869842b04b1fc30d9e99",
+        "description": "5fcbb6da-0f92-52dc-a854-398670d03462",
         "owner": "internal-data-bridge"
       }
     },
@@ -2242,39 +2246,39 @@
       "jsonName": "kultura-9c8",
       "internalComponentName": "ComponentKultura",
       "path": "/kultura/",
-      "component": "C:/Users/PC/Desktop/CagaljAkt/src/pages/kultura.js",
+      "component": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/kultura.js",
       "componentChunkName": "component---src-pages-kultura-js",
       "context": {},
-      "pluginCreator___NODE": "4094f2f5-1bc5-5feb-801d-1444072d2601",
-      "pluginCreatorId": "4094f2f5-1bc5-5feb-801d-1444072d2601",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/pages/kultura.js",
+      "pluginCreator___NODE": "5fcbb6da-0f92-52dc-a854-398670d03462",
+      "pluginCreatorId": "5fcbb6da-0f92-52dc-a854-398670d03462",
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/kultura.js",
       "id": "SitePage /kultura/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f86241316d9a8b5c98d4a38846424d41",
-        "description": "4094f2f5-1bc5-5feb-801d-1444072d2601",
+        "contentDigest": "81622edbc15e6e41e9ce484b0ab9e633",
+        "description": "5fcbb6da-0f92-52dc-a854-398670d03462",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /naslovna/": {
-      "jsonName": "naslovna-131",
-      "internalComponentName": "ComponentNaslovna",
-      "path": "/naslovna/",
-      "component": "C:/Users/PC/Desktop/CagaljAkt/src/pages/naslovna.js",
-      "componentChunkName": "component---src-pages-naslovna-js",
+    "SitePage /naslovnica/": {
+      "jsonName": "naslovnica-a98",
+      "internalComponentName": "ComponentNaslovnica",
+      "path": "/naslovnica/",
+      "component": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/naslovnica.js",
+      "componentChunkName": "component---src-pages-naslovnica-js",
       "context": {},
-      "pluginCreator___NODE": "4094f2f5-1bc5-5feb-801d-1444072d2601",
-      "pluginCreatorId": "4094f2f5-1bc5-5feb-801d-1444072d2601",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/pages/naslovna.js",
-      "id": "SitePage /naslovna/",
+      "pluginCreator___NODE": "5fcbb6da-0f92-52dc-a854-398670d03462",
+      "pluginCreatorId": "5fcbb6da-0f92-52dc-a854-398670d03462",
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/naslovnica.js",
+      "id": "SitePage /naslovnica/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "43a8192cdb1ce2b1c4567157fe8e1f6f",
-        "description": "4094f2f5-1bc5-5feb-801d-1444072d2601",
+        "contentDigest": "e935592f82cdd6f78566f2baee0721d1",
+        "description": "5fcbb6da-0f92-52dc-a854-398670d03462",
         "owner": "internal-data-bridge"
       }
     },
@@ -2282,19 +2286,19 @@
       "jsonName": "one-223",
       "internalComponentName": "ComponentOne",
       "path": "/one/",
-      "component": "C:/Users/PC/Desktop/CagaljAkt/src/pages/one.js",
+      "component": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/one.js",
       "componentChunkName": "component---src-pages-one-js",
       "context": {},
-      "pluginCreator___NODE": "4094f2f5-1bc5-5feb-801d-1444072d2601",
-      "pluginCreatorId": "4094f2f5-1bc5-5feb-801d-1444072d2601",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/pages/one.js",
+      "pluginCreator___NODE": "5fcbb6da-0f92-52dc-a854-398670d03462",
+      "pluginCreatorId": "5fcbb6da-0f92-52dc-a854-398670d03462",
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/one.js",
       "id": "SitePage /one/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "530e2e6a37e6a23563415bea08db3b90",
-        "description": "4094f2f5-1bc5-5feb-801d-1444072d2601",
+        "contentDigest": "958d8381152a4bab77d7bbfd0cb06294",
+        "description": "5fcbb6da-0f92-52dc-a854-398670d03462",
         "owner": "internal-data-bridge"
       }
     },
@@ -2303,18 +2307,18 @@
       "internalComponentName": "ComponentPrivate",
       "path": "/private/",
       "matchPath": "/private/*",
-      "component": "C:/Users/PC/Desktop/CagaljAkt/src/pages/private.js",
+      "component": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/private.js",
       "componentChunkName": "component---src-pages-private-js",
       "context": {},
       "pluginCreator___NODE": "89659580-5fb3-5e5a-8bec-f752a04d705f",
       "pluginCreatorId": "89659580-5fb3-5e5a-8bec-f752a04d705f",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/pages/private.js",
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/private.js",
       "id": "SitePage /private/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bd72b8bcbee7987435e221c97f34e318",
+        "contentDigest": "e56d283c5c5eccaa058a6b897e6af021",
         "description": "89659580-5fb3-5e5a-8bec-f752a04d705f",
         "owner": "internal-data-bridge"
       }
@@ -2323,19 +2327,19 @@
       "jsonName": "putovanja-530",
       "internalComponentName": "ComponentPutovanja",
       "path": "/putovanja/",
-      "component": "C:/Users/PC/Desktop/CagaljAkt/src/pages/putovanja.js",
+      "component": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/putovanja.js",
       "componentChunkName": "component---src-pages-putovanja-js",
       "context": {},
-      "pluginCreator___NODE": "4094f2f5-1bc5-5feb-801d-1444072d2601",
-      "pluginCreatorId": "4094f2f5-1bc5-5feb-801d-1444072d2601",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/pages/putovanja.js",
+      "pluginCreator___NODE": "5fcbb6da-0f92-52dc-a854-398670d03462",
+      "pluginCreatorId": "5fcbb6da-0f92-52dc-a854-398670d03462",
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/putovanja.js",
       "id": "SitePage /putovanja/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a25c0766be06dd0e3b13d1985cd3e5ac",
-        "description": "4094f2f5-1bc5-5feb-801d-1444072d2601",
+        "contentDigest": "333d8f5663513fc43fcc7df87d235355",
+        "description": "5fcbb6da-0f92-52dc-a854-398670d03462",
         "owner": "internal-data-bridge"
       }
     },
@@ -2343,19 +2347,19 @@
       "jsonName": "second-page-1c7",
       "internalComponentName": "ComponentSecondPage",
       "path": "/second-page/",
-      "component": "C:/Users/PC/Desktop/CagaljAkt/src/pages/second-page.js",
+      "component": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/second-page.js",
       "componentChunkName": "component---src-pages-second-page-js",
       "context": {},
-      "pluginCreator___NODE": "4094f2f5-1bc5-5feb-801d-1444072d2601",
-      "pluginCreatorId": "4094f2f5-1bc5-5feb-801d-1444072d2601",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/pages/second-page.js",
+      "pluginCreator___NODE": "5fcbb6da-0f92-52dc-a854-398670d03462",
+      "pluginCreatorId": "5fcbb6da-0f92-52dc-a854-398670d03462",
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/second-page.js",
       "id": "SitePage /second-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a2454d582cc13a06f56db7705ba31add",
-        "description": "4094f2f5-1bc5-5feb-801d-1444072d2601",
+        "contentDigest": "92349a3feb21e0d983487320d576dc61",
+        "description": "5fcbb6da-0f92-52dc-a854-398670d03462",
         "owner": "internal-data-bridge"
       }
     },
@@ -2363,19 +2367,19 @@
       "jsonName": "zanimljivosti-9db",
       "internalComponentName": "ComponentZanimljivosti",
       "path": "/zanimljivosti/",
-      "component": "C:/Users/PC/Desktop/CagaljAkt/src/pages/zanimljivosti.js",
+      "component": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/zanimljivosti.js",
       "componentChunkName": "component---src-pages-zanimljivosti-js",
       "context": {},
-      "pluginCreator___NODE": "4094f2f5-1bc5-5feb-801d-1444072d2601",
-      "pluginCreatorId": "4094f2f5-1bc5-5feb-801d-1444072d2601",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/pages/zanimljivosti.js",
+      "pluginCreator___NODE": "5fcbb6da-0f92-52dc-a854-398670d03462",
+      "pluginCreatorId": "5fcbb6da-0f92-52dc-a854-398670d03462",
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/zanimljivosti.js",
       "id": "SitePage /zanimljivosti/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9658877fd6f2a2e84095e0b7d851bc1e",
-        "description": "4094f2f5-1bc5-5feb-801d-1444072d2601",
+        "contentDigest": "8a93a273a0cc539a4645ded5e6ea4609",
+        "description": "5fcbb6da-0f92-52dc-a854-398670d03462",
         "owner": "internal-data-bridge"
       }
     },
@@ -2383,47 +2387,72 @@
       "jsonName": "zivotinje-e18",
       "internalComponentName": "ComponentZivotinje",
       "path": "/zivotinje/",
-      "component": "C:/Users/PC/Desktop/CagaljAkt/src/pages/zivotinje.js",
+      "component": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/zivotinje.js",
       "componentChunkName": "component---src-pages-zivotinje-js",
       "context": {},
-      "pluginCreator___NODE": "4094f2f5-1bc5-5feb-801d-1444072d2601",
-      "pluginCreatorId": "4094f2f5-1bc5-5feb-801d-1444072d2601",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/pages/zivotinje.js",
+      "pluginCreator___NODE": "5fcbb6da-0f92-52dc-a854-398670d03462",
+      "pluginCreatorId": "5fcbb6da-0f92-52dc-a854-398670d03462",
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/zivotinje.js",
       "id": "SitePage /zivotinje/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "907b7fa8a03c8fd736815a07804557bb",
-        "description": "4094f2f5-1bc5-5feb-801d-1444072d2601",
+        "contentDigest": "e94cd7ce97d513a535f825adafbee8f8",
+        "description": "5fcbb6da-0f92-52dc-a854-398670d03462",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "4c083a7fd5ae042e3e3bd15ec71fc1b0"
+    "PLUGINS_HASH": "1163d536d21f138db0552ca4a2de00db"
   },
   "componentDataDependencies": {
     "nodes": {
       "Site": [
-        "/",
-        "sq--src-components-seo-index-js"
+        "sq--src-components-seo-index-js",
+        "/"
       ],
-      "4371fa97-977c-5a4c-bf8c-47131b30beb3": [
-        "/blog/post-three"
-      ],
-      "20d3e252-f7db-5929-bce1-953d0a51d743": [
-        "/blog/post-four"
-      ],
-      "b9986de2-24d2-5f2f-81ff-3d1ee5d47e8c": [
+      "62e0b174-d997-5a50-857c-2c2f7fa1b884": [],
+      "0e81d01c-56b3-5a29-9788-7e920d11e196": [],
+      "c8359bd6-3865-5e5f-a72c-f8b47caf73ac": [],
+      "c10f7559-25a2-5899-9023-cafd78efacde": [],
+      "a0f49a7d-90df-504a-bb96-f8de1bafb525": [],
+      "73b977ca-b4fb-55bd-a98e-20d61a8064b2": [],
+      "e02804fd-05f9-51e3-a2e5-e4332033c9c5": [],
+      "0d1ef3d1-31d9-5ac7-ac82-b0015c32a3bf": [],
+      "000df55e-4f3f-53bf-9120-e4e8ab0f1f71": [],
+      "82281c35-326d-5adc-adde-3b5874f6ed2b": [],
+      "adc91c8a-12a7-5bdb-9756-a4c78032c9fe": [],
+      "24661fb7-9b2e-5aa1-9872-2204f1b1cd87": [],
+      "213c180d-922d-532d-98ce-bf079bcec6f6": [],
+      "fe2c2187-8aea-53be-af6e-059be1657f78": [],
+      "1a9c9106-f6f9-5617-a2a1-d315a857c5b3": [],
+      "a00f79c5-e206-5e72-be47-5909bdae31d5": [],
+      "2c226b8d-6181-5f78-8b7c-41ddba910360": [],
+      "73da57fc-071e-56ca-9787-3be54f8b0f51": [],
+      "91dfe5c3-352e-5020-8d0c-6c87082d1e78": [],
+      "d6b1e363-b0ba-5a68-94ee-c07280e5c105": [],
+      "887f51f1-77f0-5af4-9430-0d872424e7a7": [],
+      "c3fbd752-f0e5-517d-b362-b9c633ac6c39": [],
+      "eb411642-d2c9-5c80-ac3b-3a1d25ceb13b": [],
+      "ae21299a-f45c-5ff3-aec0-1cec1a2b65cc": [],
+      "c8ccaa71-3a69-523b-9a62-0e4471c66c8a": [],
+      "f2c31a50-5d39-5d13-8cee-2aa431bd88da": [
         "/blog/post-one"
       ],
-      "beb9c501-d533-5fad-80a8-554ebc419f2f": [
+      "24f65baf-5c9a-59a4-a536-48b1c6e560d2": [
         "/blog/post-two"
       ],
-      "aa91aa99-df36-5c2d-824d-5c560eb1ba5b": [
+      "42bcc7e5-1ae6-545f-aee3-891eb8e8f44b": [
+        "/blog/post-four"
+      ],
+      "22ed6c36-fdad-5e9d-b1d6-dce2345aa330": [
         "/blog/post-five"
+      ],
+      "7d22d1da-c142-5cc3-8b67-6fa0b8982050": [
+        "/blog/post-three"
       ]
     },
     "connections": {
@@ -2435,76 +2464,77 @@
   "jsonDataPaths": {
     "index": "924/path---index-6a9-dXqwoOE9iel2fqUXswFo24jR49A",
     "sq--src-components-seo-index-js": 1315885718,
-    "blog-post-four-acd": "663/path---blog-post-four-acd-cf4-AKYsFDY8l6mmiG3KSQygByQcwM",
-    "blog-f7a": "863/path---blog-f-7-a-05d-IeXPRHA7KJXVr5Z0oxz2yFCgsRE",
-    "blog-post-five-add": "444/path---blog-post-five-add-944-ckaOSatRZEOg73QqO0vR04uj2kk",
-    "blog-post-three-0ca": "733/path---blog-post-three-0-ca-e59-ZSlGEfKjsFMCYU5aZIMORV1GWo",
+    "blog-post-four-acd": "675/path---blog-post-four-acd-cf4-KGsKbqnPR3UzhlCvK5SJybvKww",
+    "blog-f7a": "8/path---blog-f-7-a-05d-KPmO3zbXf8yHwyfbxTvFRx57sE",
+    "blog-post-five-add": "427/path---blog-post-five-add-944-X1l41Sa91zJ1ZN4XLaURPqC6swE",
+    "blog-post-three-0ca": "992/path---blog-post-three-0-ca-e59-fqk7whzY3FoG1rUBfvvlxVcW7hg",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
     "kultura-9c8": "218/path---kultura-9-c-8-e84-NZuapzHg3X9TaN1iIixfv1W23E",
-    "blog-post-one-638": "632/path---blog-post-one-638-2ad-ULC7sMyH7Q6ezqD5rgoa9IA6I",
-    "blog-post-two-99a": "627/path---blog-post-two-99-a-e88-PkfQsi9EZoG3ztjX4uVEgXldyNw",
+    "blog-post-one-638": "159/path---blog-post-one-638-2ad-pYwmeLUlOJsZnaKPvuHztUfWb8",
+    "blog-post-two-99a": "992/path---blog-post-two-99-a-e88-G9cDt6Yrj44DLc4XXw22YJJFGI",
     "naslovna-131": "470/path---naslovna-131-09f-NZuapzHg3X9TaN1iIixfv1W23E",
     "private-80e": "898/path---private-80-e-156-aMO26OXmKK128oUbNopJ1b9dm5o",
     "putovanja-530": "407/path---putovanja-530-354-NZuapzHg3X9TaN1iIixfv1W23E",
     "second-page-1c7": "772/path---second-page-1-c-7-a3b-NZuapzHg3X9TaN1iIixfv1W23E",
     "zanimljivosti-9db": "259/path---zanimljivosti-9-db-786-NZuapzHg3X9TaN1iIixfv1W23E",
     "zivotinje-e18": "773/path---zivotinje-e-18-86a-NZuapzHg3X9TaN1iIixfv1W23E",
-    "one-223": "450/path---one-223-f49-NZuapzHg3X9TaN1iIixfv1W23E"
+    "one-223": "450/path---one-223-f49-NZuapzHg3X9TaN1iIixfv1W23E",
+    "naslovnica-a98": "5/path---naslovnica-a-98-e23-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
-    "C:/Users/PC/Desktop/CagaljAkt/src/templates/blog-post.js": {
+    "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/templates/blog-post.js": {
       "query": "query BlogPostQuery(\n  $slug: String!\n) {\n  markdownRemark(frontmatter: {slug: {eq: $slug}}) {\n    html\n    frontmatter {\n      date\n      slug\n      title\n    }\n  }\n}\n",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/templates/blog-post.js"
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/templates/blog-post.js"
     },
-    "C:/Users/PC/Desktop/CagaljAkt/.cache/dev-404-page.js": {
+    "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/.cache/dev-404-page.js": {
       "query": "",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/.cache/dev-404-page.js"
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/.cache/dev-404-page.js"
     },
-    "C:/Users/PC/Desktop/CagaljAkt/src/pages/blog.js": {
+    "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/blog.js": {
       "query": "query BlogIndexQuery {\n  allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}) {\n    edges {\n      node {\n        id\n        frontmatter {\n          title\n          date\n          slug\n        }\n        excerpt(pruneLength: 300)\n      }\n    }\n  }\n}\n",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/pages/blog.js"
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/blog.js"
     },
-    "C:/Users/PC/Desktop/CagaljAkt/src/pages/index.js": {
+    "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/index.js": {
       "query": "query SiteMetadata {\n  site {\n    siteMetadata {\n      title\n      description\n    }\n  }\n}\n",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/pages/index.js"
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/index.js"
     },
-    "C:/Users/PC/Desktop/CagaljAkt/src/pages/kultura.js": {
+    "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/kultura.js": {
       "query": "",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/pages/kultura.js"
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/kultura.js"
     },
-    "C:/Users/PC/Desktop/CagaljAkt/src/pages/naslovna.js": {
+    "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/naslovnica.js": {
       "query": "",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/pages/naslovna.js"
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/naslovnica.js"
     },
-    "C:/Users/PC/Desktop/CagaljAkt/src/pages/private.js": {
+    "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/one.js": {
       "query": "",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/pages/private.js"
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/one.js"
     },
-    "C:/Users/PC/Desktop/CagaljAkt/src/pages/putovanja.js": {
+    "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/private.js": {
       "query": "",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/pages/putovanja.js"
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/private.js"
     },
-    "C:/Users/PC/Desktop/CagaljAkt/src/pages/second-page.js": {
+    "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/putovanja.js": {
       "query": "",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/pages/second-page.js"
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/putovanja.js"
     },
-    "C:/Users/PC/Desktop/CagaljAkt/src/pages/zanimljivosti.js": {
+    "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/second-page.js": {
       "query": "",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/pages/zanimljivosti.js"
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/second-page.js"
     },
-    "C:/Users/PC/Desktop/CagaljAkt/src/pages/zivotinje.js": {
+    "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/zanimljivosti.js": {
       "query": "",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/pages/zivotinje.js"
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/zanimljivosti.js"
     },
-    "C:/Users/PC/Desktop/CagaljAkt/src/pages/one.js": {
+    "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/zivotinje.js": {
       "query": "",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/pages/one.js"
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/pages/zivotinje.js"
     }
   },
   "staticQueryComponents": {
     "sq--src-components-seo-index-js": {
       "name": "DefaultSEOQuery",
-      "componentPath": "C:/Users/PC/Desktop/CagaljAkt/src/components/SEO/index.js",
+      "componentPath": "C:/Users/PC/Desktop/Leo/Leo faks/KorisnickaSucelja-SveVezanoZaProjekt/MojaVerzijaPRijeAne/src/components/SEO/index.js",
       "id": "sq--src-components-seo-index-js",
       "jsonName": "sq--src-components-seo-index-js",
       "query": "query DefaultSEOQuery {\n  site {\n    siteMetadata {\n      title\n      description\n    }\n  }\n}\n",

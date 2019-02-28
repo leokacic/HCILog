@@ -1,29 +1,37 @@
 ---
 date: "2018-10-30"
-title: "Hello, World!"
+title: "Miami"
 slug: post-one
 ---
 
 <!-- markdownlint-disable MD033 -->
 
-# [Lorem Ipsum](https://www.lipsum.com/)
+# [Miami](https://hr.wikipedia.org/wiki/Miami,_Florida)
 
 <figure class="figure">
-    <img src="./images/alessandro-viaro-94370-unsplash.jpg" alt="Title"/>
-    <figcaption class="figure__caption">Title</figcaption>
+    <img src="./images/Miami.jpg" alt="Title"/>
+    <figcaption class="figure__caption">Palme Miamia</figcaption>
 </figure>
 
-## What is Lorem Ipsum
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Miami je grad smješten u jugoistočnom kutu američke savezne države Floride. Miami je drugi najveći grad na Floridi te najveći grad i sjedište okruga Miami-Dade. Također je najveći grad u metropolitanskom području ("Područje utjecaja") južne Floride, koje se sastoji od okruga Miami-Dade, Broward i Palm Beach te je najveće metropolitansko područje u jugoistočnom SAD-u.
 
-## Where does it come from?
+Veliki porast broja stanovnika posljednjih godina rezultat je migracija unutar SAD-a kao i imigracije. Šire područje Miamija mjesto je gdje se susreću brojne kulture i nalazi se pod snažnim utjecajem velike populacije etničkih Latinoamerikanaca i karipskih otočana, od kojih su mnogi izvorni govornici španjolskog i haićanskog jezika.
+
+Važnost regije kao međunarodnog financijskog i kulturalnog središta uzdigla je Miami do statusa svjetskog grada, a uz Atlantu grad je jedno od najvažnijih poslovnih središta u jugoistočnom SAD-u.
+Veliki porast broja stanovnika posljednjih godina rezultat je migracija unutar SAD-a kao i imigracije. Šire područje Miamija mjesto je gdje se susreću brojne kulture i nalazi se pod snažnim utjecajem velike populacije etničkih Latinoamerikanaca i karipskih otočana, od kojih su mnogi izvorni govornici španjolskog i haićanskog jezika.
+
+Važnost regije kao međunarodnog financijskog i kulturalnog središta uzdigla je Miami do statusa svjetskog grada, a uz Atlantu grad je jedno od najvažnijih poslovnih središta u jugoistočnom SAD-u.
+
+## Povijest Miamia
 
 <figure class="figure">
-    <img src="./images/cristina-gottardi-189946-unsplash.jpg" alt="Title"/>
-    <figcaption class="figure__caption">Title</figcaption>
+    <img src="./images/Miami2.jpg" alt="Title"/>
+    <figcaption class="figure__caption">Poznata plaža Miamia</figcaption>
 </figure>
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+Miami je kao grad službeno osnovan 28. srpnja 1896. godine, dok je područje na kojem je grad osnovan bilo naseljeno više od tisuću godina Tequesta Indijancima, a to je područje 1566., Španjolskoj prisvojio Pedro Menéndez de Avilés. Španjolska misija izgrađena je godinu kasnije. Godine 1836., sagrađena je tvrđava Dallas gdje su se odvijale bitke tijekom Drugog seminolskog rata. U 1920-ima, događa se veliki porast stanovništva i izgradnje infrastrukture. Do 1940., u Miamiju je živjelo 172 172 stanovnika.
 
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+Nagli razvoj grada počinje dolaskom željeznice. Lokalna uzgajivačica citrusa Julia Tuttle, uvjerila je željezničkog magnata Henrya Flaglera u gradnju željeznice sve do Miamija. Dana 28. srpnja 1896., Miami je službeno proglašen gradom s preko 300 stanovnika.
+
+Nagli razvoj grada koji je počeo 1920-ih, poremetile su krize nekretnina, uragan 1926., te velika depresija 1930-ih. Početkom Drugog svjetskog rata, Miami je zbog svog položaja odigrao važnu ulogu u borbi protiv njemačkih podmornica. Rat je potaknuo rast stanovništva čiji se broj podigao na skoro pola milijuna. Dolaskom Castrovog režima na vlast na Kubi 1959. godine, veliki broj Kubanaca doselio se u Miami, što je dodatno povećalo broj stanovnika. Od novijih kriza najznačajnije su pobuna zbog premlaćivanja Arthura McDuffieja, narko ratovi, uragan Andrew, te afera Eliána Gonzáleza. Danas je Miami grad u velikom razvoju, koji privlači veliki broj stanovnika.

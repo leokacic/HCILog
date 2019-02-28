@@ -8,11 +8,11 @@
 
 .LoginForm__input {
   outline: none;
-  border: solid 1px var(--color-gatsby-light);
+  border: solid 1px black;
 }
 
 .LoginForm__input:focus {
-  border-color: var(--color-gatsby);
+  border-color: orange;
 }
 
 .LoginForm__button,
@@ -23,7 +23,7 @@
 }
 
 .LoginForm__button {
-  background-color: var(--color-gatsby);
+  background-color: orange;
   color: black;
   border: solid black 2px;
   cursor: pointer;

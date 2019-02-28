@@ -14,7 +14,6 @@ import { navigate } from "gatsby";
 import styles from "../styles/pages/private.module.css";
 import { SiteContainer } from "../components";
 import Header from "../components/Header"
-
 const Logout = () => (
   <a
     href="/"
@@ -37,7 +36,7 @@ export default () => (
       <Logout />
     ) : (
       <>
-        <h1>Prijava</h1>
+        <h1 className={styles.prijava}>Prijava</h1>
         <Login private="/private/dashboard" handleLogin={handleLogin} />
       </>
     )}

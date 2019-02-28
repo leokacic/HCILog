@@ -11,10 +11,7 @@ export default ({
   }
 }) => {
   return (
-    <Layout>
-    <MainNews> 
-      <h1>Kultura</h1>
-    </MainNews>
+  <Layout>
   </Layout>
   );
 };

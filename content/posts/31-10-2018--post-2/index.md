@@ -1,29 +1,30 @@
 ---
 date: "2018-10-31"
-title: "Post 2"
+title: "Island"
 slug: post-two
 ---
 
 <!-- markdownlint-disable MD033 -->
 
-# [Lorem Ipsum](https://www.lipsum.com/)
+# [Island](https://hr.wikipedia.org/wiki/Island)
 
 <figure class="figure">
-    <img src="./images/markos-mant-228858-unsplash.jpg" alt="Title"/>
-    <figcaption class="figure__caption">Title</figcaption>
+    <img src="./images/Fjord.jpg" alt="Title"/>
+    <figcaption class="figure__caption">Fjordovi Islanda </figcaption>
 </figure>
 
-## What is Lorem Ipsum
+## Island
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Island je bio jedan od najvećih otoka na svijetu koje čovjek nije naselio, dok u kasnom devetom i desetom stoljeću nisu došli norveški i keltski (škotski i irski) imigranti. Island ima najstariji parlament na svijetu, Althing, osnovan 930. godine. Neki pisani izvori navode da su irski redovnici živjeli na Islandu prije dolaska norveških naseljenika, ali nisu nađeni arheološki dokazi koji bi potkrijepili ovu tvrdnju.
 
-## Where does it come from?
+Island je bio neovisan 300 godina, a zatim su njime vladali Norveška i Danska. Formalno je bio norveška kolonija, do 1814. godine, kada se zajednička država Norveške i Danske razdvojila sporazumom iz Kiela, a Island je postao ovisan teritorij Danske. Od danske vlade je dobio ograničenu autonomnu vlast, 1874. godine, a protektoratsku neovisnost i suverenitet u unutrašnjim pitanjima 1918. Vanjski odnosi i obrana su ostali pod danskom upravom do Drugog svjetskog rata, kada je Njemačka vojno okupirala Dansku, 1940. Island su, nakon toga, okupirali saveznici. Danski kralj je de jure ostao suveren do 1944. godine, kada je današnja republika osnovana u nedostatku danske vlasti.
+## Politika Islanda
 
 <figure class="figure">
-    <img src="./images/victor-benard-493618-unsplash.jpg" alt="Title"/>
-    <figcaption class="figure__caption">Title</figcaption>
+    <img src="./images/Iceland.jpg" alt="Title"/>
+    <figcaption class="figure__caption">Aurora Borealis</figcaption>
 </figure>
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+Island je bio jedan od najvećih otoka na svijetu koje čovjek nije naselio, dok u kasnom devetom i desetom stoljeću nisu došli norveški i keltski (škotski i irski) imigranti. Island ima najstariji parlament na svijetu, Althing, osnovan 930. godine. Neki pisani izvori navode da su irski redovnici živjeli na Islandu prije dolaska norveških naseljenika, ali nisu nađeni arheološki dokazi koji bi potkrijepili ovu tvrdnju.
 
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+Island je bio neovisan 300 godina, a zatim su njime vladali Norveška i Danska. Formalno je bio norveška kolonija, do 1814. godine, kada se zajednička država Norveške i Danske razdvojila sporazumom iz Kiela, a Island je postao ovisan teritorij Danske. Od danske vlade je dobio ograničenu autonomnu vlast, 1874. godine, a protektoratsku neovisnost i suverenitet u unutrašnjim pitanjima 1918. Vanjski odnosi i obrana su ostali pod danskom upravom do Drugog svjetskog rata, kada je Njemačka vojno okupirala Dansku, 1940. Island su, nakon toga, okupirali saveznici. Danski kralj je de jure ostao suveren do 1944. godine, kada je današnja republika osnovana u nedostatku danske vlasti.

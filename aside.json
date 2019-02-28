@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "src": "Casablanca",
+        "alt": "Obala",
+        "naslov": "Obala",
+        "tekst": "Dalmaciju danas očekuju jugo i pljuskovi praćeni grmljavinom, a sljedeći tjedan stiže jaka i olujna bura",
+        "zanr": "dalmacija"
+    },
+    {
+        "id": 2,
+        "src": "Obala",
+        "alt": "Android",
+        "naslov": "Android",
+        "tekst": "Lorem ipsum dolor ahahhhhhhhhhhhhhhhhhhhhhhhhh aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "zanr": "dalmacija"
+    }
+]

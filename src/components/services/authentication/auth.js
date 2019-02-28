@@ -30,7 +30,7 @@ export const handleLogin = ({ username, password }) => {
 
   return {
     error: true,
-    message: 'Invalid, try "john" & "password"'
+    message: 'Invalid, username or password is wrong'
   };
 };
 

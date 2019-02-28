@@ -1,29 +1,34 @@
 ---
 date: "2018-11-01"
-title: "Post 3"
+title: "Domaći pas"
 slug: post-three
 ---
 
 <!-- markdownlint-disable MD033 -->
 
-# [Lorem Ipsum](https://www.lipsum.com/)
+# [Domaći pas](https://hr.wikipedia.org/wiki/Doma%C4%87i_pas)
 
 <figure class="figure">
-    <img src="./images/Android.jpg" alt="Title"/>
-    <figcaption class="figure__caption">Title</figcaption>
+    <img src="./images/Pas.jpg" alt="Title"/>
+    <figcaption class="figure__caption">Veseli pas</figcaption>
 </figure>
 
-## What is Lorem Ipsum
+## Psi
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Psi su bili prve domaće životinje među sisavcima. Ljudi su ih pripitomili prije otprilike 12 000 godina. Sve pasmine potječu od vuka (Canis lupus) unatoč tvrdnjama nekih da potječu i od lisica.
 
-## Where does it come from?
+Psi su vjerojatno prve pripitomljene životinje, koje čovjeku vjerno služe sve do danas. Ljudi su ih selektivno razmnožavali za mnoge namjene, a rezultat je toga životinja različitih oblika, veličina i sposobnosti.
+
+Pas, Canis familiaris, kralježnjak je, sisavac i zvijer, pripadnik porodice pasa (Canidae) koja obuhvaća i lisicu, čaglja, vuka te australskog dinga. Njuška mu je vlažna, posjeduje izvrstan njuh i vrlo je druželjubiv. Izrazito dobro trči i spretno pliva te može vrlo brzo mijenjati smjer trka. Dok spava, često ga prate sni u kojima trza repom, cvili i potiho laje i reži.
+
+Smatra se da je predak psa bila životinja slična vuku - vjerojatno mješanac izmedu vuka i čaglja - koja je živjela prije nekoliko milijuna godina. Čak se i danas pripitomljeni psi mogu uspješno razmnožavati s vukovima i čagljevima. Neki smatraju da se svi psi mogu podijeliti u dvije velike skupine - na one koji su slični vukovima i na one koji su slični čagljevima.
+
+
+## Porijeklo od vukova
 
 <figure class="figure">
-    <img src="./images/nathan-anderson-443540-unsplash.jpg" alt="Title"/>
-    <figcaption class="figure__caption">Title</figcaption>
+    <img src="./images/Vuk.jpg" alt="Title"/>
+    <figcaption class="figure__caption">Vuk</figcaption>
 </figure>
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+Smatra se da je predak psa bila životinja slična vuku - vjerojatno mješanac izmedu vuka i čaglja - koja je živjela prije nekoliko milijuna godina. Čak se i danas pripitomljeni psi mogu uspješno razmnožavati s vukovima i čagljevima. Neki smatraju da se svi psi mogu podijeliti u dvije velike skupine - na one koji su slični vukovima i na one koji su slični čagljevima.Smatra se da je predak psa bila životinja slična vuku - vjerojatno mješanac izmedu vuka i čaglja - koja je živjela prije nekoliko milijuna godina. Čak se i danas pripitomljeni psi mogu uspješno razmnožavati s vukovima i čagljevima. Neki smatraju da se svi psi mogu podijeliti u dvije velike skupine - na one koji su slični vukovima i na one koji su slični čagljevima.

@@ -3,20 +3,23 @@ import Container from "../Container";
 import Nav from "./Nav";
 import NavLink from "./NavLink";
 import styles from "./styles.module.css";
-
+import { Link } from "gatsby";
 import logoImg from "../../images/logo.png";
 
 export default () => (
   <header className={styles.Header}>
     <div className={styles.headerCenter}>
+    <Link to="/naslovnica">
       <span className={styles.headerLeft}>
         <img src={logoImg} className={styles.Img} alt="Logo Svijet oko nas" />
         <span className={styles.Logo}>Svijet oko nas</span>
-      </span>
+        <div className={styles.kratkilogo}>SoN</div>
+      </span>   
+      </Link>
 
       <Nav>
-        <NavLink to="/" exact="true">
-          Naslovnica
+        <NavLink to="/naslovnica"  exact="true">
+          Naslovna
         </NavLink>
         <NavLink to="/kultura" id={styles.kultura}>
           Kultura
@@ -33,7 +36,7 @@ export default () => (
         <NavLink to="/blog" id={styles.blog}>
           Blog
         </NavLink>
-        <NavLink to="/private">Private</NavLink>
+        <NavLink to="/private">Prijava</NavLink>
       </Nav>
     </div>
   </header>

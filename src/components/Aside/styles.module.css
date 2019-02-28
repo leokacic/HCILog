@@ -1,8 +1,11 @@
 .card {
   display: flex;
-  border: 1px solid black;
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
   width: 100%;
+  height: 150px;
   margin-top: 20xpx;
+  padding: 6px;
 }
 .card h3 {
   text-align: start;
@@ -11,14 +14,15 @@
 .card p {
   text-align: left;
   margin-left: 5px;
+  overflow: hidden;
 }
 .Aside {
   display: flex;
   flex-direction: column;
   grid-area: aside;
-  border: 2px solid black;
-  background-color: palegreen;
   align-self: start;
+  /* border: 2px solid black; */
+  background-color: palegreen;
 }
 .Aside h2 {
   text-align: left;
@@ -34,21 +38,60 @@
   max-height: 500px;
 }
 .TekstNovosti {
+  font-weight: 400;
   display: flex;
   flex-direction: column;
   text-align: start;
   margin-left: 5px;
+  width: 64%;
 }
 .Oznaka{
   display: flex;
 }
 .Oznaka::before {
   content: '';
-  height: 25px;
+  height: 30px;
   width: 5px;
   background-color: #4a4a4a;
   margin-left: 5px ;
   margin-top: 5px;
+}
+
+.slika{
+  width: 35%;
+}
+.naj{
+  margin-left: 5px;
+}
+
+.naslovna{
+  background-color: #f7ac5cb2;
+}
+.kultura{
+  background-color: #0479ff69;
+}
+.zivotinje{
+  background-color: #e1ee2d3b;
+}
+.putovanja{
+  background-color: #ff00007a;
+}
+.zanimljivosti{
+  background-color: #29a6295e;
+}
+
+
+.zivotinje::before{
+  background-color: yellow;
+}
+.kultura::before{
+  background-color: blue;
+}
+.zanimljivosti::before{
+  background-color: green;
+}
+.putovanja::before{
+  background-color: red;
 }
 @supports (display: grid) {
   @media screen and (max-width: 400px) {
@@ -73,19 +116,17 @@
   }
 }
 
-@media screen and (min-width: 400px) and (max-width: 700px) {
+@media screen and (min-width: 500px) and (max-width: 900px) {
   /*za tablete */
   .card {
     position: relative;
     text-align: left;
-    font-size: 10px;
-    color: white;
   }
   .TekstNovosti {
-    position: absolute;
+    font-size: 0.9rem;
+    font-weight: 400;
     bottom: 10px;
     left: 0px;
-    text-shadow: 0 1px 0 black;
   }
- 
 }
+

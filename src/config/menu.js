@@ -1,18 +1,30 @@
 export default [
   {
-    text: "Home",
-    path: "/"
+    text: "Naslovnica",
+    path: "/naslovnica"
   },
   {
-    text: "Second page",
+    text: "Kultura",
     path: "/kultura"
   },
   {
-    text: "Blog",
-    path: "/Putovanja"
+    text: "Životinje",
+    path: "/zivotinje"
   },
   {
-    text: "About",
-    path: "/about"
-  }
+    text: "Putovanja",
+    path: "/putovanja"
+  },
+  {
+    text: "Zanimljivosti",
+    path: "/zanimljivosti"
+  },
+  {
+    text: "Blog",
+    path: "/blog"
+  },
+  {
+    text: "Prijava",
+    path: "/private"
+  },
 ];

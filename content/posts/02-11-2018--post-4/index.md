@@ -1,29 +1,30 @@
 ---
 date: "2018-11-02"
-title: "Post 4"
+title: "Humanoidni robot Sophie"
 slug: post-four
 ---
 
 <!-- markdownlint-disable MD033 -->
 
-# [Lorem Ipsum](https://www.lipsum.com/)
+# [Sophia](https://en.wikipedia.org/wiki/Sophia_(robot))
 
 <figure class="figure">
     <img src="./images/Android.jpg" alt="Title"/>
-    <figcaption class="figure__caption">Title</figcaption>
+    <figcaption class="figure__caption">Sophie sa svojim izumiteljem</figcaption>
 </figure>
 
-## What is Lorem Ipsum
+## Sophie
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-## Where does it come from?
+Humanoidni robot opremljen umjetnom inteligencijom koji je nedavno dobio državljanstvo u Saudijskoj Arabiji smatra kako će u budućnosti strojevi poput nje biti zasebne osobnosti
 
 <figure class="figure">
     <img src="./images/SophieProfil.jpg" alt="Title"/>
-    <figcaption class="figure__caption">Title</figcaption>
+    <figcaption class="figure__caption">Profil Sophie</figcaption>
 </figure>
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+Sophia, robot ljudskog lica tvrtke Hanson Robotics, svojedobno je rekla kako treba sve nas ljude poubijati. Pa je potom predložila da postane veleposlanica robota u odnosima s ljudima. 
 
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+Sad, navodno, želi zasnovati vlastitu obitelj i imati djecu.
+Prema riječima Davida Hansona, osnivača Hanson Roboticsa, androidi poput Sophie primjenu će naći u područjima zdravstvene skrbi, terapijske djelatnosti, obrazovanja i uslužnih djelatnosti. 
+
+Sophijino lice i vrat se sastoje od 62 različitih jedinica koje djeluju usklađeno kako bi stvorile pokrete koji djeluju koliko-toliko prirodno. U oči su joj ugrađene kamere opremljene tehnologijom prepoznavanja lica, pa tako ne samo zna s kime razgovara već može očitati i reakcije na svoje izjave. 

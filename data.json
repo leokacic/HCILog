@@ -1,273 +1,412 @@
 {
-    "NOVOSTI":{
-        "news" : [
+    "NASLOVNICA": {
+        "main": {
+            "glavnaVijest": [
                 {
-                "id": 1,
-                "url":"dalmacija",
-                "title": "BIT CE HLADNIJE",
-                "text": "Dalmaciju danas očekuju jugo i pljuskovi praćeni grmljavinom, a sljedeći tjedan stiže jaka i olujna bura",
-                "zanr":"dalmacija",
-                "vrijeme":" 05.01.2018. | 12:52",
-                "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-            
-            },{
-                "id": 2,
-                "url":"sport",
-                "title": "REZULTAT 2:1",
-                "text": "Dobra uvertira za United: City opet do spasa u zadnjih 10 min",
-                "zanr":"sport",
-                "vrijeme":" 05.01.2018. | 12:52",
-                "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-            },{
-                "id": 3,
-                "url":"scena",
-                "title": "BRAVO ZA IVANA",
-                "text":"Ivan Šarić zaradio ovacije u rasprodanom Lisinskom!",
-                "zanr":"scena",
-                "vrijeme":" 05.01.2018. | 12:52",
-                "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-            },{
-                "id": 4,
-                "url":"stil",
-                "title": "NAJLJEPŠE DOBA GODINE",
-                "text": "Svaka svijeća na adventskom vijencu ima značenje",
-                "zanr":"stil",
-                "vrijeme":" 05.01.2018. | 12:52",
-                "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."    
-            }
-        ],
-    
-        "mainNewsA": [
-            {
-                "id": "A",
-                "url":"prva",
-                "title": "zabrana uskoro",
-                "text": "Grci na nogama: 'EU nam želi zabraniti tradicionalni gyros'",
-                "zanr":"novosti",
-                "vrijeme":" 05.01.2018. | 12:52",
-                "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-            }
-        ],
-    
-        "mainNewsB": [
-            {
-                "id": "B",
-                "url":"druga",
-                "title": "počela zima",
-                "text": "Zimske radosti' stigle u Dalmaciju: na Braču pao snijeg",
-                "zanr":"dalmacija",
-                "vrijeme":" 05.01.2018. | 12:52",
-                "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-            }
-        ]
-    },
-
-    "SPORT":{
-        "news" : [
+                    "id": 1,
+                    "src": "Slonovi",
+                    "alt": "Slonovi",
+                    "naslov": "Slonovi",
+                    "tekst": "Veličanstvene slike svjetski poznatih fotografa prirode ",
+                    "zanr": "zivotinje"
+                }
+            ],
+            "sporedneVijesti": [
                 {
-                "id": 1,
-                "url":"1-sport",
-                "title": "čarolija",
-                "text": "Barcelona razbila Reala i riješila prvenstvo, Rakitić odličan, Kovačić među slabijima",
-                "zanr":"sport",
-                "vrijeme":" 05.01.2018. | 12:52",
-                "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-            
-            },{
-                "id": 2,
-                "url":"2-sport",
-                "title": "uoči el clasica",
-                "text": "Španjolci izabrali Luku Modrića u najboljih 11 Real Madrida svih vremena!",
-                "zanr":"sport",
-                "vrijeme":" 05.01.2018. | 12:52",
-                "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-            },{
-                "id": 3,
-                "url":"3-sport",
-                "title": "PRVENSTVO JE SVE BLIŽE",
-                "text":"Červar zadovoljan prvim dijelom priprema: Puno se trenira, ali momci se ne žale",
-                "zanr":"sport",
-                "vrijeme":" 05.01.2018. | 12:52",
-                "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-            },{
-                "id": 4,
-                "url":"4-sport",
-                "title": "NAJLJEPŠE GODINE",
-                "text": "Veterani Splita i Trogira odigrali humanitarnu utakmicu u Parku mladeži",
-                "zanr":"sport",
-                "vrijeme":" 05.01.2018. | 12:52",
-                "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."     
-            }
-        ],
-    
-        "mainNewsA": [
-            {
-                "id": "A",
-                "url":"prva-sport",
-                "title": "nakon teškog poraza",
-                "text": "Kovačić: Ovo su teški trenuci koje moramo nadići",
-                "zanr":"sport",
-                "vrijeme":" 05.01.2018. | 12:52",
-                "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-            }
-        ],
-    
-        "mainNewsB": [
-            {
-                "id": "B",
-                "url":"druga-sport",
-                "title": "čarolija",
-                "text": "Pogledajte prekrasnu akciju Barcelone kojom su načeli Real!",
-                "zanr":"sport",
-                "vrijeme":" 05.01.2018. | 12:52",
-                "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-            }
-        ]
-    },
-
-
-    "najkomentiranije" : [
-            {
-            "id": 1,
-            "url":"5",
-            "title": "BIT CE HLADNIJE",
-            "text": "Najljepše lokacije svijeta nalaze se u Europi pa ih je potrebno pogledati",
-            "zanr":"scena",
-            "vrijeme":" 05.01.2018. | 12:52",
-            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        
-            },{
-            "id": 2,
-            "url":"2",
-            "title": "REZULTAT 2:1",
-            "text": "Sjajna pobjeda naših rukometaša nad Norveškom! Još samo Francuska!",
-            "zanr":"sport",
-            "vrijeme":" 05.01.2018. | 12:52",
-            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },{
-            "id": 3,
-            "url":"3",
-            "title": "BRAVO ZA IVANA",
-            "text":"Ova ptica može govoriti a uz to je jedna od najljepših na svijetu",
-            "zanr":"scena",
-            "vrijeme":" 05.01.2018. | 12:52",
-            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },{
-            "id": 4,
-            "url":"4",
-            "title": "NAJLJEPŠE DOBA GODINE",
-            "text": "Svaka svijeća na adventskom vijencu ima značenje",
-            "zanr":"stil",
-            "vrijeme":" 05.01.2018. | 12:52",
-            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."    
+                    "id": 1,
+                    "src": "Tesla",
+                    "alt": "Tesla",
+                    "naslov": "Nikola Tesla",
+                    "tekst": "Priče iz života velikog izumitelja iz Hrvatske",
+                    "zanr": "kultura"
+                },
+                {
+                    "id": 2,
+                    "src": "Mars1",
+                    "alt": "Mars",
+                    "naslov": "Život na Marsu",
+                    "tekst": "Slana voda na Marsu možda sadržava život kao i na Zemlji",
+                    "zanr": "zanimljivosti"
+                },
+                {
+                    "id": 3,
+                    "src": "SophieProfil",
+                    "alt": "SophieProfil",
+                    "naslov": "Robot Sophie",
+                    "tekst": "Robot Sophie koji zaprepaštavajuće sliči na ljude",
+                    "zanr": "kultura"
+                }
+            ]
         },
-        {
-            "id": 5,
-            "url":"5",
-            "title": "BIT CE HLADNIJE",
-            "text": "Dalmaciju danas očekuju jugo i pljuskovi praćeni grmljavinom, a sljedeći tjedan stiže jaka i olujna bura",
-            "zanr":"dalmacija",
-            "vrijeme":" 05.01.2018. | 12:52",
-            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        
-            },{
-            "id": 6,
-            "url":"1",
-            "title": "REZULTAT 2:1",
-            "text": "Dobra uvertira za United: City opet do spasa u zadnjih 10 min",
-            "zanr":"sport",
-            "vrijeme":" 05.01.2018. | 12:52",
-            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },{
-            "id": 7,
-            "url":"2",
-            "title": "BRAVO ZA IVANA",
-            "text":"Ivan Šarić zaradio ovacije u rasprodanom Lisinskom!",
-            "zanr":"scena",
-            "vrijeme":" 05.01.2018. | 12:52",
-            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },{
-            "id": 8,
-            "url":"3",
-            "title": "NAJLJEPŠE DOBA GODINE",
-            "text": "Svaka svijeća na adventskom vijencu ima značenje",
-            "zanr":"stil",
-            "vrijeme":" 05.01.2018. | 12:52",
-            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."    
-        }
-    ],
-
-    "najčitanije" : [
-        {
-            "id": 1,
-            "url":"dalmacija",
-            "title": "BIT CE HLADNIJE",
-            "text": "Dalmaciju danas očekuju jugo i pljuskovi praćeni grmljavinom, a sljedeći tjedan stiže jaka i olujna bura",
-            "zanr":"dalmacija",
-            "vrijeme":" 05.01.2018. | 12:52",
-            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        
-        },{
-            "id": 2,
-            "url":"sport",
-            "title": "REZULTAT 2:1",
-            "text": "Dobra uvertira za United: City opet do spasa u zadnjih 10 min",
-            "zanr":"sport",
-            "vrijeme":" 05.01.2018. | 12:52",
-            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },{
-            "id": 3,
-            "url":"scena",
-            "title": "BRAVO ZA IVANA",
-            "text":"Ivan Šarić zaradio ovacije u rasprodanom Lisinskom!",
-            "zanr":"scena",
-            "vrijeme":" 05.01.2018. | 12:52",
-            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },{
-            "id": 4,
-            "url":"stil",
-            "title": "NAJLJEPŠE DOBA GODINE",
-            "text": "Svaka svijeća na adventskom vijencu ima značenje",
-            "zanr":"stil",
-            "vrijeme":" 05.01.2018. | 12:52",
-            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."    
-        }
-    ],
-
-    "najnovije" : [
+        "aside": [
             {
-            "id": 1,
-            "url":"sport",
-            "title": "BIT CE HLADNIJE",
-            "text": "Dalmaciju danas očekuju jugo i pljuskovi praćeni grmljavinom, a sljedeći tjedan stiže jaka i olujna bura",
-            "zanr":"dalmacija",
-            "vrijeme":" 05.01.2018. | 12:52",
-            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        
-        },{
-            "id": 2,
-            "url":"sport",
-            "title": "REZULTAT 2:1",
-            "text": "Dobra uvertira za United: City opet do spasa u zadnjih 10 min",
-            "zanr":"sport",
-            "vrijeme":" 05.01.2018. | 12:52",
-            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },{
-            "id": 3,
-            "url":"scena",
-            "title": "BRAVO ZA IVANA",
-            "text":"Ivan Šarić zaradio ovacije u rasprodanom Lisinskom!",
-            "zanr":"scena",
-            "vrijeme":" 05.01.2018. | 12:52",
-            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },{
-            "id": 4,
-            "url":"stil",
-            "title": "NAJLJEPŠE DOBA GODINE",
-            "text": "Svaka svijeća na adventskom vijencu ima značenje",
-            "zanr":"stil",
-            "vrijeme":" 05.01.2018. | 12:52",
-            "opširno": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."    
-        }
-    ]
+                "id": 1,
+                "src": "UkletaKuca",
+                "alt": "Ukleta Kuca",
+                "naslov": "Putovanje",
+                "tekst": "Istražite najukletija mjesta u Americi",
+                "zanr": "naslovna"
+            },
+            {
+                "id": 2,
+                "src": "Obala",
+                "alt": "Obala",
+                "naslov": "Putovanje",
+                "tekst": "Zašto ne postoje solarni brodovi?",
+                "zanr": "naslovna"
+            },
+            {
+                "id": 3,
+                "src": "Casablanca",
+                "alt": "Casablanca",
+                "naslov": "Zanimljivosti",
+                "tekst": "Iznenađujuće slike stvarnog života na Casablanci",
+                "zanr": "naslovna"
+            },
+            {
+                "id": 4,
+                "src": "Happy",
+                "alt": "Happy woman",
+                "naslov": "Zanimljivosti",
+                "tekst": "Cherophobia je strah od sreće i zabave",
+                "zanr": "naslovna"
+            },
+            {
+                "id": 5,
+                "src": "Riba",
+                "alt": "Riba",
+                "naslov": "Životinje",
+                "tekst": "Jaka plima nasukala drevnu ribu na kopno",
+                "zanr": "naslovna"
+            }
+        ]
+    },
+    "KULTURA": {
+        "main": {
+            "glavnaVijest": [
+                {
+                    "id": 1,
+                    "src": "africatown",
+                    "alt": "africatown",
+                    "naslov": "Africatown, Alabama",
+                    "tekst": "Njihovi preci su preživjeli ropstvo. Mogu li njihova djeca spasiti grad.",
+                    "zanr": "kultura"
+                }
+            ],
+            "sporedneVijesti": [
+                {
+                    "id": 1,
+                    "src": "Karavan",
+                    "alt": "Karavan",
+                    "naslov": "Migracije",
+                    "tekst": "Pogledajte kako je bilo šetati migrantskim karavanom po Srednjoj Americi",
+                    "zanr": "kultura"
+                },
+                {
+                    "id": 2,
+                    "src": "Koralj",
+                    "alt": "Koralj",
+                    "naslov": "Filipinski koralji",
+                    "tekst": "Kako su Filipinski koralji uspjeli opstati.",
+                    "zanr": "kultura"
+                },
+                {
+                    "id": 3,
+                    "src": "Delta",
+                    "alt": "Delta",
+                    "naslov": "Misija",
+                    "tekst": "Misija spašavanja Afričke delte rijeke Okavango",
+                    "zanr": "kultura"
+                }
+            ]
+        },
+        "aside": [
+            {
+                "id": 1,
+                "src": "Spilja",
+                "alt": "Spilja",
+                "naslov": "Špilja",
+                "tekst": "Jedna od najdubljih špilja na svijetu možda je dublja nego što se prije mislilo.",
+                "zanr": "kultura"
+            },
+            {
+                "id": 2,
+                "src": "Karibi",
+                "alt": "Karibi",
+                "naslov": "Karneval",
+                "tekst": "Slike šarolikog karnevala na Karibima",
+                "zanr": "kultura"
+            },
+            {
+                "id": 3,
+                "src": "Bitka",
+                "alt": "Bitka",
+                "naslov": "El Salvador",
+                "tekst": "Borba u El Salvadoru protiv nasilja, siromaštva i politike Amerike.",
+                "zanr": "kultura"
+            },
+            {
+                "id": 4,
+                "src": "Kleopatra",
+                "alt": "Kleopatra",
+                "naslov": "Afera",
+                "tekst": "Sve o poznatoj aferi Kleopatre i Marka Antonija",
+                "zanr": "kultura"
+            },
+            {
+                "id": 5,
+                "src": "Devet",
+                "alt": "Devet",
+                "naslov": "Devet žena",
+                "tekst": "Priča o 9 žena koje svakodnevno pomiču granice",
+                "zanr": "kultura"
+            }
+        ]
+    },
+    "ZIVOTINJE": {
+        "main": {
+            "glavnaVijest": [
+                {
+                    "id": 1,
+                    "src": "Leopard",
+                    "alt": "Leopard",
+                    "naslov": "Crni Leopard",
+                    "tekst": "Crni leopard potvrđen u Africi prvi put nakon 100 godina.",
+                    "zanr": "zivotinje"
+                }
+            ],
+            "sporedneVijesti": [
+                {
+                    "id": 1,
+                    "src": "Leptir",
+                    "alt": "Leptir",
+                    "naslov": "Pad populacije",
+                    "tekst": "Zašto broj insekata opada i zašto nam je to bitno?",
+                    "zanr": "zivotinje"
+                },
+                {
+                    "id": 2,
+                    "src": "Pas",
+                    "alt": "Pas",
+                    "naslov": "Psi",
+                    "tekst": "Zašto su psi tako sretni znanost napokon ima odgovor",
+                    "zanr": "zivotinje"
+                },
+                {
+                    "id": 3,
+                    "src": "Vuk",
+                    "alt": "Vuk",
+                    "naslov": "Vukovi",
+                    "tekst": "Vukovi mogu izdržati tjedan dana bez jedenja",
+                    "zanr": "zivotinje"
+                }
+            ]
+        },
+        "aside": [
+            {
+                "id": 1,
+                "src": "Pangolin",
+                "alt": "Pangolin",
+                "naslov": "Pangolin",
+                "tekst": "Ove životinje su istinski jedinstvene",
+                "zanr": "zivotinje"
+            },
+            {
+                "id": 2,
+                "src": "Zmija",
+                "alt": "Zmija",
+                "naslov": "Zmije",
+                "tekst": "Morske zmije okružene slanom vodom nikad nisu žedne",
+                "zanr": "zivotinje"
+            },
+            {
+                "id": 3,
+                "src": "Koala",
+                "alt": "Koala",
+                "naslov": "Migracije koala",
+                "tekst": "Koale se često vraćaju na stabla koja smatraju svojim teritorijem",
+                "zanr": "zivotinje"
+            },
+            {
+                "id": 4,
+                "src": "Polarni",
+                "alt": "Polarni",
+                "naslov": "Krzno polarnih medvjeda",
+                "tekst": "Ispod svojeg bijelog krzna polarni medvjedi imaju crnu kožu",
+                "zanr": "zivotinje"
+            },
+            {
+                "id": 5,
+                "src": "Lisica",
+                "alt": "Lisica",
+                "naslov": "Lisice",
+                "tekst": "Lisice komuniciraju s drugim lisicama pomoću svog repa",
+                "zanr": "zivotinje"
+            }
+        ]
+    },
+    "PUTOVANJA": {
+        "main": {
+            "glavnaVijest": [
+                {
+                    "id": 1,
+                    "src": "Iceland",
+                    "alt": "Iceland",
+                    "naslov": "Island i Grenland",
+                    "tekst": "Pustolovina preko divljeg zapada Islanda i Istočnog grenlanda.",
+                    "zanr": "putovanja"
+                }
+            ],
+            "sporedneVijesti": [
+                {
+                    "id": 1,
+                    "src": "Galapagos",
+                    "alt": "Galapagos",
+                    "naslov": "Galapagos",
+                    "tekst": "Istražite ljepote ovog prekrasnog arhipelaga ",
+                    "zanr": "putovanja"
+                },
+                {
+                    "id": 2,
+                    "src": "Portugal",
+                    "alt": "Portugal",
+                    "naslov": "Portugal",
+                    "tekst": "Krstarenje na rijeci Douro sve do srca Portugala",
+                    "zanr": "putovanja"
+                },
+                {
+                    "id": 3,
+                    "src": "Vlak",
+                    "alt": "Vlak",
+                    "naslov": "Švicarski vlakovi",
+                    "tekst": "Putujte duž tri ikonske željeznice i ukrcajte se na pa brod duž rijeke Como.",
+                    "zanr": "putovanja"
+                }
+            ]
+        },
+        "aside": [
+            {
+                "id": 1,
+                "src": "Fjord",
+                "alt": "Fjord",
+                "naslov": "Norveška i Škotska",
+                "tekst": "Istraživanje norveških fjordova i škotskih otočja",
+                "zanr": "putovanja"
+            },
+            {
+                "id": 2,
+                "src": "Bering",
+                "alt": "Bering",
+                "naslov": "Pacifički krug",
+                "tekst": "Preko Beringovog mora: Od Katmai-a do Kamchata-e",
+                "zanr": "putovanja"
+            },
+            {
+                "id": 3,
+                "src": "Oktoberfest",
+                "alt": "Oktoberfest",
+                "naslov": "Oktoberfest",
+                "tekst": "Posjetite poznati Njemački festival Oktoberfest",
+                "zanr": "putovanja"
+            },
+            {
+                "id": 4,
+                "src": "Norway",
+                "alt": "Norway",
+                "naslov": "Norveška",
+                "tekst": "Istraživanje čudesnih obala Norveške",
+                "zanr": "putovanja"
+            },
+            {
+                "id": 5,
+                "src": "Miami",
+                "alt": "Miami",
+                "naslov": "Miami",
+                "tekst": "Prekrasne plaže i užurbani život u Americi",
+                "zanr": "putovanja"
+            }
+        ]
+    },
+    "ZANIMLJIVOSTI": {
+        "main": {
+            "glavnaVijest": [
+                {
+                    "id": 1,
+                    "src": "Afg",
+                    "alt": "Afganistan",
+                    "naslov": "Afganistan",
+                    "tekst": "Čudesne slike Afganistana 1960-ih godina",
+                    "zanr": "zanimljivosti"
+                }
+            ],
+            "sporedneVijesti": [
+                {
+                    "id": 1,
+                    "src": "Daleko",
+                    "alt": "Daleko",
+                    "naslov": "Daleka mjesta",
+                    "tekst": "Pogledajte najudaljenija mjesta na svijetu",
+                    "zanr": "zanimljivosti"
+                },
+                {
+                    "id": 2,
+                    "src": "Grom",
+                    "alt": "Grom",
+                    "naslov": "Čudesno",
+                    "tekst": "Slike nevjerojatnih prirodnih fenomena",
+                    "zanr": "zanimljivosti"
+                },
+                {
+                    "id": 3,
+                    "src": "Mlada",
+                    "alt": "Mlada",
+                    "naslov": "Zanimljivo",
+                    "tekst": "Začuđujući korijeni Engleskih idioma",
+                    "zanr": "zanimljivosti"
+                }
+            ]
+        },
+        "aside": [
+            {
+                "id": 1,
+                "src": "Oci",
+                "alt": "Oci",
+                "naslov": "Ljudi",
+                "tekst": "KULTURA danas očekuju jugo i pljuskovi praćeni grmljavinom, a sljedeći tjedan stiže jaka i olujna bura",
+                "zanr": "zanimljivosti"
+            },
+            {
+                "id": 2,
+                "src": "Gas",
+                "alt": "Gas",
+                "naslov": "Jezivo",
+                "tekst": "Jezivi grad u kojem svi stanovnici nose gas maske",
+                "zanr": "zanimljivosti"
+            },
+            {
+                "id": 3,
+                "src": "Future",
+                "alt": "Future",
+                "naslov": "Budućnost",
+                "tekst": "Kako je budućnost izgledala 1960.",
+                "zanr": "zanimljivosti"
+            },
+            {
+                "id": 4,
+                "src": "Pozdrav",
+                "alt": "Pozdrav",
+                "naslov": "Sam protiv svih",
+                "tekst": "Priča o čovjeku koji je odbio salutirati Hitleru",
+                "zanr": "zanimljivosti"
+            },
+            {
+                "id": 5,
+                "src": "Stabla",
+                "alt": "Stabla",
+                "naslov": "Čudesna stabla",
+                "tekst": "Čudesna i raznovrsna stabla svijeta",
+                "zanr": "zanimljivosti"
+            }
+        ]
+    }
 }

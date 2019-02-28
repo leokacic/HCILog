@@ -1,84 +1,48 @@
-import React from "react";
+import React, { Component } from 'react';
 import styles from "./styles.module.css";
-import Data from '../../../data.json';
-import Casablanca from "../../images/Casablanca.jpg";
-import Obala from "../../images/Obala.jpg";
-import UkletaKuca from "../../images/UkletaKuca.jpg";
-import Android from "../../images/Android.jpg";
+import cn from "classnames";
 
-class Aside extends React.Component{
+class Aside extends Component{
   constructor(props) {
       super(props);
       this.state = {
-        vijesti: Data.NOVOSTI.news, //radi ostalih vijesti unutar jedne vijesti
-        search: '',
-        postojiVijest: true
-      };
+        vijesti: props.data
+      }
   }
-  render(){
 
+  render() {
+    const asideFiltered = this.state.vijesti.filter(element => element.id <= 5)
+    const zanrGlobalni = this.state.vijesti[0].zanr;
+
+    const _aside = asideFiltered.map(element => {
+    const image = element.src;
+    //className={cn(styles.Oznaka, styles[zanr])}
     return (
-    <aside className={styles.Aside}>
-    <h2>Najnovije</h2>
-    <div className={styles.asideContent}>
-      <div className={styles.card}>
-        <div>
-          <img
-            className={styles.SlikaNovosti}
-            src={Casablanca}
-            alt="Casablanca"
-          />
-        </div>
-        <div className={styles.TekstNovosti}>
-          <div className={styles.Oznaka}><h3>Vijest:</h3> </div> 
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-        </div>
+            <div className={styles.card}  key={element.id}>
+              <div className={styles.slika}>
+                <img
+                  className={styles.SlikaNovosti}
+                  src={require('../../images/' + image + '.jpg')}
+                  alt={element.alt}
+                />
+              </div>
+              <div className={styles.TekstNovosti}>
+                <div ><h3>{element.naslov}</h3> </div> 
+                <p>{element.tekst}</p>
+              </div>
+            </div>
+        )
+    });
+    return (
+      <aside className={cn(styles.Aside, styles[zanrGlobalni])}>
+      <h2 className={styles.naj}>Najnovije</h2>
+      <div className={styles.asideContent}>
+        {_aside}
       </div>
-      <div className={styles.card}>
-        <div>
-          <img className={styles.SlikaNovosti} src={Obala} alt="Casablanca" />
-        </div>
-        <div className={styles.TekstNovosti}>
-        <div className={styles.Oznaka}><h3>Vijest:</h3> </div> 
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-        </div>
-      </div>
-      <div className={styles.card}>
-        <div>
-          <img
-            className={styles.SlikaNovosti}
-            src={UkletaKuca}
-            alt="Casablanca"
-          />
-        </div>
-        <div className={styles.TekstNovosti}>
-        <div className={styles.Oznaka}><h3>Vijest:</h3> </div> 
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-        </div>
-      </div>
-      <div className={styles.card}>
-        <div>
-          <img className={styles.SlikaNovosti} src={Android} alt="Casablanca" />
-        </div>
-        <div className={styles.TekstNovosti}>
-        <div className={styles.Oznaka}><h3>Vijest:</h3> </div> 
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-        </div>
-      </div>
-      <div className={styles.card}>
-        <div>
-          <img className={styles.SlikaNovosti} src={Android} alt="Casablanca" />
-        </div>
-        <div className={styles.TekstNovosti}>
-        <div className={styles.Oznaka}><h3>Vijest:</h3> </div> 
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-        </div>
-      </div>
-    </div>
-  </aside>
+      </aside>
     );
-  }  
+  }
+  
 }
 
 export default Aside;
-

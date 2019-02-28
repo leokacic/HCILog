@@ -1,5 +1,6 @@
 .Header {
-  grid-area: header;  background-color: #000000;
+  grid-area: header;  
+  background-color: black;
   height: 60px;
 }
 
@@ -15,6 +16,13 @@
 }
 
 .Logo {
+  margin-top: 10px;
+  margin-left: 10px;
+  font-size: 23px;
+  color: var(--color-gold, orange);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.kratkilogo {
   margin-top: 10px;
   margin-left: 10px;
   font-size: 23px;
@@ -85,10 +93,10 @@
 .NavLink:nth-child(1):hover {
   color: var(--color-gold, orange);
   border-bottom: 3px solid var(--color-gold, orange);
+  
 }
 
 .NavLink:nth-child(2):hover {
-  color: blue;
   border-bottom: 3px solid blue;
 }
 
@@ -115,51 +123,74 @@
 .NavLink__active:nth-child(1) {
   color: orange;
   border-bottom: 3px solid orange;
+  background: #4a3103;
 }
 
 .NavLink__active:nth-child(2) {
-  color: blue;
   border-bottom: 3px solid blue;
+  background: #173bb1;
 }
 
 .NavLink__active:nth-child(3) {
   color: yellow;
   border-bottom: 3px solid yellow;
+  background: #41450b;
 }
 
 .NavLink__active:nth-child(4) {
   color: red;
   border-bottom: 3px solid red;
+  background: #6c0f0f;
 }
 
 .NavLink__active:nth-child(5) {
   color: green;
   border-bottom: 3px solid green;
+  background: #062a06;
 }
 
 .NavLink__active:nth-child(6) {
   color: lightblue;
   border-bottom: 3px solid lightblue;
+  background: rgba(204, 204, 245, 0.685);
 }
+
 @supports (display: grid) {
   @media screen and (max-width: 450px) {
     /*za mobitele */
-    .Logo {
-      display: none;
-    }
+
     .Img {
-      width: 45%;
-      height: 50%;
+      width: 20%;
+      height: 100%;
     }
     .Nav{
       display: none;
     }
   }
 }
-@media screen and (min-width: 400px) and (max-width: 700px) {
+@media screen and (min-width: 400px) and (max-width: 800px) {
   /*za tablete */
   .Logo{
-    font-size: 18px;
+    font-size: 15px;
+  }
+  .Img {
+    width: 20%;
+    height: 100%;
   }
 }
+@media screen and (min-width: 290px) and (max-width: 2000px) {
+  .kratkilogo{
+    display: none;
+  }
+}
+@media screen and (max-width: 290px) {
+  .Logo{
+    display: none;
+  }
 
+}
+@media screen and (min-width: 600px) and (max-width: 2000px) {
+.headerLeft{
+  width: 180px;
+  }
+}
